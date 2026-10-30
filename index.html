@@ -28,6 +28,8 @@
     .merk strong { display: block; font-size: 1.6rem; line-height: 1.2; }
     .merk.later { border-style: dashed; color: var(--zacht); }
     .merk.later small::after { content: " · binnenkort"; }
+    .merk { position: relative; }
+    .preview { position: absolute; top: 10px; right: 10px; font-size: .7rem; line-height: 1; padding: 4px 6px; border: 1px solid currentColor; text-transform: uppercase; letter-spacing: .05em; }
     footer { text-align: center; font-size: .85rem; color: var(--zacht); margin-top: 2.5rem; }
   </style>
 </head>
@@ -36,8 +38,8 @@
     <h1>VZW PEAPICKERS</h1>
     <ul class="merken">
       <li><a class="merk" href="https://peapickers.github.io/peapickersarchief/"><small>peapicker's</small><strong>Archive</strong></a></li>
-      <li><a class="merk" href="https://peapickers.github.io/printshoppeapickers/"><small>peapicker's</small><strong>Printshop</strong></a></li>
-      <li><a class="merk" href="https://peapickers.github.io/postershoppeapickers/"><small>peapicker's</small><strong>Postershop</strong></a></li>
+      <li><a class="merk" href="https://peapickers.github.io/printshoppeapickers/"><small>peapicker's</small><strong>Printshop</strong><span class="preview">preview bekijkbaar</span></a></li>
+      <li><a class="merk" href="https://peapickers.github.io/postershoppeapickers/"><small>peapicker's</small><strong>Postershop</strong><span class="preview">preview bekijkbaar</span></a></li>
       <li><div class="merk later"><small>peapicker's</small><strong>Fiscaliteit</strong></div></li>
     </ul>
     <footer>vzw peapickers · Gent</footer>
