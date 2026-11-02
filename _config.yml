@@ -1,5 +1,5 @@
 # Jekyll zet de Markdown-pagina's in projecten/ om naar HTML.
-# index.html heeft geen front matter en blijft ongewijzigd.
+# index.html heeft geen front matter en wordt niet door Jekyll bewerkt.
 title: peapickers
 lang: nl
 markdown: kramdown
