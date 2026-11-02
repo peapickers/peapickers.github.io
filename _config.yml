@@ -1,0 +1,18 @@
+# Jekyll zet de Markdown-pagina's in projecten/ om naar HTML.
+# index.html heeft geen front matter en blijft ongewijzigd.
+title: peapickers
+lang: nl
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-optional-front-matter
+defaults:
+  - scope:
+      path: "projecten"
+    values:
+      layout: project
+exclude:
+  - README.md
+  - AGENTS.md
+  - CLAUDE.md
