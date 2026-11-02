@@ -9,6 +9,12 @@ Site: <https://peapickers.github.io/postershoppeapickers/> · Repo: [peapickers/
 
 ## Kern
 
+### 2026-11-02 · Kern · Oplage
+
+- Per kunstenaar 3 tot 5 werken in de Postershop.
+- Per werk 1 tot 3 afdrukken.
+- Elke afdruk wordt genummerd en gesigneerd door de kunstenaar.
+
 ### 2026-11-02 · Kern · Stand van zaken
 
 - "Licensed reproductions": elke poster is een archiefstuk uit het Archief.
