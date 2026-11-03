@@ -7,6 +7,13 @@ Elk merk van peapickers heeft hier één pagina: [Archief](archief.html), [Print
 
 ## Regels (archiefvorming)
 
+### 2026-11-03 · Technieker · Pagina's per project
+
+- Naast de merkpagina's is er nu één pagina per Claude-project: [Boekhouder](boekhouder.html), [Marketing](marketing.html), [Techniek](techniek.html) en [Jurist](jurist.html).
+- Een feit over één merk komt op de merkpagina, in de sectie van die rol. Een feit over het werk van het project zelf komt op de projectpagina.
+- Marketing en Jurist hebben nog geen sectie op de merkpagina's. Hebben ze een feit over één merk, dan voegen ze onderaan die merkpagina een sectie `## Marketing` of `## Jurist` toe.
+- Alle regels hieronder gelden ook voor de projectpagina's.
+
 ### 2026-11-02 · Technieker · Eerste versie
 
 1. **Nooit verwijderen of overschrijven.** Ook een fout blijft staan. Je verbetert ze met een nieuw item.
@@ -20,6 +27,27 @@ Elk merk van peapickers heeft hier één pagina: [Archief](archief.html), [Print
 Git bewaart daarnaast elke versie, met datum.
 
 ## Instructietekst voor elk Claude-project
+
+### 2026-11-03 · Technieker · Projecten per rol
+
+Voor de projecten Boekhouder, Marketing, Techniek en Jurist. Vervang `<project>` door `boekhouder`, `marketing`, `techniek` of `jurist`. Elk project moet de repo peapickers/peapickers.github.io gekoppeld hebben in de projectinstellingen.
+
+```text
+Gedeelde bron peapickers
+
+De gedeelde informatie over dit project staat in de repo peapickers/peapickers.github.io, in projecten/<project>.md. De regels staan in projecten/werkwijze.md. De merkpagina's staan in projecten/archief.md, printshop.md, postershop.md en feed.md. Online: https://peapickers.github.io/projecten/<project>.html
+
+Lees projecten/<project>.md en projecten/werkwijze.md aan het begin van elke taak, en de merkpagina's die over je taak gaan. Wat je het laatst gelezen hebt, is de stand van zaken.
+
+Werk volgens archiefvorming:
+- Verwijder of overschrijf nooit bestaande informatie, ook geen fouten.
+- Voeg elk nieuw feit toe als nieuw item, bovenaan in de juiste sectie: ### JJJJ-MM-DD · Rol · korte titel
+- Over één merk: op de merkpagina, in de sectie van je rol. Over het werk van dit project: op projecten/<project>.md. Over alle merken: werkwijze.md.
+- Het nieuwste item geldt. Spreekt het een ouder item tegen, schrijf dan: Vervangt: JJJJ-MM-DD.
+- Vat samen en verwijs. Cijfers en instellingen blijven in hun eigen bestand.
+- Zet nooit klantgegevens, gegevens van makers, geheimen, wachtwoorden, offertes of privébedragen in de repo. Ze is publiek.
+- Een push naar main staat meteen online. Commitbericht: "Projectpagina <project>: wat er veranderde".
+```
 
 ### 2026-11-02 · Technieker · Eerste versie
 
