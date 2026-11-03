@@ -23,6 +23,7 @@ Vervangt: 2026-11-03 (Waar het werk staat)
 
 - Op vraag van Jonas staan de documenten voor de boekhouder nu openbaar op deze site, als momentopname van 2026-11-03:
   - [Dossier voor de boekhouder](boekhouder/dossier-voor-de-boekhouder.html): index, kosten, verplichtingen en de vragen die nog open zijn.
+  - [Stappenplan van de workflow, versie 4](jurist/stappenplan-workflow-extended-v4.html), op de pagina [Jurist](jurist.html): met de workflow voor de roerende voorheffing (fase 5).
   - [Prijsaanvraag boekhouder](boekhouder/prijsaanvraag-boekhouder-vzw-peapickers.html): de vraag aan lokale boekhouders voor een prijsvoorstel.
 - De levende versies blijven in het Claude-project. Komt er een nieuwe versie, dan komt die hier als nieuw bestand, met een nieuw item.
 

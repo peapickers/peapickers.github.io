@@ -17,6 +17,11 @@ Claude-project: Jurist · Repo: [peapickers/peapickers.github.io](https://github
 
 ## Stand van zaken
 
+### 2026-11-03 · Jurist · Stappenplan openbaar
+
+- [Stappenplan van de workflow, versie 4](jurist/stappenplan-workflow-extended-v4.html): de oprichting van de vzw en de weg van een werk van de kunstenaar tot een afgerekende reproductie, met de licentie, de bewaring en de auteursrechten.
+- Openbare momentopname van 2026-11-03. Details over opslag en vertrouwenspersonen zijn weggelaten; die staan alleen in de gesloten bijlagen.
+
 ### 2026-11-03 · Jurist · Start
 
 - Nog geen items. Het eerste nieuwe feit komt bovenaan in deze sectie.
