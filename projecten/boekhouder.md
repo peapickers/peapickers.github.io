@@ -17,6 +17,15 @@ Claude-project: Boekhouder · Repo: [peapickers/peapickers.github.io](https://gi
 
 ## Stand van zaken
 
+### 2026-11-03 · Boekhouder · Documenten voor de boekhouder openbaar
+
+Vervangt: 2026-11-03 (Waar het werk staat)
+
+- Op vraag van Jonas staan de documenten voor de boekhouder nu openbaar op deze site, als momentopname van 2026-11-03:
+  - [Dossier voor de boekhouder](boekhouder/dossier-voor-de-boekhouder.html): index, kosten, verplichtingen en de vragen die nog open zijn.
+  - [Prijsaanvraag boekhouder](boekhouder/prijsaanvraag-boekhouder-vzw-peapickers.html): de vraag aan lokale boekhouders voor een prijsvoorstel.
+- De levende versies blijven in het Claude-project. Komt er een nieuwe versie, dan komt die hier als nieuw bestand, met een nieuw item.
+
 ### 2026-11-03 · Boekhouder · Waar het werk staat
 
 - Werkdocumenten en offertes blijven in het Claude-project, niet in deze publieke repo.
