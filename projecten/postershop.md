@@ -9,6 +9,21 @@ Site: <https://peapickers.github.io/postershoppeapickers/> · Repo: [peapickers/
 
 ## Kern
 
+### 2026-11-03 · Kern · Geen kader of ophangsysteem
+
+Vervangt: 2026-11-03 (kader en latten in het dossier voor de boekhouder en in stappenplan v4)
+
+- Peapickers levert nooit een kader of ophangsysteem. Het idee van houten latten met touw is geschrapt.
+- Dat geldt ook voor wat er nog over kader en latten staat in het [dossier voor de boekhouder](boekhouder/dossier-voor-de-boekhouder.html) en in [stappenplan v4](jurist/stappenplan-workflow-extended-v4.html). Die momentopnames blijven ongewijzigd staan.
+
+### 2026-11-03 · Kern · Oplage per reproductievorm
+
+Vervangt: 2026-11-02 (Oplage), voor posters
+
+- Fine-art: per werk 1 tot 3 exemplaren, genummerd en gesigneerd.
+- Poster: print on demand met een vaste verkooptermijn, zonder beperking van de oplage.
+- Details: [dossier voor de boekhouder](boekhouder/dossier-voor-de-boekhouder.html), hoofdstuk 1 en 3.
+
 ### 2026-11-02 · Kern · Oplage
 
 - Per kunstenaar 3 tot 5 werken in de Postershop.
@@ -22,6 +37,13 @@ Site: <https://peapickers.github.io/postershoppeapickers/> · Repo: [peapickers/
 
 ## Boekhouder
 
+### 2026-11-03 · Boekhouder · M en betalen
+
+Vervangt: 2026-11-02 (Prijs en Public Ledger), voor M en de betaalwijze
+
+- M is alleen inkt en papier, op het grootste formaat. Misdruk en alle andere kosten komen uit de commissie van de vzw. Prijsmodel per reproductievorm: [dossier](boekhouder/dossier-voor-de-boekhouder.html), hoofdstuk 3.
+- Betalen met Bancontact of een gratis optie. Welke betaaldienst, ligt nog niet vast.
+
 ### 2026-11-02 · Boekhouder · Prijs en Public Ledger
 
 - Prijs = 7 × M. M is de materiaalkost plus 20% voor misdruk. De prijs wordt verdeeld in zeven delen.
@@ -30,6 +52,14 @@ Site: <https://peapickers.github.io/postershoppeapickers/> · Repo: [peapickers/
 - De Public Ledger staat in `_data/register.csv`. De bedragen daarin zijn nu nog fictief.
 
 ## Technieker
+
+### 2026-11-03 · Technieker · Wat de webshop moet krijgen
+
+- Per werk de keuze fine-art of poster, met de volledige prijsopbouw (materiaal, kunstenaar, vzw, afronding, verzending, btw).
+- Schuifregelaars voor de passe-partout, enkel bij fine-art.
+- Een filter voor naaktheid en een pagina "Meepikken?" met de curatielijn.
+- Geen keuze voor een kader of ophangsysteem.
+- Bron: [stappenplan v4](jurist/stappenplan-workflow-extended-v4.html), stap 1.6. De site zelf is nog niet aangepast.
 
 ### 2026-11-02 · Technieker · Opbouw
 
