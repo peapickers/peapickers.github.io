@@ -46,6 +46,8 @@ Vervangt: 2026-11-02 (Prijs en Public Ledger), voor wat de verdeling betreft.
 - Voorstel verzendschuif Gent: onder € 15 → € 3; € 15 tot 34,99 → € 1,50; vanaf € 35 of met wachtronde → gratis. Bpost-tarieven nog open.
 - Vaste kosten ongeveer € 2.500 per jaar en break-even (80 fine-art, 400 bundels, 300 losse posters) volgens het [dossier voor de boekhouder](boekhouder/dossier-voor-de-boekhouder.html); nog te controleren.
 - Financiering alleen met een renteloze lening van de oprichter, zonder vaste termijn, kwijt te schelden. Geen krediet. Printer, inkt en papier als gift.
+- Marketingbudget: ten hoogste € 50 per maand voor drukwerk en stalen, maandelijks gestort door de oprichter. De lening dekt de startkosten (ca. € 520 tot 920 zonder jurist) en de vaste kosten; nieuw materiaal en hardware blijven privé.
+- Scenario's op jaarbasis (gok): voorzichtig – € 1.204, verwacht + € 93, ambitieus + € 1.389 na vaste kosten in 2027.
 
 ### 2026-11-02 · Boekhouder · Prijs en Public Ledger
 
