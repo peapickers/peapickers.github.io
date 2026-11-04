@@ -17,6 +17,12 @@ Claude-project: Boekhouder · Repo: [peapickers/peapickers.github.io](https://gi
 
 ## Stand van zaken
 
+### 2026-11-04 · Boekhouder · Advies: een boekhouder kiezen
+
+- [Advies boekhouder kiezen](boekhouder/advies-boekhouder-kiezen.html): criteria (ITAA-erkenning eerst), vragen voor het kennismakingsgesprek, een vergelijkingstabel en 19 taken (B1 – B19) voor de todo-lijst.
+- Kern: kies de boekhouder vóór de statuten neergelegd worden.
+- Grootste gaten in het dossier: de btw-zin spreekt vraag 5 tegen (B1), er is geen startbudget voor een verliesjaar (B2), en de kosten van vóór de oprichting moeten overgenomen worden (B3).
+
 ### 2026-11-03 · Boekhouder · Documenten voor de boekhouder openbaar
 
 Vervangt: 2026-11-03 (Waar het werk staat)
