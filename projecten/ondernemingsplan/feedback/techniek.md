@@ -93,3 +93,31 @@ Samen ordegrootte **€ 300 tot 500 per jaar**, dus 10 tot 20 % bovenop de € 2
 1. **Kies in § 2.2 en § 5.1 tussen Snipcart + Mollie en overschrijving met EPC-QR, en schrijf de gevolgen uit:** wie welke klantgegevens heeft en hoe lang, de transactiekosten per poster (uit het deel van de vzw), en de prijsafronding (prijs incl. btw ingeven of niet afronden). Stem daarna PR #7 af op de leverregels van het plan (vaste € 3,50 en gratis ronde, of fietskost per km met terugstorting).
 2. **Neem een eigen domeinnaam en de webshopkosten op in § 9.4 en de technische risico's in § 12**, met de host als apart punt: bekijk vóór de lancering of GitHub Pages voor de webshop mag, en houd een alternatief klaar. De QR-codes uit § 6 wijzen enkel naar het eigen domein.
 3. **Vul de Public Ledger halfautomatisch:** een klein script zet de bestelexport van Snipcart (of het bankafschrift) om naar regels in `register.csv` met alleen datum, werkcode, formaat, aantal en bedragen, zonder naam, adres of rekeningnummer. Het script maakt een pull request; de oprichter of de boekhouder keurt elke batch goed vóór publicatie (per maand, en zeker vóór elke kwartaaluitbetaling). Hetzelfde mechanisme kan het aantal wachtenden voor de fietsronde bijwerken.
+
+## Actiepunten voor de compiler
+
+Elk punt hierboven als één taak, klaar om over te nemen in de todo-lijst. Prioriteit: **H** = vóór de webshop live gaat (maart 2027), **M** = vóór de eerste kwartaaluitbetaling (juli 2027), **L** = later. "Rol" is wie het punt beslist of uitvoert, geen persoon.
+
+| ID | § | Actie | Prio | Rol | Hangt af van |
+|---|---|---|---|---|---|
+| T01 | § 2.2, § 5.1 | Kiezen: Snipcart + Mollie of overschrijving met EPC-QR; § 2.2 punt 4 ("geen betaalprovider") daarop afstemmen | H | oprichter | — |
+| T02 | § 4, § 9.1 | Afronding kiezen: prijs incl. btw ingeven en afronding uit het vzw-deel, of niet afronden (€ 15,67 i.p.v. € 15,70); alle voorbeeldprijzen in het plan herrekenen | H | oprichter | T01 |
+| T03 | § 2.2, § 8.3 | Uitschrijven waar klantgegevens staan, wie erbij kan en hoe lang; privacyverklaring op de site; verwerkersovereenkomst per externe dienst | H | oprichter, jurist | T01 |
+| T04 | § 5.1 | Leverregels gelijktrekken met de site: vaste € 3,50 en gratis ronde (plan) of fietskost per km met terugstorting (postershop PR #7) | H | oprichter, technieker | — |
+| T05 | § 5.1 | Wachtronde-teller halfautomatisch bouwen (alleen een aantal en een sluitdatum, nooit gegevens) | M | technieker | T01, T04 |
+| T06 | § 5.1 | Bestelminimum € 20 technisch afdwingen of laten vallen | H | technieker | T01 |
+| T07 | § 9.4, § 6 | Eigen domeinnaam opnemen (€ 10 tot 15 per jaar); QR-codes enkel naar het eigen domein | H | oprichter | — |
+| T08 | § 12 | Nagaan of GitHub Pages een webshop toelaat; alternatieve host klaarhouden | H | technieker | T07 |
+| T09 | § 9.4, bijlage A | Lopende webshopkosten opnemen (Snipcart, Mollie, domein, mail, printeronderhoud; ordegrootte € 300 tot 500 per jaar) als nieuwe aanname; tarieven nakijken | H | oprichter, boekhouder | T01 |
+| T10 | § 9.2 | Transactiekosten per poster (ca. € 0,60) uit het vzw-deel halen en break-even herrekenen | H | boekhouder | T09 |
+| T11 | § 12 | Technische risico's toevoegen (host, uitval betaaldienst, prijsverschil site/mand, persoonsgegevens in de Ledger, gehackt account, geschraapte beelden, printer defect) | H | oprichter | — |
+| T12 | § 10, § 12 | Sleutelbeheer: wachtwoorden in een gedeelde kluis of noodenvelop bij de medebestuurder; tweestapsverificatie overal | H | oprichter, medebestuurder | — |
+| T13 | § 11 | Testfase plannen: proefbestellingen in testmodus vóór de oprichting, echte betaling na ondernemingsnummer en bankrekening | H | technieker | T01 |
+| T14 | § 4.1 | Configurator testen op telefoons en op toegankelijkheid | H | technieker | — |
+| T15 | § 2.2 punt 6 | Belofte over beelden herformuleren: klein, watermerk in het bestand, metadata weg; AI-bescherming enkel als verzoek (robots.txt, noai) | M | oprichter | — |
+| T16 | § 6, § 13 | Flyereffect meten zonder tracking: aparte QR-link per plek, bestellingen per bron tellen | M | technieker | T07 |
+| T17 | § 2.2, § 7 | Public Ledger halfautomatisch vullen: script zet bestelexport of bankafschrift om naar regels zonder persoonsgegevens, als pull request ter goedkeuring | M | technieker, boekhouder | T01 |
+| T18 | § 5.1 | Stroomschema van een bestelling toevoegen, met per stap waar gegevens staan | M | oprichter | T03 |
+| T19 | § 4.1 | Figuur van de configurator (vel, passe-partout, afbeelding, M) met een placeholder | L | technieker | — |
+| T20 | § 5.1 | Tijdlijn van de wachtronde (1 tot 5 aanmeldingen of dag 14) als figuur | L | oprichter | T04 |
+| T21 | § 13 | KPI's automatisch uit de Public Ledger berekenen en op de site tonen | L | technieker | T17 |
