@@ -17,6 +17,12 @@ Claude-project: Jurist · Repo: [peapickers/peapickers.github.io](https://github
 
 ## Stand van zaken
 
+### 2026-11-04 · Jurist · Doorlichting van de repo's
+
+- [Feedback jurist op ondernemingsplan v2](ondernemingsplan/feedback/jurist.html): de juridische doorlichting van alle peapickers-sites, met kleurcode, tegenstrijdigheden en 13 nieuwe vragen voor de jurist.
+- Rood: robots.txt staat niet op de hoofdmap van het domein, dus de AI-weigering werkt niet; de Public Ledger maakt het bedrag per auteur herleidbaar; postershop en printshop missen voorwaarden, herroepingsinformatie en privacyverklaring.
+- Licentie concept 5 is ingehaald door de beslissingen van 2026-11-04 (7 × M met 1/3/3, posters op maat, geen kaders, levering € 3,50). Concept 6 volgt na akkoord.
+
 ### 2026-11-03 · Jurist · Stappenplan openbaar
 
 - [Stappenplan van de workflow, versie 4](jurist/stappenplan-workflow-extended-v4.html): de oprichting van de vzw en de weg van een werk van de kunstenaar tot een afgerekende reproductie, met de licentie, de bewaring en de auteursrechten.
