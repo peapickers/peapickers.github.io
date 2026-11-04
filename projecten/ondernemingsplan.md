@@ -7,6 +7,17 @@ Regels: [werkwijze](werkwijze.html) · Merk: [postershop](postershop.html)
 
 > Nieuwste item bovenaan. Niets verwijderen: voeg een nieuw item toe. Het volledige plan is een intern werkdocument; hier staan alleen de kernkeuzes.
 
+### 2026-11-04 · Kern · Ideologische kenmerken
+
+Gelden voor elk merk en zijn niet onderhandelbaar.
+
+1. **Absolute financiële transparantie:** elke prijs ontleed tot op de cent; elke ontvangst, uitgave, uitbetaling, lening en gift in de Public Ledger, zonder persoonsgegevens. Ook de inbreng van de oprichter. Dit is de unieke invalshoek tegenover de traditionele markt.
+2. **Solidariteit met wie maakt:** de auteur blijft eigenaar, krijgt een vaste verdeling en kan altijd stoppen.
+3. **Geen winst, geen schuld:** geen winstuitkering, geen krediet, alleen een renteloze lening zonder termijn van de oprichter.
+4. **Privacy:** geen tracking, geen klantgegevens op de site, geen betaalprovider, nooit cash.
+5. **Duurzaamheid:** print on demand, tweedehandskaders, gerecycleerd karton, gezamenlijke leverrondes.
+6. **Veiligheid van het werk:** online alleen kleine beelden met watermerk en AI-bescherming; originelen nooit online.
+
 ### 2026-11-04 · Kern · Versie 1
 
 - Doel: de postershop starten met de grootste slaagkans, alleen via de webshop, met een vzw die haar vaste kosten dekt.
