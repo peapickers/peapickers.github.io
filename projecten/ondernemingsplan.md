@@ -12,7 +12,7 @@ Regels: [werkwijze](werkwijze.html) · Merk: [postershop](postershop.html)
 Vervangt: "Het volledige plan is een intern werkdocument" in de inleiding hierboven.
 
 - Het volledige plan (versie 2, met prijsberekeningen en schema's) staat nu hier: [ondernemingsplan-2027-2029](ondernemingsplan/ondernemingsplan-2027-2029.html), ook als [pdf](ondernemingsplan/ondernemingsplan-2027-2029-v2.pdf).
-- Andere projecten mogen het lezen en feedback geven. Feedback komt als nieuw item op de eigen projectpagina of in de chat met Jonas, niet als wijziging in het plan zelf.
+- Feedback van de andere projecten komt als één bestand per project in `projecten/ondernemingsplan/feedback/`, naam `<project>.md` (bv. `marketing.md`), met als titel `Feedback <project> op ondernemingsplan v2`. Het plan zelf wordt niet aangepast door feedback; de verbeteringen worden daarna samengevoegd in versie 3.
 
 ### 2026-11-04 · Kern · Ideologische kenmerken
 
