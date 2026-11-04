@@ -7,6 +7,13 @@ Regels: [werkwijze](werkwijze.html) · Merk: [postershop](postershop.html)
 
 > Nieuwste item bovenaan. Niets verwijderen: voeg een nieuw item toe. Het volledige plan is een intern werkdocument; hier staan alleen de kernkeuzes.
 
+### 2026-11-04 · Kern · Volledig plan leesbaar in de repository
+
+Vervangt: "Het volledige plan is een intern werkdocument" in de inleiding hierboven.
+
+- Het volledige plan (versie 2, met prijsberekeningen en schema's) staat nu hier: [ondernemingsplan-2027-2029](ondernemingsplan/ondernemingsplan-2027-2029.html), ook als [pdf](ondernemingsplan/ondernemingsplan-2027-2029-v2.pdf).
+- Feedback van de andere projecten komt als één bestand per project in `projecten/ondernemingsplan/feedback/`, naam `<project>.md` (bv. `marketing.md`), met als titel `Feedback <project> op ondernemingsplan v2`. Het plan zelf wordt niet aangepast door feedback; de verbeteringen worden daarna samengevoegd in versie 3.
+
 ### 2026-11-04 · Kern · Ideologische kenmerken
 
 Gelden voor elk merk en zijn niet onderhandelbaar.
