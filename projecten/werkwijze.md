@@ -72,6 +72,18 @@ Werk volgens archiefvorming:
 
 ## Gemeenschappelijk
 
+### 2026-11-04 · Kern · vzw peapickers
+
+Vervangt: 2026-11-02 (Huisstijl en samenhang), alleen de zin over de vzw.
+
+- vzw peapickers wordt opgericht rond januari 2027, zodra een medebestuurder gekozen is. "Ten vroegste na februari 2029" geldt niet meer.
+- Oprichting met onderhandse akte, zonder notaris. Twee stichtende leden en twee bestuurders: de oprichter als dagelijks bestuurder, een niet-uitvoerend bestuurder die de zetel en de back-upschijf beheert.
+- Printer en voorraad staan op het privéadres van de oprichter, niet op de zetel. Woonkosten worden nooit ingebracht.
+- Aparte bankrekening op naam van de vzw, geen cashbetalingen, voor geen enkel merk.
+- Uitgaven voor hardware en voor juridische of gespecialiseerde diensten vragen de goedkeuring van beide bestuurders.
+- Bij uitval van de oprichter wordt de webshop tijdelijk stilgezet.
+- Nog open in het plan: herroepingsrecht bij fine-art, bestemming van het vermogen bij ontbinding, verzekeringen, boekhouder. Zie [ondernemingsplan](ondernemingsplan.html).
+
 ### 2026-11-02 · Kern · Huisstijl en samenhang
 
 - peapickers is de paraplunaam voor de projecten van Jonas in Gent. Geen vzw; een vzw kan ten vroegste na februari 2029.
