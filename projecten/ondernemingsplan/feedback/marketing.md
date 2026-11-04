@@ -134,3 +134,38 @@ Huisstijl voor alles: die van de werkwijze (Courier Prime, zwarte kaders van 1 p
 1. **Maak de transparantie tastbaar (§ 2.2, § 4, § 6).** Eén sjabloon voor de prijsverdeling dat terugkomt op de productpagina, op een kassabonkaartje in elke verpakking met de werkcode voor de Public Ledger, en op de achterkant van elke flyer. Boodschap: "Van deze € 15,70 gaat € 5,55 naar de maker."
 2. **Zet marketing in de cijfers en plan voorzichtig (§ 6, § 9, § 13).** Neem de € 600 per jaar op in de vaste kosten en de Public Ledger (break-even ± 611 posters), voeg de gevoeligheid voor de productmix toe, en vervang de jaar-KPI van 500 posters door kwartaalmijlpalen op basis van het voorzichtige scenario.
 3. **Schrijf § 6 uit tot een lanceringsplan.** Een opening in Q2 met een deelpakket voor elke auteur, eigen QR-codes per plek als meetmethode zonder tracking, september en december als piekmomenten, een duidelijke betaalwijze, en een oplossing voor het bestelminimum van € 20 in de mand en op de flyer.
+
+## Actiepunten voor de compiler
+
+Elk punt hierboven als één taak, klaar om over te nemen in de todo-lijst. Prioriteit: **H** = vóór de webshop live gaat (maart 2027), **M** = vóór de start van het fysieke uithangbord (Q3 2027), **L** = later. "Rol" is wie het punt beslist of uitvoert, geen persoon.
+
+| ID | § | Actie | Prio | Rol | Hangt af van |
+|---|---|---|---|---|---|
+| M01 | § 6, § 9.2, § 9.3 | Marketingbudget van € 600 per jaar opnemen in de vaste kosten en de scenario's; break-even herrekenen (± 611 posters) | H | oprichter, boekhouder | — |
+| M02 | § 6, § 2.2 | Vastleggen of de maandelijkse € 50 een gift of een lening van de oprichter is, en die in de Public Ledger zetten | H | oprichter, boekhouder | M01 |
+| M03 | § 9.2 | Gevoeligheid voor de productmix toevoegen (A4 Enhanced Matte ± 990, Semimatte A3 493, Luster 40 × 60 ± 200 posters break-even) | H | boekhouder | — |
+| M04 | § 5.1 | Betaalwijze voor de klant beschrijven, met de wachttijd tot drukken | H | oprichter | techniek T01 |
+| M05 | § 5.1 | Klantreis van QR-scan tot poster aan de muur uitschrijven, met de leverbelofte | H | oprichter | M04 |
+| M06 | § 5.1 | Leverkost € 3,50 rijmen met de open bpost-tarieven [A9]; geen leverprijs op drukwerk tot dit vastligt | H | oprichter | techniek T04 |
+| M07 | § 5.1 | Beslissen over het bestelminimum van € 20: behouden met "nog € … tot het minimum" in de mand, of niet toepassen op de gedeelde leverronde | H | oprichter, boekhouder | techniek T06 |
+| M08 | § 6 | "SEO" en "standplaatsen op markten" uit de budgetlijst schrappen of naar na 2027 verplaatsen | H | oprichter | — |
+| M09 | § 6, § 11 | Lanceringsmoment in Q2 2027 toevoegen: eerste reeks kaartjes, stalenset, vaste deeldag voor de auteurs | H | marketing | — |
+| M10 | § 6, § 7 | Deelpakket per auteur: kaartjes met eigen werken en eigen QR-code | H | marketing | techniek T07 |
+| M11 | § 4, § 2.2 | Prijsstrook "waar gaat je geld naartoe" op elke productpagina, meebewegend met de configurator | H | technieker, marketing | techniek T02 |
+| M12 | § 2.2, § 5 | Kassabonkaartje (A6, eigen printer) in elke verpakking: prijsverdeling, werkcode, verwijzing naar de Public Ledger | H | marketing | M11 |
+| M13 | § 6, § 13 | Meetmethode zonder tracking vastleggen: eigen QR-pagina per plek en optionele vraag "Waar zag je ons?" | H | technieker, marketing | techniek T16 |
+| M14 | § 13 | Jaar-KPI van 500 posters vervangen door kwartaalmijlpalen op het voorzichtige scenario (bv. 50 eind Q2, 150 eind Q3, 300 eind Q4) | H | oprichter | M01 |
+| M15 | § 13 | Uitkomst-KPI's toevoegen: bestellingen en mandwaarde per kwartaal, bestellingen per QR-plek, aandeel leverronde, terugkerende kopers, posters per auteur | M | oprichter, marketing | M13 |
+| M16 | § 13 | KPI "levering binnen 14 dagen" afstemmen op de leverronde: vanaf betaling of vanaf sluiten van de ronde | M | oprichter | M05 |
+| M17 | § 1, § 4.2 | Duidelijk maken dat fine-art in 2027 waarschijnlijk niet te koop is; marketing communiceert in 2027 alleen posters | H | oprichter | — |
+| M18 | § 3 | Concurrentiezin herschrijven: prijs is vergelijkbaar, het verschil is lokale maker, formaat op maat en open prijs | M | oprichter | — |
+| M19 | § 3 | Ruwe marktcijfers toevoegen (studenten in artistieke richtingen in Gent, aantal mogelijke flyerplekken) en koopmotief per doelgroep | M | marketing | — |
+| M20 | § 6 | Seizoensplanning toevoegen: september (academiejaar) en december (cadeaus) als piekmomenten | M | marketing | M09 |
+| M21 | § 6 | Verdeling van € 50 per maand uitschrijven (kaartjes, stickers, stalen en affiches op de eigen printer, reserve) | M | marketing | M01 |
+| M22 | § 2.1, § 1 | Korte, positieve klantversie van missie en manifest (twee zinnen) | M | marketing | — |
+| M23 | § 2.2 punt 4 | Privacy en veiligheid positief formuleren voor klanten ("We weten niets over jou dat we niet nodig hebben") | M | marketing | techniek T03 |
+| M24 | § 4.1, § 5.1 | Klantvisuals: drie stappen "meet je kader", schema van de leverronde, teller "uitbetaald aan makers dit kwartaal" | M | marketing, technieker | M11 |
+| M25 | § 7, schema 02 | Auteurs-one-pager: weg van een werk, wat je krijgt per poster (drie formaten), curatie als checklist, stoppen binnen 7 dagen | M | marketing | — |
+| M26 | § 6, § 3 | Partner-one-pager voor flyerplekken (wat we vragen, wat de plek krijgt, hoe vaak we bijvullen); nonprofitversie pas in 2028 | M | marketing | M13 |
+| M27 | § 6 | Engelse versie van klant- en partnerteksten en tweetalige flyer | L | marketing | M22 |
+| M28 | § 11 | Publieke tijdlijn zonder interne beslismomenten ("webshop open voorjaar 2027") | L | marketing | — |
