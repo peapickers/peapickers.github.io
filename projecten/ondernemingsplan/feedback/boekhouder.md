@@ -119,6 +119,41 @@ De klant betaalt in beide gevallen € 15,70. Bij vrijstelling krijgen auteur en
 2. **Bouw de vaste kosten op per post en maak een kasplan per maand voor 2027** (§ 9.2, § 9.3, § 9.4). Boekhouder, verzekeringen (ook vrijwilligers en materiaal op het privéadres), bank, webshop, marketing, verbruik en onderhoud, verzending. Neem de startkosten en de start van de verkoop in Q2 mee. Toon break-even en lening als vork, niet als één getal.
 3. **Leg lening, gift en fine-art schriftelijk en boekhoudkundig vast vóór de oprichting** (§ 4.2, § 7, § 9.4). Een achtergestelde leningsovereenkomst, een giftakte met inventaris en waarde, een licentieclausule over onverkochte fine-art en over de gegevens voor de fiches, en een Public Ledger die per kwartaal samentelt wat aan auteurs is uitbetaald.
 
+## Actiepunten voor de compiler
+
+Elk punt hierboven als één taak, klaar om over te nemen in de todo-lijst. Codes **BH** om verwarring met B1 – B19 uit het [advies boekhouder](../../boekhouder/advies-boekhouder-kiezen.html) te vermijden; waar een punt daar al staat, verwijst de laatste kolom ernaar. Prioriteit: **H** = vóór de webshop live gaat (maart 2027), **M** = vóór de start van het fysieke uithangbord (Q3 2027), **L** = later. "Rol" is wie het punt beslist of uitvoert, geen persoon.
+
+| ID | § | Actie | Prio | Rol | Hangt af van |
+|---|---|---|---|---|---|
+| BH01 | § 8.2, § 9 | Belastingregime van de vzw (VenB of rechtspersonenbelasting) laten bevestigen en met één zin uitleg in § 8.2 zetten; bij VenB rekenen met 25 % op winst tot bevestiging | H | boekhouder, oprichter | B16 |
+| BH02 | § 4, § 8.2, § 9 | Btw-plicht en vrijstelling kleine ondernemingen allebei doorrekenen (tabel Semimatte A3 hierboven) en "btw altijd 21 %" vervangen door de gemaakte keuze met reden | H | boekhouder, oprichter | BH01, B1 |
+| BH03 | § 4.1 | Vastleggen of M incl. of excl. btw is, afhankelijk van BH02, en de prijstabellen daarop nakijken | H | oprichter | BH02 |
+| BH04 | § 9.2, [A1] | Vaste kosten opbouwen per post: boekhouder, verzekeringen, bank, webshop en domein, marketing, verbruik en onderhoud, vrijwilligersverzekering; break-even herrekenen | H | boekhouder | M01, BH02 |
+| BH05 | § 1, § 9.2, § 9.3 | Break-even en lening als vork tonen (bv. 450 tot 700 posters) in plaats van één getal; "ongeveer € 2.801" schrappen | H | oprichter | BH04 |
+| BH06 | § 9.3, § 9.4 | Kasplan per maand voor 2027: startkosten, vaste kosten vanaf januari, verkoop vanaf Q2, btw, kwartaaluitbetaling met voorheffing, stortingen oprichter | H | boekhouder | BH04 |
+| BH07 | § 8.2, § 9.4 | Openingsbalans opstellen: gift in natura, lening, kosten van vóór de oprichting | H | boekhouder | BH09, BH10, B3 |
+| BH08 | § 2.2, § 5.1 | Betaalwijze vastleggen en de bank- of transactiekosten in de vaste kosten opnemen | H | oprichter | T01 |
+| BH09 | § 9.4 | Renteloze lening schriftelijk met achterstellingsclausule; beslissing als belangenconflict notuleren | H | oprichter, jurist | B2 |
+| BH10 | § 5, § 9.4 | Giftakte voor printer, inkt en papier met inventaris, foto's en marktwaarde; afschrijving en voorraad laten boeken | H | oprichter, boekhouder | — |
+| BH11 | § 9.4 | Laten uitzoeken: lening die later kwijtgescholden wordt, of gift (eventueel in schijven); fiscaal gevolg van elk | M | boekhouder | BH01 |
+| BH12 | § 6 | Maandelijkse € 50 marketing als kost én als gift of lening van de oprichter in de boeken | H | boekhouder | M02 |
+| BH13 | § 5.1, [A9] | Bpost-tarief per zending naast de leverkost van € 3,50 zetten; verzendresultaat per zending in § 9.2 | H | oprichter | — |
+| BH14 | § 4.1 | Inktkost meten: A3-prints per set cartridges inclusief reiniging, en M herrekenen | H | oprichter | — |
+| BH15 | § 4.1 | 40 × 60 cm past niet op A2 (42 × 59,4 cm): grootste maat aanpassen of velkost voor rolpapier berekenen | H | oprichter | — |
+| BH16 | § 1, § 9.1 | Vlaggenschipvoorbeeld "met passe-partout" laten kloppen met de inktregel van § 4.1 (A4-inkt geeft € 14,40) | M | oprichter | — |
+| BH17 | § 4.2, § 7, § 11 | Fine-art en reserve gelijktrekken: reserve haalt € 2.500 niet vóór 2030 in het verwachte scenario; eerste fine-art in 2028 alleen met aparte storting in het kasplan | M | oprichter | BH06 |
+| BH18 | § 4.2, § 7 | Licentie: onverkochte, beschadigde en gesigneerde fine-art regelen; voorraadwaarde M + 3 M; telling op 31 december | M | jurist, boekhouder | B8 |
+| BH19 | § 7 | Bevestigen dat de licentie auteursrechten oplevert (geen diverse inkomsten) en dat 15 % op bruto geldt voor auteurs zonder kunstwerkattest | H | boekhouder | B16 |
+| BH20 | § 2.2, § 7 | Public Ledger: uitbetalingen aan auteurs per kwartaal samentellen, geen bedrag per auteur zonder uitdrukkelijke toestemming | H | oprichter, jurist | jurist vraag 3 |
+| BH21 | § 2.2, § 7 | Ledger-kolommen vastleggen (boekstuk, rekening, excl./btw/incl., werkcode, tegenpartij als code, kwartaal, banksaldo); maandelijkse afstemming op de bank vóór publicatie | M | boekhouder, technieker | T17 |
+| BH22 | § 8.3, § 5 | Vrijwilligersverzekering en verzekering van printer en voorraad op het privéadres toevoegen | H | oprichter | — |
+| BH23 | § 8, § 11 | Fiscale kalender met eigenaar per regel: btw, voorheffing, 281.45 en 325.45, jaarrekening, AV en begroting, aangifte belasting | M | boekhouder | BH01, BH02 |
+| BH24 | § 8.2, § 11 | Mandaten in MyMinfin en tweede bestuurder op uitbetalingen als stappen in § 8.2 en § 11 | H | oprichter | B7, B9 |
+| BH25 | § 9.3 | Vaste kosten laten groeien met indexering en aantal auteurs (meer fiches) | L | boekhouder | BH04 |
+| BH26 | § 9, schema 03 – 05 | Nieuwe schema's: kasstroom van één bestelling, btw-vergelijking, gevoeligheid break-even, cumulatieve kaslijn, fine-art-cyclus | M | oprichter | BH02, BH06 |
+| BH27 | § 8.1 | Woordenlijst voor bestuurders (M, bijdrage, resultaat, kas, reserve, voorraad, voorheffing, achtergestelde lening, kwijtschelding, VenB) | L | oprichter | — |
+| BH28 | § 9.4, [A7] | Publicatiekost Staatsblad opzoeken en A7 bijwerken | M | oprichter | — |
+
 ### Bronnen
 
 - Het plan zelf: [ondernemingsplan-2027-2029.md](../ondernemingsplan-2027-2029.md), alle bedragen nagerekend.
