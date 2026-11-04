@@ -7,6 +7,12 @@ Regels: [werkwijze](werkwijze.html) · Merk: [postershop](postershop.html)
 
 > Nieuwste item bovenaan. Niets verwijderen: voeg een nieuw item toe. Het volledige plan is een intern werkdocument; hier staan alleen de kernkeuzes.
 
+### 2026-11-04 · Kern · Stappenplannen na feedback
+
+- Jurist, techniek, marketing en boekhouder gaven feedback op v2 (zie `projecten/ondernemingsplan/feedback/` en het advies boekhouder).
+- Stappenplan per rol: [stappenplannen](ondernemingsplan/stappenplannen.html). Stappen met "wacht op" hangen af van de vragenlijst v3 bij Jonas.
+- Daarna volgt ondernemingsplan v3 met de beslissingen en een pdf.
+
 ### 2026-11-04 · Kern · Volledig plan leesbaar in de repository
 
 Vervangt: "Het volledige plan is een intern werkdocument" in de inleiding hierboven.
