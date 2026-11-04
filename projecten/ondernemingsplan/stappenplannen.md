@@ -1,71 +1,107 @@
 ---
-title: Stappenplannen na feedback op ondernemingsplan v2
+title: Stappenplannen ondernemingsplan v3
 ---
-# Stappenplannen na feedback op ondernemingsplan v2
+# Stappenplannen ondernemingsplan v3
 
-Datum: 2026-11-04 · Terug naar [ondernemingsplan](../ondernemingsplan.html) · Plan: [ondernemingsplan-2027-2029](ondernemingsplan-2027-2029.html)
+Datum: 2026-11-04 · Plan: [ondernemingsplan-2027-2029](ondernemingsplan-2027-2029.html) (versie 3) · Ook als [pdf](stappenplannen-v3.pdf) · Terug naar [ondernemingsplan](../ondernemingsplan.html)
 
-> Eén stappenplan per rol, gebouwd op de [feedback](feedback/) en het [advies boekhouder](../boekhouder/advies-boekhouder-kiezen.html). De codes T.., M.., B.. verwijzen naar de actiepunten in die bestanden. Stappen met **wacht op Vx** hangen af van een beslissing van Jonas in de vragenlijst v3 (Claude Doc, codes A1 – E5). Wat niet wacht, kan nu al beginnen.
+> Eén stappenplan per rol, na de [feedback](feedback/) op versie 2 en de antwoorden van de oprichter op vragenlijst v3. Alle beslissingen zijn genomen; wat nog open is, staat als **vraag** bij de rol die het moet uitzoeken. Codes zoals T04, M11, B13 of BH10 verwijzen naar de actiepunten in de feedbackbestanden en het [advies boekhouder](../boekhouder/advies-boekhouder-kiezen.html).
 >
-> Volgorde over de rollen heen: **(1)** Jonas beantwoordt de vragenlijst → **(2)** boekhouder kiezen → **(3)** jurist: statuten, licentie en klantteksten in één keer → **(4)** oprichting vzw (januari 2027) → **(5)** techniek: echte betaling en testbestellingen → **(6)** lancering webshop (Q2 2027) → **(7)** fysiek uithangbord (Q3 2027).
+> Werk altijd met de meest recente informatie: prijzen en regels uit plan v3, niet uit oudere pagina's.
 
-## Jurist
+## Volgorde over de rollen heen
 
-Doel: alles wat de jurist moet nalezen, in één pakket vóór de oprichting.
+1. **Nov.–dec. 2026:** boekhouder kiezen → jurist krijgt één pakket (statuten, licentie 6, klantteksten, afspraken oprichter – vzw) → techniek bouwt mand en betaling in testmodus → marketing maakt drukwerk klaar.
+2. **Jan. 2027:** oprichting vzw (akte, ondernemingsnummer, btw-vrijstelling, bank, verzekeringen).
+3. **Jan.–mrt. 2027:** echte betaling aan, proefbestellingen door de oprichter en de 3 auteurs.
+4. **Q2 2027:** eerste verkoop, ook de eerste fine-art. 50 posters eind juni.
+5. **Q3–Q4 2027:** flyers, stickers en QR-codes; eerste kwartaaluitbetaling in juli. 150 posters eind september, 300 eind december.
 
-1. **Nu:** robots.txt verplaatsen naar de hoofdmap van peapickers.github.io en een voorbehoud tegen tekst- en datamining in elke footer (samen met techniek). Formulering als poging, niet als garantie. *Wacht op A8 voor de tekst in § 2.2.*
-2. **Nu:** licentie concept 6 maken: prijzen 7M, 1/3/3, levering € 3,50, geen kaders, formaat als bandbreedte (A4 tot 40 × 60 cm, 4:6 tot 1:1). *Wacht op A6 (Public Ledger) en A7 (watermerk).*
-3. Klantteksten postershop: algemene voorwaarden, herroeping met modelformulier, privacyverklaring met de externe diensten. *Wacht op B1 (herroeping) en A1 (betaalweg).*
-4. Statuten concept 1: doel met verkoop als middel, bestemming bij ontbinding, goedkeuring door alle bestuurders, belangenconflicten. Eerst laten nalezen door de boekhouder (boekjaar, voorwerp). *Na stap 2 van de boekhouder.*
-5. Afspraken oprichter – vzw concept 1: renteloze lening (bedrag *wacht op C4*), schenking of bruikleen van de printer (*wacht op A13*), gebruik van het adres, verzekering.
-6. Kort reglement selectiecomité (samenstelling, geheimhouding, wat publiek is). *Wacht op B5.*
-7. Check per werk uit het publiek domein vóór verkoop. *Wacht op B3.*
-8. Privacyverklaring archief en netwerkpagina aanpassen. *Wacht op B6 en B7.*
-9. Eén pakket naar de jurist: licentie 6, klantteksten, statuten, afspraken oprichter, de 13 open vragen uit de feedback en J1 – J11.
+## Vaste keuzes voor iedereen
+
+| Onderwerp | Keuze |
+|---|---|
+| Rechtsvorm en belasting | vzw, vennootschapsbelasting, btw-vrijgesteld als kleine onderneming (omzet onder € 25.000) |
+| Prijs | 7 × M, afgerond op € 0,10. M = velkost + inktkost, incl. de btw die de vzw op materiaal betaalt. Semimatte middel: € 15,70, waarvan € 6,72 voor de auteur |
+| Formaat | Van 21 × 29,7 tot 40 × 60 cm (rol van 40 cm breed); groottes klein, middel, groot in plaats van A-formaten |
+| Betalen | Snipcart (mand) en Mollie (Bancontact); overschrijving met QR-code als plan B; nooit cash, ook niet bij de printshop |
+| Leveren | Gent € 3,50 vast; gratis gedeelde leverronde (5 aanmeldingen of 14 dagen), daar ook onder € 20; buiten Gent bpost aan kostprijs |
+| Herroeping | Vrijwillig 14 dagen voor alles |
+| Public Ledger | Verkoop per werkcode zonder persoonsgegevens; uitbetalingen aan auteurs per kwartaal samengeteld |
+| Beelden | Origineel nooit bewerkt of online; online beelden (1200 px, thumbnail) met watermerk en Glaze, vermeld in de licentie |
+| Financiering | Oprichter stort maandelijks precies wat nodig is, als renteloze, achtergestelde lening; geen reserve |
+| Fine-art | Vanaf de eerste maanden, gefinancierd met de lening |
+| Niet in 2027 | Printshop, werken uit het publiek domein, standplaatsen op markten, eigen domeinnaam, lanceringsevenement |
 
 ## Boekhouder
 
-Doel: een boekhouder gekozen vóór de statuten neergelegd worden. Volledige lijst: B1 – B19 in het [advies](../boekhouder/advies-boekhouder-kiezen.html).
+Doel: een kantoor dat de complexiteit aangaat, mee verifieert en mee verantwoordelijk is, gekozen vóór de statuten neergelegd worden.
 
-1. **Nu:** B1 btw-zin herschrijven; B11 en B12 prijsaanvraag aanvullen. *Btw-tekst in het plan wacht op A9.*
-2. B13, B14: 3 tot 5 ITAA-kantoren in Gent zoeken; B15 kennismakingsgesprekken met de vergelijkingstabel.
-3. B16: eerst de vragen over belastingregime, roerende voorheffing en btw laten beantwoorden. Dat beslist A9 en de prijzen.
-4. Vaste kosten herrekenen met marketing en webshopkosten (T09, T10, M01). *Wacht op C1, C2, C3.* Break-even en scenario's opnieuw, met een tabel per productmix (M03) en kwartaalmijlpalen (*wacht op C5*).
-5. B2 startbudget en lening op papier. *Wacht op C4.*
-6. B4 en B17: boekjaar en statuten nalezen; B18 opdrachtbrief vanaf de oprichting.
-7. Na de oprichting: B19 (bank, UBO, mandaten, btw-regime, betaaldienst), B3 kosten van vóór de oprichting overnemen, B6 en B7 vaste aanlevering en mandaten.
-8. Doorlopend: B5 gegevens voor fiche 281.45, B8 voorraadtelling, B9 vier ogen op uitbetalingen (samen met techniek T17, *wacht op D4*).
+1. **Kiezen.** Prijsaanvraag aanvullen (B11, B12) met de keuzes hierboven: vennootschapsbelasting, btw-vrijstelling, veel kleine transacties, auteursrechten met fiches 281.45. 3 tot 5 ITAA-kantoren in Gent zonder klantenstop contacteren, ook via Cultuurloket (B13 – B15). Opdrachtbrief vanaf de oprichting (B18).
+2. **Eerste vragen aan het gekozen kantoor.**
+   - **Vraag:** mag een vzw onder de vennootschapsbelasting vrijwilligers inzetten met een vrijwilligersvergoeding? Zo niet, dan doet de vzw het niet.
+   - Bevestigen: btw-vrijstelling past bij webshopverkoop van reproducties; wat bij verkoop naar andere EU-landen (BH02).
+   - Bevestigen: 15 % roerende voorheffing op bruto voor auteurs zonder kunstwerkattest (BH19).
+3. **Vaste kosten per post** bevestigen of verbeteren: boekhouder, verzekeringen (ook vrijwilligers en materiaal op het privéadres), marketing € 600, webshop, onderhoud printer, bank (BH04). Plan v3 rekent met € 3.000 tot 3.500.
+4. **Statuten nalezen** op boekjaar en voorwerp; advies over de lengte van het eerste boekjaar (B4, B17).
+5. **Lening en gift boeken:** achtergestelde leningsovereenkomst met maandelijkse stortingen naar behoefte; giftakte met inventaris en marktwaarde voor printer, inkt en papier; advies over het moment van kwijtschelding (BH09 – BH11).
+6. **Na de oprichting:** mandaten in MyMinfin (B7), bank en UBO (B19), kosten van vóór de oprichting overnemen binnen twee maanden (B3), vaste aanlevering per maand (B6).
+7. **Doorlopend:** kasplan per maand bijhouden (BH06), Public Ledger elke maand afstemmen op de bank vóór publicatie (BH21), kwartaaluitbetalingen met een tweede bestuurder (B9), voorraadtelling fine-art op de laatste dag van het boekjaar (B8, BH18), fiscale kalender (BH23).
+
+## Jurist
+
+Doel: één pakket dat de jurist (Lann, J.) in één keer naleest, vóór de oprichting.
+
+1. **Licentie concept 6:** prijzen 7 × M met de nieuwe verdeling; formaat als bandbreedte (21 × 29,7 tot 40 × 60 cm, verhouding 4:6 tot 1:1); levering € 3,50; geen kaders; werk zonder invloed van peapickers en niet in opdracht; toestemming voor watermerk en Glaze op de online beelden; rijksregisternummer en adres voor de fiche 281.45, buiten de Public Ledger; onverkochte, beschadigde en gesigneerde fine-art.
+2. **Klantteksten postershop:** algemene voorwaarden, vrijwillig herroepingsrecht van 14 dagen met modelformulier, privacyverklaring met Snipcart en Mollie als verwerkers, vermelding btw-vrijstelling.
+3. **Statuten concept 1:** doel met verkoop als middel, bestemming bij ontbinding, goedkeuring door alle bestuurders, belangenconflicten.
+4. **Afspraken oprichter – vzw:** achtergestelde, renteloze lening met stortingen naar behoefte; giftakte; gebruik van het privéadres; beslissing genotuleerd als belangenconflict.
+5. **Vraag:** vrijwilligers met vrijwilligersvergoeding bij een vzw onder de vennootschapsbelasting (samen met de boekhouder).
+6. **Kort reglement selectiecomité:** redeneringen blijven privé, ook bij afwijzing; publiek alleen de werken en de context van de auteur.
+7. **Privacy archief en netwerkpagina:** na de oprichting is de vzw verwerkingsverantwoordelijke met de zetel als adres; lidmaatschappen van groepen van de netwerkpagina halen.
+8. **Footer en robots.txt:** tekst van het voorbehoud tegen tekst- en datamining, samen met techniek.
+9. **Verwerkersovereenkomsten** met Snipcart en Mollie nakijken.
 
 ## Techniek
 
 Doel: de webshop klaar en getest tussen januari en maart 2027. De configurator (postershop PR #6) is grotendeels af.
 
-1. **Nu:** T14 configurator testen op telefoons en op toegankelijkheid; T19 figuur van de configurator met een placeholder.
-2. **Nu:** robots.txt op de hoofdmap (zie jurist stap 1).
-3. T01 en T02: betaalweg en afronding bouwen zoals beslist. *Wacht op A1 en A2.*
-4. T04 en PR #7 gelijktrekken met de leverregels; T06 bestelminimum in de mand. *Wacht op A3, A4 en C6.*
-5. T07 en T08: eigen domein en host. *Wacht op D1 en D2.* QR-codes alleen naar het eigen domein.
-6. T12 sleutelbeheer en tweestapsverificatie overal. *Wacht op D3.*
-7. Site, Join peapickers en "Hoe het werkt" gelijktrekken met het plan (oude prijzen, 1/3/2/1, kaders). *Wacht op A15.*
-8. T13 testfase: proefbestellingen in testmodus, daarna met echt geld na ondernemingsnummer en bankrekening. *Wacht op D6.*
-9. T05 teller leverronde en T17 Public Ledger halfautomatisch, als pull request ter goedkeuring. *Wacht op D4 en D5.*
-10. T16 meten zonder tracking: eigen QR-adres per plek (samen met marketing M13).
-11. Later: T21 KPI's uit de Public Ledger op de site; prijsstrook bij de configurator (M11, *wacht op E2*).
+1. **Prijzen in de configurator** naar plan v3: M incl. btw op materiaal, prijs 7 × M afgerond op € 0,10, geen btw op de verkoop, vermelding "btw-vrijgesteld"; groottes klein, middel, groot in cm; maximum 40 × 60 cm. Eén bron: `config-prijzen.csv`.
+2. **Mand en betaling:** Snipcart met Mollie (Bancontact) in testmodus; overschrijving met QR-code als plan B; drukken na betaling; bestelminimum € 20 behalve bij de gedeelde leverronde (T01, T06).
+3. **Leverregels:** postershop PR #7 aanpassen aan het plan: Gent € 3,50 vast, gratis gedeelde ronde, bpost aan kostprijs; geen fietskost per km en geen terugstortingen (T04).
+4. **Teller leverronde:** elk uur bijgewerkt, alleen een aantal en een sluitdatum (T05).
+5. **Prijsstrook** bij de configurator die toont hoeveel naar de auteur gaat; openbare teller "dit kwartaal uitbetaald aan auteurs" (M11, met marketing).
+6. **Site en Join peapickers gelijktrekken** met plan v3: oude prijzen (€ 6 / € 15, 1/3/2/1, kaders, levering € 3) weg; cash weg bij de printshop; werken uit het publiek domein weg.
+7. **robots.txt op de hoofdmap** van peapickers.github.io en het voorbehoud in elke footer, als poging, niet als garantie.
+8. **Sleutels:** gedeelde wachtwoordkluis met de medebestuurder en tweestapsverificatie op GitHub, Snipcart, Mollie, mail en bank (T12).
+9. **Public Ledger halfautomatisch:** een script maakt elke maand een pull request zonder persoonsgegevens, met uitbetalingen per kwartaal samengeteld; de oprichter keurt goed na afstemming op de bank (T17).
+10. **Testfase:** proefbestellingen in testmodus door de oprichter en de 3 auteurs; met echt geld na ondernemingsnummer en bankrekening (T13). Configurator testen op telefoons (T14).
+11. **QR per plek** voor flyers en stickers, bestellingen per bron tellen zonder tracking (T16).
+12. **Later:** eigen domeinnaam en een host die webshops toelaat, te bekijken bij het bouwen van de site (T07, T08); KPI's uit de Public Ledger op de site (T21).
 
 ## Marketing
 
-Doel: een lancering in Q2 2027 en een fysiek uithangbord vanaf Q3, binnen € 50 per maand. In 2027 alleen posters, geen fine-art (*wacht op A10*).
+Doel: zichtbaarheid vanaf de eerste verkoop in Q2 2027, een fysiek uithangbord vanaf Q3, binnen € 50 per maand. Posters én fine-art.
 
-1. **Nu:** M18 concurrentiezin herschrijven (prijs is vergelijkbaar; het verschil is lokale auteur, formaat op maat en open prijs); M19 ruwe marktcijfers en koopmotief per doelgroep; M20 seizoensplanning (september en december).
-2. **Nu:** M21 verdeling van € 50 per maand uitschrijven. *Wacht op C1 voor de plaats in de boekhouding; M08 wacht op A12.*
-3. M09 en M10: lanceringsplan Q2 met deelpakket per auteur. *Wacht op E1.*
-4. M11 en M12: prijsstrook en kassabonkaartje, met de zin "Van deze € 15,70 gaat € 5,55 naar de auteur". *Wacht op E2 en A2 (afronding).*
-5. M05 klantreis van QR-scan tot poster aan de muur; M06 geen leverprijs op drukwerk tot A3 en A4 beslist zijn.
-6. M13 en M15: meetmethode zonder tracking en uitkomst-KPI's, met techniek T16. M14 kwartaalmijlpalen. *Wacht op C5.*
-7. M22 en M23: korte positieve klantversie van missie en privacy. *Wacht op E4.* Woordkeuze *wacht op A14*.
-8. M25 en M26: one-pagers voor auteurs en partners (flyerplekken).
-9. Later: M27 Engelse versie (*wacht op E5*), M28 publieke tijdlijn, M24 klantvisuals, teller uitbetaald aan auteurs (*wacht op E3*).
+1. **Korte klanttekst:** missie in twee positieve zinnen; privacy positief geformuleerd ("we weten niets over jou dat we niet nodig hebben om te leveren"). Het manifest blijft in het plan (M22, M23).
+2. **Transparantie tastbaar:** kassabonkaartje (A6, eigen printer) in elke verpakking met prijsverdeling, werkcode en verwijzing naar de Public Ledger; de boodschap "Van deze € 15,70 gaat € 6,72 naar de auteur" (M11, M12).
+3. **Tweetalige flyer** en Engelse klantteksten in 2027 (M27).
+4. **Drukwerk en verdeling:** flyers, stickers en kaartjes met een eigen QR-adres per plek; flyeren en stickers verdelen op markten, geen standplaats (M13).
+5. **SEO** uitvoeren, zonder betaalde reclame.
+6. **Budget € 50 per maand** verdelen (kaartjes, stickers, stalen en affiches op de eigen printer, reserve) en in de Public Ledger zetten als kost, gestort als gift (M21).
+7. **Seizoensplanning:** september (start academiejaar) en december (cadeaus) als piekmomenten (M20).
+8. **Meten:** bestellingen per kwartaal en per QR-plek, gemiddelde mand, aandeel leverronde, posters per auteur; mijlpalen 50 / 150 / 300 posters in 2027 (M14, M15).
+9. **One-pagers** voor auteurs en voor flyerplekken (M25, M26).
+10. **Concurrentiezin en marktcijfers:** prijs vergelijkbaar, verschil in lokale auteur, formaat op maat en open prijs; ruwe cijfers over studenten en plekken in Gent (M18, M19).
+11. Geen apart lanceringsevenement; geen eigen domeinnaam tot de site gebouwd wordt.
 
-## Wat in het ondernemingsplan v3 komt
+## Nog open
 
-Kort, per rol één alinea "wat er nog moet gebeuren", met een link naar dit bestand. Verder in v3: de beslissingen uit vragenlijst v3, herrekende vaste kosten en break-even, een tabel per productmix, kwartaalmijlpalen, extra risico's (klantteksten, persoonsgegevens in de Ledger, AI-scraping, host, uitval betaaldienst, gehackt account, printer defect) en drie nieuwe schema's: de weg van een bestelling met waar gegevens staan, de wachtronde, en wie welk document met wie tekent.
+| Vraag | Wie zoekt het uit |
+|---|---|
+| Vrijwilligers met vrijwilligersvergoeding onder de vennootschapsbelasting | Boekhouder en jurist |
+| Btw-vrijstelling bij verkoop naar andere EU-landen | Boekhouder |
+| Bpost-tarief per zending | Oprichter |
+| Publicatiekost Staatsblad (ca. € 170) | Oprichter |
+| Tarieven Snipcart en Mollie, kosten bank | Techniek en boekhouder |
+| Inktkost per set cartridges, inclusief reiniging (controle van M) | Oprichter |

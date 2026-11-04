@@ -7,6 +7,19 @@ Regels: [werkwijze](werkwijze.html) · Merk: [postershop](postershop.html)
 
 > Nieuwste item bovenaan. Niets verwijderen: voeg een nieuw item toe. Het volledige plan is een intern werkdocument; hier staan alleen de kernkeuzes.
 
+### 2026-11-04 · Kern · Versie 3
+
+Vervangt: de prijsverdeling met 21 % btw, de vaste kosten van € 2.500, het break-even van 493 posters en de regel "fine-art pas bij een reserve van € 2.500" uit versie 1 en 2.
+
+- Volledig plan: [ondernemingsplan-2027-2029](ondernemingsplan/ondernemingsplan-2027-2029.html), ook als [pdf](ondernemingsplan/ondernemingsplan-2027-2029-v3.pdf). Versie 2 blijft als archief.
+- Stappenplannen per rol: [stappenplannen](ondernemingsplan/stappenplannen.html), ook als [pdf](ondernemingsplan/stappenplannen-v3.pdf).
+- vzw onder de vennootschapsbelasting, btw-vrijgesteld als kleine onderneming. Prijzen blijven gelijk: prijs = 7 × M afgerond op € 0,10, met M incl. de btw die de vzw op materiaal betaalt. Semimatte middel € 15,70, waarvan € 6,72 voor de auteur.
+- Formaat van 21 × 29,7 tot 40 × 60 cm (rol van 40 cm breed); groottes klein, middel, groot.
+- Betalen via Snipcart en Mollie, overschrijving als plan B, nooit cash. Gent € 3,50 of gratis leverronde (daar ook onder € 20), buiten Gent bpost aan kostprijs. Vrijwillig 14 dagen herroeping.
+- Public Ledger: uitbetalingen aan auteurs per kwartaal samengeteld.
+- Vaste kosten € 3.000 tot 3.500, break-even 532 tot 621 posters per jaar. Basisscenario 300 / 375 / 450 posters. De oprichter stort maandelijks precies wat nodig is, als achtergestelde, renteloze lening; geen reserve. Fine-art vanaf de eerste maanden.
+- Open: vrijwilligers met vrijwilligersvergoeding onder de vennootschapsbelasting (boekhouder en jurist).
+
 ### 2026-11-04 · Kern · Stappenplannen na feedback
 
 - Jurist, techniek, marketing en boekhouder gaven feedback op v2 (zie `projecten/ondernemingsplan/feedback/` en het advies boekhouder).
