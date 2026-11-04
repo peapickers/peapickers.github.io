@@ -17,6 +17,13 @@ Claude-project: Marketing · Repo: [peapickers/peapickers.github.io](https://git
 
 ## Stand van zaken
 
+### 2026-11-04 · Marketing · Focus op de start van de webshop
+
+- Beslissing van Jonas: marketing werkt voorlopig alleen voor de webshop. B2B-partners (De Slegte, Het Paard van Troje, musea, platenwinkels), verkoop op beurzen en een marge voor winkels liggen stil. Dat volgt het [ondernemingsplan](ondernemingsplan.html).
+- Fysieke marketing blijft de voorkeur: flyers, stickers, kaartjes en uithangborden met QR-code die naar de webshop leiden, binnen het budget van € 50 per maand.
+- Meten zonder tracking: per plek een eigen QR-adres of code, nog voor te leggen aan Jonas.
+- Een vragenlijst over timing, boodschap, doelgroepen, drukwerk, auteurs en doelen ligt bij Jonas, als werkdocument in het Claude-project. Daarna volgt een stappenplan voor 2027.
+
 ### 2026-11-04 · Ondernemingsplan · Posterprijs en leverkost
 
 Vervangt: 2026-11-04 (Wat marketing moet weten), het punt "Nog open". Deze prijzen mogen gecommuniceerd worden.
