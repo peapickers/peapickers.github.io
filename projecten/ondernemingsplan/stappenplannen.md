@@ -29,6 +29,9 @@ Datum: 2026-11-04 · Plan: [ondernemingsplan-2027-2029](ondernemingsplan-2027-20
 4. **Overige vaste kosten laag houden, volledig wettelijk:** opstart, licenties laten nakijken, verzekeringen (blijven, ter bescherming van oprichter en auteurs), hosting, onderhoud printer. **Vraag:** hoe houd je verzekeringen laag op een veilige manier?
 5. **Gevolg voor het plan.** Plan v3 rekent met productie op het privéadres, een boekhouder van ca. € 1.800 per jaar en vaste kosten van € 3.000 tot 3.500. Met een betaalde productieplek en een boekhouder als Creative Finance (€ 1.800 tot 3.000 per jaar) liggen de vaste kosten eerder op het niveau van een BV. Herrekenen zodra de antwoorden er zijn, samen met de nieuwe prijzen uit BESLISSINGEN.md.
 6. **Limited.** Beslist: oplage van 1 tot 5 stuks, Auteursrechten meteen bij het drukken. Er is nooit een negatief saldo, want de oprichter financiert dat als particulier met een lening die precies volgt wat de vzw nodig heeft, zonder terugbetalingstermijn en kwijt te schelden als het echt nodig is.
+7. **Twee extra geldstromen om de maandelijkse kosten te dekken** (beslist 5-11, vervangt "niet in 2027" voor deze twee):
+    - **Public domain:** een aparte pagina bij de posters met werken uit het publiek domein, gedrukt aan 4 × M: 1M Materiaalkost, 3M vzw peapickers, geen Auteursrechten. Voorbeeld Medium Semimatte: M € 1,85, prijs € 7,40, € 5,55 voor de vzw.
+    - **Nonprofit printshop:** de printshop oprichten als tweede activiteit van vzw peapickers. **Vraag:** prijsformule, start en wat er verandert aan "betalen aan de deur" (nooit cash).
 
 ## Vaste keuzes voor iedereen
 
@@ -44,7 +47,7 @@ Datum: 2026-11-04 · Plan: [ondernemingsplan-2027-2029](ondernemingsplan-2027-20
 | Beelden | Origineel nooit bewerkt of online; online beelden (1200 px, thumbnail) met watermerk en Glaze, vermeld in de licentie |
 | Financiering | Oprichter stort maandelijks precies wat nodig is, als renteloze, achtergestelde lening; geen reserve |
 | Fine-art | Vanaf de eerste maanden, gefinancierd met de lening |
-| Niet in 2027 | Printshop, werken uit het publiek domein, standplaatsen op markten, eigen domeinnaam, lanceringsevenement |
+| Niet in 2027 | Standplaatsen op markten, eigen domeinnaam, lanceringsevenement (public domain en printshop: zie todo 7) |
 
 ## Boekhouder
 
@@ -122,3 +125,6 @@ Doel: zichtbaarheid vanaf de eerste verkoop in Q2 2027, een fysiek uithangbord v
 | Productieplek: zetel, veilig, 24/7, gratis of goedkoop | Oprichter |
 | Goedkopere boekhouder dan de referentie (Creative Finance € 150 tot 250 per maand) | Oprichter en boekhouder |
 | Verzekeringen laag houden, volledig wettelijk | Oprichter en boekhouder |
+| Startdatum public domain en printshop | Oprichter |
+| Prijsformule en betaling printshop | Oprichter en techniek |
+| Werken uit het publiek domein toegelaten in BESLISSINGEN.md (staat nu "niet verkocht") | Oprichter |
