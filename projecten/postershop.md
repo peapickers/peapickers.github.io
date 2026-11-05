@@ -9,6 +9,16 @@ Site: <https://peapickers.github.io/postershoppeapickers/> · Repo: [peapickers/
 
 ## Kern
 
+### 2026-11-05 · Kern · Beslissingen postershop
+
+Vervangt: 2026-11-04 (Poster op maat, fine-art als voorraad) en 2026-11-04 (Twee vormen, kanaal en planning), voor maten, producten en woorden.
+
+- De laatst bruikbare stand staat in [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md) in de repo van de postershop. Die gaat voor op het ondernemingsplan v3, op LEESMIJ.md en op oudere items hier.
+- Maten: Klein 20 × 30, Medium 30 × 40 en Groot 40 × 60 cm. Elke maat daartussen kan; de prijs volgt de kleinste klasse waarin het vel past. Geen A4, A3 of A2 meer.
+- Producten: **Poster** (elk werk, gedrukt na bestelling, klant kiest papier en maat) en **Limited** (gecureerde afdrukken, vast formaat, kleine genummerde en gesigneerde oplage). Het woord "fine-art" valt weg, behalve in "fine-art printer".
+- Woorden overal gelijk: Prijsopbouw, Limited, Klein / Medium / Groot (niet "middel"), Materiaalkost / Auteursrechten / vzw peapickers, NSFW (18+), Public Ledger, Deelnemen?
+- Werken uit het publiek domein worden niet verkocht. vzw in oprichting rond januari 2027, verkoop vanaf het voorjaar van 2027.
+
 ### 2026-11-04 · Kern · Poster op maat, fine-art als voorraad
 
 Vervangt: 2026-11-04 (Twee vormen, kanaal en planning), voor het posterformaat en de wachtronde.
@@ -44,6 +54,26 @@ Vervangt: 2026-11-02 (Oplage)
 - In preview: alleen fictieve placeholders, er wordt niets verkocht.
 
 ## Boekhouder
+
+### 2026-11-05 · Boekhouder · Prijs volgens BESLISSINGEN.md
+
+Vervangt: 2026-11-04 (Nieuwe posterprijs 7M) en 2026-11-04 (Prijs per vorm), voor M, btw, maten en voorbeeldprijzen.
+
+- **M = papier + inkt**, zonder opslag van 21 %: de inkoopprijzen zijn al prijzen met btw. **Prijs = 7 × M**, afgerond op € 0,10.
+- Geen btw op de verkoop: vzw peapickers is btw-vrijgesteld. Nergens meer "incl. btw" of "excl. btw" bij de verkoopprijs.
+- **Verdeling 1 · 3 · 3:** Materiaalkost 1M, Auteursrechten 3M bruto (min 15 % roerende voorheffing), vzw peapickers 3M bruto (de rest, ± afronding).
+- Bedragen per maat in `_data/config-prijzen.csv` van de postershop. Inkt Klein / Medium / Groot: 0,50 / 0,65 / 1,30. Papier: Enhanced Matte 0,50 / 1,00 / 2,00 · Semimatte 0,60 / 1,20 / 2,40 · Luster 0,75 / 1,50 / 3,00.
+- Voorbeeld: Medium op Semimatte → M = 1,20 + 0,65 = 1,85 → prijs € 13,00. Auteursrechten € 5,55 bruto (€ 4,72 netto), vzw peapickers € 5,60.
+- Prijzen per maat:
+
+| Papier | Klein | Medium | Groot |
+|---|---|---|---|
+| Epson Enhanced Matte 189 g | € 7,00 | € 11,60 | € 23,10 |
+| Epson Semimatte 260 g | € 7,70 | € 13,00 | € 25,90 |
+| Epson Luster 260 g | € 8,80 | € 15,10 | € 30,10 |
+
+- Limited: vaste M per werk, zelfde 7 × M en 1 · 3 · 3; auteursrechten meteen bij het drukken.
+- Leverkost en bestelminimum blijven zoals op de site (`_data/config-verzending.csv`).
 
 ### 2026-11-04 · Boekhouder · Nieuwe posterprijs 7M
 
@@ -86,6 +116,19 @@ Vervangt: 2026-11-02 (Prijs en Public Ledger), voor wat de verdeling betreft.
 - De Public Ledger staat in `_data/register.csv`. De bedragen daarin zijn nu nog fictief.
 
 ## Technieker
+
+### 2026-11-05 · Technieker · Site volgt BESLISSINGEN.md
+
+- Alle commentaar van Jonas op de werkende kopie is verwerkt en gemerged (postershop PR #10 tot #18). De site volgt nu BESLISSINGEN.md: maten Klein / Medium / Groot, M zonder btw-opslag, geen btw op de verkoop, Poster en Limited, filter NSFW (18+), pagina's Prijsopbouw, Public Ledger, Over, Bestellen en leveren, Deelnemen?
+- Bron van de bedragen blijft `_data/config-prijzen.csv`. De kolomnamen daarin (`klein`, `middel`, `groot`) zijn interne namen; op de site staat Medium.
+
+### 2026-11-04 · Technieker · Wat de webshop moet krijgen
+
+- Posterconfigurator in drie stappen: velgrootte (per cm, verhouding 4:6 tot 1:1), afbeeldingsgrootte en aantal. Drie papiersoorten. M en prijs live berekend.
+- Limited als vaste prints, zonder keuze in formaat.
+- Mand met de wachtronde en een teller van wie wacht, bestelminimum € 20, leverkost € 3,50.
+- Filter NSFW (18+), pagina "Deelnemen?" en AI-scrapers weren (robots.txt).
+- Geen keuze voor een kader of ophangsysteem.
 
 ### 2026-11-02 · Technieker · Opbouw
 

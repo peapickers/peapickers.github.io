@@ -1,6 +1,8 @@
 ---
 title: Dossier voor de boekhouder
 ---
+> **Correctie 2026-11-05 · Technieker.** Voor de postershop gelden de prijzen, maten en woorden uit [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md); die gaan voor op deze tekst. M = papier + inkt, zonder btw-opslag. Prijs = 7 × M, afgerond op € 0,10, zonder btw op de verkoop (vzw peapickers is btw-vrijgesteld). Verdeling 1 · 3 · 3: Materiaalkost 1M, Auteursrechten 3M bruto (min 15 % roerende voorheffing), vzw peapickers 3M bruto. Maten Klein 20 × 30, Medium 30 × 40 en Groot 40 × 60 cm, geen A-formaten meer. "Fine-art" heet nu Limited. Bedragen "excl. btw" voor diensten die de vzw inkoopt (zoals de boekhouder) blijven gewoon gelden. De tekst hieronder blijft ongewijzigd staan als archief.
+
 > Momentopname van 2026-11-03, overgenomen uit het Claude-project Boekhouder. Terug naar [Boekhouder](../boekhouder.html).
 
 # Postershop Peapickers: dossier voor de boekhouder (index en onzekerheden)
