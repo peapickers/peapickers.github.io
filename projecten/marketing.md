@@ -23,7 +23,7 @@ Vervangt: 2026-11-04 (Posterprijs en leverkost) voor prijs, maten en woorden. Br
 
 - **M = papier + inkt**, zonder opslag. **Prijs = 7 × M**, afgerond op € 0,10. Geen btw op de verkoop: in marketingmateriaal nooit "incl. btw" of "excl. btw" schrijven.
 - **Verdeling 1 · 3 · 3**: Materiaalkost 1M, Auteursrechten 3M bruto (min 15 % roerende voorheffing), vzw peapickers 3M bruto (de rest).
-- **Maten**: Klein 20 × 30, Medium 30 × 45, Groot 40 × 60 cm. Geen A4, A3 of A2 meer, ook niet op flyers, stalen of one-pagers. Elke maat daartussen kan; de prijs volgt de kleinste klasse waarin het vel past.
+- **Maten**: Klein 20 × 30, Medium 30 × 40, Groot 40 × 60 cm. Geen A4, A3 of A2 meer, ook niet op flyers, stalen of one-pagers. Elke maat daartussen kan; de prijs volgt de kleinste klasse waarin het vel past.
 - **Producten**: Poster (elk werk, gedrukt na bestelling) en Limited (genummerd en gesigneerd, vaste M per werk). Geen kaders of passe-partouts als apart product. Passe-partout standaard 5 % van de korte zijde.
 - Prijzen per papier en maat (berekend uit `_data/config-prijzen.csv`, zelfde afronding als de site):
 
