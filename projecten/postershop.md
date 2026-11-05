@@ -87,6 +87,15 @@ Vervangt: 2026-11-02 (Prijs en Public Ledger), voor wat de verdeling betreft.
 
 ## Technieker
 
+### 2026-11-04 · Technieker · Wat de webshop moet krijgen
+
+- Posterconfigurator in drie stappen: velgrootte (A4 tot 40 × 60 cm, per cm, verhouding 4:6 tot 1:1), afbeeldingsgrootte en aantal. Drie papiersoorten. M en prijs live berekend volgens Boekhouder 2026-11-04.
+- Fine-art als vaste prints, zonder keuze in formaat.
+- Mand met de wachtronde en een teller van wie wacht, bestelminimum € 20, leverkost € 3,50.
+- Filter voor naaktheid, pagina "Meepikken?" en AI-scrapers weren (robots.txt).
+- Geen keuze voor een kader of ophangsysteem.
+- Stand: de site toont nog het oude model (keuze A4, A3 of A2 tegen 7 × M). Nog niet aangepast.
+
 ### 2026-11-02 · Technieker · Opbouw
 
 - Zelfde CollectionBuilder-basis als het Archief (Jekyll, Ruby 3.3). GitHub Actions bouwt bij elke push naar main (`.github/workflows/pages.yml`).
