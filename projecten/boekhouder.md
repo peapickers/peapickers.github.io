@@ -17,6 +17,11 @@ Claude-project: Boekhouder · Repo: [peapickers/peapickers.github.io](https://gi
 
 ## Stand van zaken
 
+### 2026-11-05 · Technieker · Prijzen in het dossier verouderd
+
+- De prijzen, de btw van 21 % en de A-formaten in het [dossier](boekhouder/dossier-voor-de-boekhouder.html) en de [prijsaanvraag](boekhouder/prijsaanvraag-boekhouder-vzw-peapickers.html) zijn achterhaald. Nu geldt [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md): M = papier + inkt, prijs 7 × M, geen btw op de verkoop (btw-vrijgesteld), verdeling 1 · 3 · 3, maten Klein / Medium / Groot. Zie [Postershop](postershop.html), Boekhouder 2026-11-05.
+- De documenten blijven staan, met een correctie bovenaan. Het break-even en de scenario's moeten met de nieuwe prijzen herrekend worden.
+
 ### 2026-11-04 · Boekhouder · Advies: een boekhouder kiezen
 
 - [Advies boekhouder kiezen](boekhouder/advies-boekhouder-kiezen.html): criteria (ITAA-erkenning eerst), vragen voor het kennismakingsgesprek, een vergelijkingstabel en 19 taken (B1 – B19) voor de todo-lijst.

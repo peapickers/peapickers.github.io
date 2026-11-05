@@ -17,6 +17,12 @@ Claude-project: Techniek · Repo: [peapickers/peapickers.github.io](https://gith
 
 ## Stand van zaken
 
+### 2026-11-05 · Technieker · BESLISSINGEN.md gaat voor
+
+- Voor de postershop geldt [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md) boven alles wat ouder is: maten Klein / Medium / Groot, M = papier + inkt zonder btw-opslag, prijs 7 × M zonder btw op de verkoop, verdeling 1 · 3 · 3, Limited in plaats van fine-art.
+- Correctie bovenaan gezet in het dossier en de stukken voor de boekhouder, stappenplan v4, plan v3 en v2, de stappenplannen en de feedback van jurist en techniek. Niets verwijderd. Zie ook [Postershop](postershop.html), 2026-11-05.
+- Printshop en de oude site `peapickers` hebben eigen formaten en blijven ongewijzigd: BESLISSINGEN.md gaat alleen over de postershop.
+
 ### 2026-11-04 · Technieker · Open punten van 3 november afgehandeld
 
 Vervangt: 2026-11-03 (Start)
