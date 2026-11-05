@@ -4,6 +4,14 @@ title: Feedback marketing op ondernemingsplan v2
 # Feedback marketing op ondernemingsplan v2
 Datum: 2026-11-04
 
+> **Stand 2026-11-05.** Deze feedback rekent nog met de prijzen en maten van v2. Sinds [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md) gelden: geen btw op de verkoop (geen "incl./excl. btw"), Klein 20 × 30 / Medium 30 × 40 / Groot 40 × 60 cm in plaats van A4 / A3 / A2, en "Limited" in plaats van "fine-art". De tekst hieronder blijft staan zoals hij was. Wat erdoor verandert:
+>
+> - Prijzen: Klein € 7,00–8,80, Medium € 11,60–15,10, Groot € 23,10–30,10. Het voorbeeld "Van deze € 15,70 gaat € 5,55 naar de maker" (punt 1 en de prijsvraag) wordt "Van deze € 13,00 gaat € 5,55 bruto naar de auteur" (Medium Semimatte). De prijsstrook op de productpagina toont geen btw meer: Materiaalkost · Auteursrechten · vzw peapickers.
+> - M03 en punt 5 (productmix): de break-evens moeten herrekend worden met Klein / Medium / Groot zonder btw-opslag; de getallen ± 990 / 493 / ± 200 gelden niet meer.
+> - M07 (bestelminimum): de site laat de gedeelde leverronde in Gent al onder het minimum toe. De vraag blijft alleen voor levering in Gent (€ 3,50) en bpost.
+> - M17 en M24: lees "Limited" waar "fine-art" staat; "meet je kader" verwijst naar vrije maten tussen 20 × 30 en 40 × 60 cm.
+> - Flyervoorstel instapprijzen: "vanaf € 7 · Medium vanaf € 11,60 · Groot vanaf € 23,10".
+
 Gelezen als marketingdienst van peapickers, met de beslissing dat er in 2027 alleen een webshop is en dat marketing zo fysiek mogelijk blijft (flyers, affiches, stickers, kaartjes met QR-code naar de webshop). Bedragen in euro. Waar een getal een schatting van marketing is, staat dat erbij.
 
 ## Wat mist er
