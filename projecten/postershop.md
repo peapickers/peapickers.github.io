@@ -14,7 +14,7 @@ Site: <https://peapickers.github.io/postershoppeapickers/> · Repo: [peapickers/
 Vervangt: 2026-11-04 (Poster op maat, fine-art als voorraad) en 2026-11-04 (Twee vormen, kanaal en planning), voor maten, producten en woorden.
 
 - De laatst bruikbare stand staat in [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md) in de repo van de postershop. Die gaat voor op het ondernemingsplan v3, op LEESMIJ.md en op oudere items hier.
-- Maten: Klein 20 × 30, Medium 30 × 45 en Groot 40 × 60 cm. Elke maat daartussen kan; de prijs volgt de kleinste klasse waarin het vel past. Geen A4, A3 of A2 meer.
+- Maten: Klein 20 × 30, Medium 30 × 40 en Groot 40 × 60 cm. Elke maat daartussen kan; de prijs volgt de kleinste klasse waarin het vel past. Geen A4, A3 of A2 meer.
 - Producten: **Poster** (elk werk, gedrukt na bestelling, klant kiest papier en maat) en **Limited** (gecureerde afdrukken, vast formaat, kleine genummerde en gesigneerde oplage). Het woord "fine-art" valt weg, behalve in "fine-art printer".
 - Woorden overal gelijk: Prijsopbouw, Limited, Klein / Medium / Groot (niet "middel"), Materiaalkost / Auteursrechten / vzw peapickers, NSFW (18+), Public Ledger, Deelnemen?
 - Werken uit het publiek domein worden niet verkocht. vzw in oprichting rond januari 2027, verkoop vanaf het voorjaar van 2027.

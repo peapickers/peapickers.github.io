@@ -13,7 +13,7 @@ Vervangt: 2026-11-04 (Versie 3), voor prijs, btw, maten en woorden.
 
 - [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md) in de repo van de postershop gaat voor op plan v3.
 - M = papier + inkt, zonder btw-opslag. Prijs = 7 × M, afgerond op € 0,10, geen btw op de verkoop. Medium op Semimatte: € 13,00 (niet € 15,70), waarvan € 5,55 bruto Auteursrechten.
-- Maten Klein 20 × 30, Medium 30 × 45, Groot 40 × 60 cm (niet klein / middel / groot vanaf 21 × 29,7).
+- Maten Klein 20 × 30, Medium 30 × 40, Groot 40 × 60 cm (niet klein / middel / groot vanaf 21 × 29,7).
 - "Fine-art" heet nu Limited.
 - Het plan, de stappenplannen en de pdf's blijven als archief staan, met een correctie bovenaan. De bedragen in het break-even (532 tot 621 posters) zijn met de oude prijs berekend en moeten herrekend worden.
 
