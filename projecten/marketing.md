@@ -17,6 +17,12 @@ Claude-project: Marketing · Repo: [peapickers/peapickers.github.io](https://git
 
 ## Stand van zaken
 
+### 2026-11-05 · Marketing · Doel 85 posters per maand
+
+- Jonas vroeg hoe haalbaar 85 posters per maand is (± 1.020 per jaar, het dubbele van de 500 uit het ondernemingsplan). Inschatting marketing: 25 tot 40 per maand bij de start in 2027, 85 in september en december, als vast niveau vanaf eind 2027 of in 2028.
+- Grootste hefbomen: het aantal actieve auteurs, echte posters met QR-code op zichtbare plekken in Gent, en de pagina publiek domein (lage instapprijs, meer posters per bestelling).
+- Het stappenplan met eigenaars en deadlines is een werkdocument in het Claude-project Marketing. Meetmomenten: eind juni en eind oktober 2027.
+
 ### 2026-11-04 · Marketing · Focus op de start van de webshop
 
 - Beslissing van Jonas: marketing werkt voorlopig alleen voor de webshop. B2B-partners (De Slegte, Het Paard van Troje, musea, platenwinkels), verkoop op beurzen en een marge voor winkels liggen stil. Dat volgt het [ondernemingsplan](ondernemingsplan.html).

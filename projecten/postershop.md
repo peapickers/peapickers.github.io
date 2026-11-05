@@ -9,6 +9,13 @@ Site: <https://peapickers.github.io/postershoppeapickers/> · Repo: [peapickers/
 
 ## Kern
 
+### 2026-11-05 · Kern · Publiek domein aan 4 × M
+
+Vervangt: 2026-11-05 (Beslissingen postershop), de regel "Werken uit het publiek domein worden niet verkocht".
+
+- Werken uit het publiek domein komen op een aparte pagina bij Posters, aan 4 × M: Materiaalkost 1M, vzw peapickers 3M, geen Auteursrechten. Zie [ondernemingsplan](ondernemingsplan.html) en BESLISSINGEN.md.
+- Elk werk eerst nagaan: zeker vrij in België.
+
 ### 2026-11-05 · Kern · Beslissingen postershop
 
 Vervangt: 2026-11-04 (Poster op maat, fine-art als voorraad) en 2026-11-04 (Twee vormen, kanaal en planning), voor maten, producten en woorden.
