@@ -9,6 +9,10 @@ Site: <https://peapickers.github.io/printshoppeapickers/> · Repo: [peapickers/p
 
 ## Kern
 
+### 2026-11-05 · Kern · Nonprofit printshop wordt opgericht
+
+- Beslissing van Jonas: de nonprofit printshop wordt opgericht als extra geldstroom om de maandelijkse kosten van vzw peapickers mee te dekken. Niet langer "niet in 2027". Zie [ondernemingsplan](ondernemingsplan.html).
+
 ### 2026-11-02 · Kern · Stand van zaken
 
 - Fotoprints op bestelling. Levering in Gent en deelgemeenten, betalen aan de deur.
