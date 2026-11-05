@@ -67,7 +67,7 @@ Peapickers verkoopt via een eigen webshop reproducties van werk van kunstenaars,
 | Wie verkoopt | vzw peapickers, in oprichting. Geen externe verkooppartner. Later ook B2B, met licentieovereenkomsten op maat per werk. |
 | Wie levert het werk | Kunstenaars als particulieren, zonder professioneel statuut of kunstwerkattest. Ze verklaren dat het om bestaand werk gaat dat ze zelf en zelfstandig maakten, niet om via Peapickers te verkopen. |
 | Wat wordt verkocht | Reproducties, digitaal gedrukt en verdeeld door de vzw. Per werk wordt in de licentieovereenkomst vastgelegd welk product (Poster en/of Limited) en welke termijn gelden. |
-| Poster | Elk werk, gedrukt na bestelling. De klant kiest papier (Epson Enhanced Matte 189 g, Semimatte 260 g of Luster 260 g) en maat: Klein 20 × 30, Medium 30 × 45 of Groot 40 × 60 cm, of een maat daartussen. Geen beperking van de oplage. |
+| Poster | Elk werk, gedrukt na bestelling. De klant kiest papier (Epson Enhanced Matte 189 g, Semimatte 260 g of Luster 260 g) en maat: Klein 20 × 30, Medium 30 × 40 of Groot 40 × 60 cm, of een maat daartussen. Geen beperking van de oplage. |
 | Limited | Gecureerde, unieke afdrukken: vast formaat, kleine genummerde en gesigneerde oplage, vaste M per werk. De auteursrechten worden meteen bij het drukken betaald; de oplage is voorraad. |
 | Waar | Alleen de eigen webshop. Later B2B. Geen verkoop op beurzen of markten. |
 | Afwerking | Passe-partout rondom 5 % van de korte zijde, nooit kleiner. Geen kaders of passe-partouts als apart product. Werken uit het publiek domein worden niet verkocht. |
@@ -106,7 +106,7 @@ M = papier + inkt, zoals betaald (btw inbegrepen). Er komt geen btw bovenop: de 
 
 Papier wordt altijd op rol gekocht (40 cm breed) en op maat gesneden, omdat dat per vel het goedkoopst is. De inktkost is een richtprijs die gemiddeld per afdruk klopt.
 
-| M per afdruk | Klein 20 × 30 | Medium 30 × 45 | Groot 40 × 60 |
+| M per afdruk | Klein 20 × 30 | Medium 30 × 40 | Groot 40 × 60 |
 | --- | --- | --- | --- |
 | Inkt | 0,50 | 0,65 | 1,30 |
 | Epson Enhanced Matte 189 g | 0,50 | 1,00 | 2,00 |
