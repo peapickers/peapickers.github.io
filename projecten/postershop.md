@@ -9,6 +9,14 @@ Site: <https://peapickers.github.io/postershoppeapickers/> · Repo: [peapickers/
 
 ## Kern
 
+### 2026-11-05 · Kern · BESLISSINGEN.md
+
+Vervangt: alle oudere items hieronder over prijs, btw, A-formaten en fine-art.
+
+- De laatst bruikbare stand van de postershop staat in [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md).
+- Prijs = 7 × M (papier + inkt), afgerond op € 0,10, geen btw. Verdeling 1 · 3 · 3: Materiaalkost, Auteursrechten, vzw peapickers.
+- Maten Klein 20 × 30, Medium 30 × 45, Groot 40 × 60 cm. Producten Poster en Limited. Jargon: Prijsopbouw, NSFW (18+), Public Ledger.
+
 ### 2026-11-04 · Kern · Poster op maat, fine-art als voorraad
 
 Vervangt: 2026-11-04 (Twee vormen, kanaal en planning), voor het posterformaat en de wachtronde.

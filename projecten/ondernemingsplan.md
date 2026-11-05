@@ -7,6 +7,16 @@ Regels: [werkwijze](werkwijze.html) · Merk: [postershop](postershop.html)
 
 > Nieuwste item bovenaan. Niets verwijderen: voeg een nieuw item toe. Het volledige plan is een intern werkdocument; hier staan alleen de kernkeuzes.
 
+### 2026-11-05 · Kern · BESLISSINGEN.md gaat voor op versie 3
+
+Vervangt: in versie 3 de prijs met M incl. de 21 % btw op materiaal (Semimatte middel € 15,70, waarvan € 6,72 voor de auteur), het formaat vanaf 21 × 29,7 cm, de groottes klein/middel/groot en het woord fine-art.
+
+- De laatst bruikbare stand staat in [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md). Het plan zelf (v3 en pdf) blijft als archief staan.
+- M = papier + inkt, zoals betaald. Prijs = 7 × M, afgerond op € 0,10. Geen btw op de verkoop.
+- Verdeling 1 · 3 · 3: Materiaalkost 1M, Auteursrechten 3M bruto (min 15 % roerende voorheffing), vzw peapickers 3M bruto.
+- Maten Klein 20 × 30, Medium 30 × 45, Groot 40 × 60 cm. Producten: Poster en Limited.
+- Gevolg voor § 9: een Poster Medium op Semimatte kost € 13,00; Auteursrechten € 5,55 bruto, vzw peapickers € 5,60. Na € 0,50 verpakking en ca. € 0,60 betaalkosten blijft € 4,50, dus break-even bij ongeveer 667 tot 778 posters per jaar (was 532 tot 621). Herberekend in het [dossier voor de boekhouder](boekhouder/dossier-voor-de-boekhouder-2026-11-05.html).
+
 ### 2026-11-04 · Kern · Versie 3
 
 Vervangt: de prijsverdeling met 21 % btw, de vaste kosten van € 2.500, het break-even van 493 posters en de regel "fine-art pas bij een reserve van € 2.500" uit versie 1 en 2.

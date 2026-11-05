@@ -1,6 +1,8 @@
 ---
 title: Dossier voor de boekhouder
 ---
+> **Verouderd op prijs, maten en btw.** Nieuwe versie: [dossier van 2026-11-05](dossier-voor-de-boekhouder-2026-11-05.html).
+
 > Momentopname van 2026-11-03, overgenomen uit het Claude-project Boekhouder. Terug naar [Boekhouder](../boekhouder.html).
 
 # Postershop Peapickers: dossier voor de boekhouder (index en onzekerheden)

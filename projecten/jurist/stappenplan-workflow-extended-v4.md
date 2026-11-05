@@ -1,6 +1,8 @@
 ---
 title: Stappenplan van de workflow (versie 4)
 ---
+> **Verouderd op prijs, maten, btw en producten.** Nieuwe versie: [stappenplan van 2026-11-05](stappenplan-workflow-extended-v4-2026-11-05.html).
+
 > Openbare momentopname van 2026-11-03, overgenomen uit het Claude-project. Details over opslag en vertrouwenspersonen zijn weggelaten. Terug naar [Jurist](../jurist.html).
 
 # Stappenplan van de workflow – extended (versie 4)

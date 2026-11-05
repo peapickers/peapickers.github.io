@@ -1,6 +1,8 @@
 ---
 title: Prijsaanvraag boekhouder
 ---
+> **Verouderd op btw en volumes.** Nieuwe versie: [prijsaanvraag van 2026-11-05](prijsaanvraag-boekhouder-vzw-peapickers-2026-11-05.html).
+
 > Momentopname van 2026-11-03, overgenomen uit het Claude-project Boekhouder. Terug naar [Boekhouder](../boekhouder.html).
 
 # Prijsaanvraag boekhouding vzw Peapickers (in oprichting)

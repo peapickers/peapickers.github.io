@@ -17,6 +17,15 @@ Claude-project: Boekhouder · Repo: [peapickers/peapickers.github.io](https://gi
 
 ## Stand van zaken
 
+### 2026-11-05 · Boekhouder · Afgestemd op BESLISSINGEN.md
+
+Vervangt: de prijzen, maten en de btw-keuze in de documenten van 2026-11-03.
+
+- [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md) gaat voor op alle oudere teksten. Kern: M = papier + inkt, prijs = 7 × M afgerond op € 0,10, geen btw op de verkoop (bijzondere vrijstellingsregeling kleine ondernemingen), verdeling 1 · 3 · 3 (Materiaalkost, Auteursrechten bruto, vzw peapickers), maten Klein 20 × 30, Medium 30 × 45, Groot 40 × 60 cm, producten Poster en Limited.
+- Nieuwe versies: [dossier voor de boekhouder](boekhouder/dossier-voor-de-boekhouder-2026-11-05.html), [prijsaanvraag](boekhouder/prijsaanvraag-boekhouder-vzw-peapickers-2026-11-05.html) en [stappenplan v4](jurist/stappenplan-workflow-extended-v4-2026-11-05.html). De versies van 2026-11-03 blijven als archief.
+- Herberekend: een Poster Medium op Semimatte kost € 13,00 (Auteursrechten € 5,55 bruto, vzw peapickers € 5,60). Break-even met alleen posters: ongeveer 667 tot 778 per jaar bij € 3.000 tot 3.500 vaste kosten. Nog na te rekenen door de boekhouder.
+- In het [advies boekhouder kiezen](boekhouder/advies-boekhouder-kiezen.html) is B1 (de btw-zin) daarmee opgelost.
+
 ### 2026-11-04 · Boekhouder · Advies: een boekhouder kiezen
 
 - [Advies boekhouder kiezen](boekhouder/advies-boekhouder-kiezen.html): criteria (ITAA-erkenning eerst), vragen voor het kennismakingsgesprek, een vergelijkingstabel en 19 taken (B1 – B19) voor de todo-lijst.
