@@ -30,7 +30,7 @@ Wat er voor marketing verandert:
 - **Cijfers.** Break-even 723 tot 1.312 posters per jaar (midden ca. 978). 85 per maand (ca. 1.020 per jaar) is dus het break-evendoel. Verwachting van Jonas voor jaar 1 (VB12): 5 tot 10 Posters, 1 publiek domein en 0 Limited per maand, het verlies gedekt door een maandelijkse lening onder € 300. Publiek domein (4 × M) en de printshop zijn extra geldstromen.
 - **Limited later** (VB7). Marketing in 2027 gaat alleen over Poster en publiek domein.
 - **Medebestuurder.** Geen vacature "niet-uitvoerend bestuurder" meer (VJ10): marketing schrijft een oproep zonder namen, de jurist de rolbeschrijving (J18).
-- Ongewijzigd: alleen webshop, B2B ligt stil (2026-11-04); huisstijl; geen ophangsysteem met latten.
+- Ongewijzigd: alleen webshop, B2B ligt stil (2026-11-04); huisstijl en jargon volgens BESLISSINGEN.md.
 
 Wat er met de actiepunten M01 tot M28 gebeurt:
 
