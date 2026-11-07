@@ -18,6 +18,7 @@ title: Beslissingen 7 november 2026, avond
 | V5 | **Printer**: eigendom en beheer van de oprichter, geen bruikleen, niet verzekerd door de vzw. Papier en inkt koopt de vzw (factuur op naam van de vzw) en stelt ze ter beschikking voor de dienst, uitsluitend voor de vzw. | VB4, VJ12, J12, ZB14 (bruikleen); VB5 voor de printer |
 | V6 | **Public Ledger**: "gratis dienst door de oprichter", zonder naam en zonder bedrag. Nooit persoonsgegevens. De Public Ledger is een publieke weergave, niet de wettelijke boekhouding; de officiële boekhouding, aangiftes en fiches gaan langs de wettelijke weg. | |
 | V7 | **Lening oprichter**: altijd exact wat de vzw nodig heeft, renteloos, zonder vaste termijn, gestort op het moment van een uitgave. Kosten van vóór de oprichting worden niet ingebracht (bevestigt VB9). Publiek doel van de opgebouwde middelen: een eigen ruimte (magazijn of garage) voor productie, tentoonstellingen en workshops, ten vroegste januari 2029. | Bevestigt VB1 tot VB3 |
+| V9 | **Consumentenprijs, richting (te onderzoeken)**: de prijs volgt het marktgemiddelde van vergelijkbare posters, min 30 tot 40 %. Marktconforme prijzen zijn veiliger. Dat kan omdat de vzw geen btw aanrekent (vrijstellingsregeling) en geen winst nastreeft. Verwachting: ongeveer de huidige prijzen. **Open:** welke markt en welke vergelijkbare posters als referentie, per maat en papier; of 7 × M blijft als controle of vervalt; het verband met de Prijsopbouw op de site. Tot het onderzoek klaar is, blijft 7 × M gelden. | Prijs = 7 × M (pas na het onderzoek) |
 | V8 | **Vanaf 2029**: eigen pand, productie in de vzw, marktconform loon voor de bestuurder. Doel in het plan, uitwerken in 2028 (J23). | |
 
 ## 2. Gevolgen voor de cijfers
@@ -46,6 +47,7 @@ Vervallen posten: productieplek, verzekering en onderhoud van materiaal. Jaar 1 
 | A3 | Mag een vzw onder de vennootschapsbelasting vrijwilligersvergoedingen uitkeren? (open sinds plan v3) | Boekhouder, Jurist |
 | A4 | Gevolgen van een zetel op het adres van een bestuurder in een appartement in mede-eigendom: reglement van mede-eigendom, belastingen, beslag, controles. | Jurist |
 | A5 | Licentie concept 6: vergoeding als 50 % van de verkoopprijs, bruto. Publiek domein (geen auteur) en Tweede kans (al 50/50) nakijken. | Jurist |
+| A7 | Marktonderzoek prijzen: gemiddelde verkoopprijs van vergelijkbare posters per maat en papier; voorstel prijs = gemiddelde min 30 tot 40 %, naast 7 × M gelegd. | Marketing, Boekhouder |
 | A6 | Notulen: kosteloze dienst, aankoop materiaal door de vzw, geen vergoeding, belangenconflictprocedure. | Jurist |
 
 ## 4. Samenvatting voor de andere projecten
@@ -54,4 +56,4 @@ Vervallen posten: productieplek, verzekering en onderhoud van materiaal. Jaar 1 
 - **Techniek**: Prijsopbouw en bestelvak tonen Auteursrechten 50 % en vzw peapickers 50 %, met apart wat het materiaal de vzw kost; `config-prijzen.csv` en de Public Ledger aanpassen (materiaal als uitgave per aankoop, "gratis dienst door de oprichter"). Publiek domein en Tweede kans herbekijken met de jurist (A5).
 - **Jurist**: licentie concept 6 op 50 %; geen bruikleen en geen onderhuur meer (J12 en J14 vervallen); notulen en vragen A1 tot A6.
 - **Boekhouder**: vaste kosten € 1.615 tot 3.315, break-even 455 tot 934 Posters; A1 tot A3; verzekering materiaal vervalt.
-- **Marketing**: het A4 voor een plek vervalt (M36); teksten over de verdeling ("3 van de 7 delen") worden "de helft van de prijs, bruto".
+- **Marketing**: marktonderzoek prijzen (A7, V9); het A4 voor een plek vervalt (M36); teksten over de verdeling ("3 van de 7 delen") worden "de helft van de prijs, bruto".
