@@ -17,6 +17,13 @@ Claude-project: Jurist · Repo: [peapickers/peapickers.github.io](https://github
 
 ## Stand van zaken
 
+### 2026-11-07 · Jurist · Antwoorden op de vragenlijst
+
+- Jonas beantwoordde VJ1 tot VJ14 in de [vragenlijst jurist](jurist/vragenlijst-2026-11-07.html). Voorstel gevolgd voor de advocaat, de lening, de bruikleen, wie tekent namens de vzw en licentie concept 6 voor de Poster eerst.
+- Advies vóór de oprichting betaalt de oprichter als particulier (VJ2). Retourkosten voor de klant (VJ3). Terugbetaling na ontvangst of verzendbewijs (VJ4). Huurovereenkomst samen met de gastheer, wij maken een prototype (VJ7). 2 bestuurders (VJ9).
+- Nieuw: teruggestuurde Posters in een tweedehandsafdeling (VJ5). Open als VJ19, actiepunt J24. Nog niet in BESLISSINGEN.md.
+- Nog open: VJ8 (gastheer wil zekerheid vóór de oprichting), VJ15 tot VJ19.
+
 ### 2026-11-07 · Jurist · Gevolgen van de beslissingen van 7 november
 
 Vervangt: 2026-11-04 ([feedback jurist](ondernemingsplan/feedback/jurist.html)), punt 5 en open vraag 2 (uitzondering op het herroepingsrecht voor een Poster op maat) en, in punt 3, de schenking van de printer.
