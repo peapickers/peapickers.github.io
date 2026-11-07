@@ -3,6 +3,8 @@ title: Advies boekhouder kiezen
 ---
 > **Correctie 2026-11-05 · Technieker.** Voor de postershop gelden de prijzen, maten en woorden uit [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md); die gaan voor op deze tekst. M = papier + inkt, zonder btw-opslag. Prijs = 7 × M, afgerond op € 0,10, zonder btw op de verkoop (vzw peapickers is btw-vrijgesteld). Verdeling 1 · 3 · 3: Materiaalkost 1M, Auteursrechten 3M bruto (min 15 % roerende voorheffing), vzw peapickers 3M bruto. Maten Klein 20 × 30, Medium 30 × 40 en Groot 40 × 60 cm, geen A-formaten meer. "Fine-art" heet nu Limited. Bedragen "excl. btw" voor diensten die de vzw inkoopt (zoals de boekhouder) blijven gewoon gelden. De tekst hieronder blijft ongewijzigd staan als archief.
 
+> Stand 2026-11-05: B1 is opgelost door de keuze voor de vrijstellingsregeling (zie [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md)). De bedragen in B2 komen uit het dossier van 2026-11-03; zie het [dossier van 2026-11-05](dossier-voor-de-boekhouder-2026-11-05.html).
+
 > Momentopname van 2026-11-04, overgenomen uit het Claude-project Boekhouder. Terug naar [Boekhouder](../boekhouder.html).
 
 # Een boekhouder kiezen voor vzw Peapickers
@@ -26,7 +28,7 @@ Elke regel is één taak. Id's blijven vast, zodat je ernaar kunt verwijzen.
 | B5 | Zet in de licentieovereenkomst dat de vzw rijksregisternummer en adres van de kunstenaar nodig heeft voor de fiche 281.45, en waarvoor. | Zonder die gegevens geen fiche. Ze blijven buiten het dossier en de repo. | D § 7.3, licentie |
 | B6 | Spreek met de boekhouder een vaste aanleverdatum en -vorm af (bv. de 10de: export Mollie en webshop, aankoopfacturen via app of mail). | Honderden kleine verkopen met de hand inboeken is duur en foutgevoelig. | S 0.8, 5.1 |
 | B7 | Voeg aan fase 0 toe: mandaten in MyMinfin aan de boekhouder geven (btw, roerende voorheffing, Biztax), met eID of itsme van de bestuurders. | Zonder mandaat kan de boekhouder geen aangiften doen. | Nieuw, S fase 0 |
-| B8 | Plan een voorraadtelling op de laatste dag van het boekjaar (papier, inkt, fine-art). | Nodig voor de jaarrekening. | D vraag 10 |
+| B8 | Plan een voorraadtelling op de laatste dag van het boekjaar (papier, inkt, Limited). | Nodig voor de jaarrekening. | D vraag 10 |
 | B9 | Spreek af dat een tweede bestuurder de uitbetaling aan kunstenaars en de doorstorting van de voorheffing ziet. | Beschermt de beheerder; vier ogen op het geld van derden. | Nieuw, S 5.1 |
 | B10 | Vraag of de vzw e-facturen van leveranciers via Peppol moet kunnen ontvangen, ook bij de vrijstellingsregeling. | Het dossier spreekt alleen over versturen naar B2B. | D § 5.2 |
 | B11 | Vul de prijsaanvraag aan: naam en e-mail (nu "[naam]"), gewenste startdatum, ITAA-nummer, opdrachtbrief, opzegtermijn, prijs per scenario met en zonder btw-plicht. | Zo zijn de offertes vergelijkbaar. | P |

@@ -28,6 +28,13 @@ Vervangt: 2026-11-04 (Versie 3), voor de plaats van productie en de kost van de 
 - Verzekeringen blijven, zo laag als wettelijk en veilig kan.
 - Vragen liggen bij een bevriende vzw-oprichter; todo in de [stappenplannen](ondernemingsplan/stappenplannen.html#todo-oprichter-2026-11-05). Vaste kosten en break-even herrekenen na het antwoord.
 
+### 2026-11-05 · Boekhouder · Break-even herrekend
+
+Vervangt: 2026-11-04 (Versie 3), voor het break-even.
+
+- Met de prijzen uit [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md): een Poster Medium op Semimatte kost € 13,00; Auteursrechten € 5,55 bruto, vzw peapickers € 5,60. Na € 0,50 verpakking en ca. € 0,60 betaalkosten blijft € 4,50 per poster.
+- Break-even bij € 3.000 tot 3.500 vaste kosten: ongeveer 667 tot 778 posters per jaar (was 532 tot 621). Details en scenario's in het [dossier voor de boekhouder](boekhouder/dossier-voor-de-boekhouder-2026-11-05.html). Nog na te rekenen door de boekhouder.
+
 ### 2026-11-05 · Technieker · Correcties op versie 3
 
 Vervangt: 2026-11-04 (Versie 3), voor prijs, btw, maten en woorden.
