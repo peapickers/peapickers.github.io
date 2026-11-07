@@ -17,6 +17,16 @@ Claude-project: Boekhouder · Repo: [peapickers/peapickers.github.io](https://gi
 
 ## Stand van zaken
 
+### 2026-11-07 · Boekhouder · Beslissingen: zelfbeheer, zetel, lening
+
+Vervangt: 2026-11-05 (Afgestemd op BESLISSINGEN.md), voor de rol van de boekhouder en de vaste kosten.
+
+- [Beslissingen van 7 november 2026](boekhouder/beslissingen-2026-11-07.html) (D1 tot D11) met actiepunten ZB01 tot ZB12 voor de compiler.
+- Boekhouding in zelfbeheer door de oprichter; een ITAA-boekhouder krijgt een maandvergoeding en controleert minstens 1 keer per jaar. Software van de boekhouder; Accountable volstaat nu niet.
+- Huurt de vzw een plek in een extern pand gedeeld met andere ondernemers, dan komt de zetel daar en vervallen de zetel bij familie, de lening van de oprichter en de koop van zijn materiaal. Een medebestuurder blijft nodig.
+- Vaste kosten stijgen met de productieplek (tot € 1.800 per jaar): break-even ruw 1.070 tot 1.180 posters per jaar. Na te rekenen.
+- Nieuwe versies: [dossier voor de boekhouder](boekhouder/dossier-voor-de-boekhouder-2026-11-07.html) en [kandidaat-stappenplan boekhouding in zelfbeheer](boekhouder/kandidaat-stappenplan-boekhouding-zelfbeheer.html) (vragen BZ1 tot BZ18).
+
 ### 2026-11-07 · Boekhouder · Productielocatie in Gent
 
 - [Productielocatie in Gent](boekhouder/productielocatie-gent.html): beslissingen L1 – L6 en hoe we een plek zoeken.
