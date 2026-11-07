@@ -7,6 +7,14 @@ Regels: [werkwijze](werkwijze.html) · Merk: [postershop](postershop.html)
 
 > Nieuwste item bovenaan. Niets verwijderen: voeg een nieuw item toe. Het volledige plan is een intern werkdocument; hier staan alleen de kernkeuzes.
 
+### 2026-11-07 · Compiler · Avond: oprichter drukt zelf, verdeling 50/50
+
+Vervangt: 2026-11-07 (Stand na alle antwoorden van 7 november), de productieplek, de bruikleen van de printer, de verdeling 1 · 3 · 3 en de vaste kosten.
+
+- De oprichter drukt als particulier, kosteloos, met zijn eigen printer; de vzw koopt papier en inkt. Geen productieplek. Zetel en administratie bij de medebestuurder.
+- Elke verkoopprijs 50/50: Auteursrechten (bruto) en vzw peapickers. Materiaal is een uitgave van de vzw per aankoop, niet per poster.
+- Vaste kosten € 1.615 tot 3.315, break-even 455 tot 934 Posters (€ 3,55 per Poster). Details: [beslissingen 7 november, avond](ondernemingsplan/beslissingen-2026-11-07-avond.html).
+
 ### 2026-11-07 · Compiler · Stand na alle antwoorden van 7 november
 
 Vervangt: 2026-11-07 (Zelfbeheer, productieplek en zetel), de break-even van 1.070 tot 1.180; 2026-11-04 (Versie 3), de vaste kosten, de scenario's 300 / 375 / 450, "fine-art vanaf de eerste maanden", "vrijwillig 14 dagen herroeping" en de gift van het materiaal.

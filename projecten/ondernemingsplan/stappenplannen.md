@@ -17,6 +17,8 @@ Datum: 2026-11-04 · Plan: [ondernemingsplan-2027-2029](ondernemingsplan-2027-20
 
 ## Todo oprichter (2026-11-07)
 
+> **Correctie 2026-11-07 (avond) · Compiler.** Na de [beslissingen van die avond](beslissingen-2026-11-07-avond.html): TO02 en TO11 (plek, huur, KBO-vestiging) en TO08 (bruikleen) vervallen; TO07 (lening) blijft; TO16 wordt licentie op 50 % van de prijs; nieuwe vragen A1 tot A6 voor boekhouder en jurist. De cijfers hieronder gelden niet meer: vaste kosten € 1.615 tot 3.315, break-even 455 tot 934 Posters.
+
 > Vervangt: [Todo oprichter (2026-11-05)](#todo-oprichter-2026-11-05), punten 1 tot 3, 5 en 6 voor de start (punt 6 blijft voor later), en in "Vaste keuzes voor iedereen" de rijen Prijs, Formaat, Herroeping, Financiering, Fine-art en "Niet in 2027" (eigen domeinnaam). Waar dit botst met de tekst eronder, geldt dit. Beslissingen, herrekening en tegenspraak: [stand van 7 november 2026](stand-2026-11-07.html). H = vóór de webshop live gaat (maart 2027), M = vóór het fysieke uithangbord (Q3 2027), L = later.
 
 **Kort.** De oprichting hangt aan drie dingen die alleen de oprichter kan doen: een medebestuurder (TO01), een productieplek (TO02) en een boekhouder (TO03). Alles daarna volgt in volgorde. Vaste kosten € 2.965 tot 5.615 per jaar, break-even 659 tot 1.248 Posters; de storting onder € 300 per maand lukt alleen in het lage scenario over heel 2027.
