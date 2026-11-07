@@ -17,14 +17,14 @@ Datum: 2026-11-07 · Rol: Boekhouder
 | L2 | De zetel (domicilie) van de vzw komt bij een familielid, na schriftelijke toestemming. | Productieplek moet geen zetel toelaten. Vervangt de zetelvraag S1 aan Sébastien grotendeels. |
 | L3 | Budget productieplek: maximaal 150 euro per maand, btw inbegrepen, alles inbegrepen. | Een vzw onder de vrijstellingsregeling kan btw niet recupereren: btw op huur is een echte kost. |
 | L4 | Voorwaarden: veilige, afsluitbare opslag; toegang buiten de kantooruren (24/7 bespreekbaar); schriftelijke overeenkomst; geregistreerd (KBO-vestigingseenheid); verzekerd. | Geen mondelinge of "ondergrondse" afspraken. |
-| L5 | Tegenprestatie mag in natura: gratis prints met een materiaalkost tot 50 euro per maand. | Eerst met de boekhouder afstemmen (zie 5.4). |
+| L5 | Tegenprestatie mag in natura: gratis prints met een materiaalkost tot 50 euro per maand. | Eerst met de boekhouder afstemmen (zie 2.4). |
 | L6 | Een gedeeld pand met onderverhuur is een tussenstap tot de aankoop van een eigen pand met gemengd gebruik, rond 2029. | Huurcontract met korte looptijd en opzegmogelijkheid. |
 
-## 5. Haalbaarheid: zelf een pand huren en onderverhuren
+## 2. Haalbaarheid: zelf een pand huren en onderverhuren
 
 **Conclusie.** Onder 150 euro per persoon is haalbaar, maar alleen met ongeveer acht vaste deelnemers in een pand van 80 m² of meer, een huur van hoogstens 10 euro per m² zonder btw, en een buffer voor leegstand. Met minder mensen kom op 170 tot 200 euro. De vzw draagt als hoofdhuurder het volle risico: vertrekt een onderhuurder, dan betaalt de vzw zijn deel.
 
-### 5.1 Ruwe rekensom
+### 2.1 Ruwe rekensom
 
 Aannames, niet geverifieerd met een concreet pand: huur 8 tot 11 euro per m² per maand zonder btw (oudere werkplaats of verdieping, niet in het kernwinkelgebied); kosten voor energie, water, internet, verzekeringen en onroerende voorheffing; 15 % buffer voor leegstand en onderhoud. Ter vergelijking: de offerte die afviel kwam op ongeveer 17 euro per m² zonder btw.
 
@@ -36,11 +36,11 @@ Aannames, niet geverifieerd met een concreet pand: huur 8 tot 11 euro per m² pe
 
 peapickers heeft meer ruimte nodig dan een gemiddelde maker (vier werktafels van 120 cm, waarvan twee met 1,5 m loopruimte: ongeveer 12 tot 15 m²). Een eerlijke verdeling per m² brengt het deel van peapickers dan hoger dan het gemiddelde. Reken bij de start ook op een **huurwaarborg van twee tot drie maanden huur** (in het middelste scenario 1.600 tot 2.400 euro) en de inrichting.
 
-### 5.2 Btw: een groot verschil
+### 2.2 Btw: een groot verschil
 
-Een gewone huur van een gebouw is in België in principe vrijgesteld van btw. Een kantoor- of atelierformule met diensten  of de verhuur van opslagruimte voor goederen draagt wel 21 % btw. Voor een vzw onder de vrijstellingsregeling, die geen btw kan recupereren, scheelt dat een vijfde op de huur. Zoek dus een gewone huurovereenkomst voor een atelier of werkplaats, en laat de boekhouder bevestigen hoe de onderverhuur fiscaal telt (zie 5.4).
+Een gewone huur van een gebouw is in België in principe vrijgesteld van btw. Een kantoor- of atelierformule met diensten of de verhuur van opslagruimte voor goederen draagt wel 21 % btw. Voor een vzw onder de vrijstellingsregeling, die geen btw kan recupereren, scheelt dat een vijfde op de huur. Zoek dus een gewone huurovereenkomst voor een atelier of werkplaats, en laat de boekhouder bevestigen hoe de onderverhuur fiscaal telt (zie 2.4).
 
-### 5.3 Wat moet kloppen vóór de vzw tekent
+### 2.3 Wat moet kloppen vóór de vzw tekent
 
 | Punt | Waarom | Hoe nagaan |
 | --- | --- | --- |
@@ -54,13 +54,13 @@ Een gewone huur van een gebouw is in België in principe vrijgesteld van btw. Ee
 | Statuten | Onderverhuur moet passen in het voorwerp van de vzw als bijkomstige activiteit. | Zin toevoegen aan het ontwerp van de statuten. |
 | Afspraken met onderhuurders | Prijs per m² of per plek, sleutels, uren, schoonmaak, opzeg, wat bij schade. | Onderhuurovereenkomst per persoon, met waarborg. |
 
-### 5.4 Vragen voor de boekhouder
+### 2.4 Vragen voor de boekhouder
 
 1. Telt de opbrengst uit onderverhuur mee voor de drempel van 25.000 euro van de vrijstellingsregeling, en hoe telt ze voor de vennootschapsbelasting?
 2. Hoe boeken we een ruil "plaats tegen prints": tegen materiaalkost of tegen verkoopwaarde, en wat betekent dat voor de gastheer?
 3. Mag de vzw een huurwaarborg lenen van Jonas als particulier, in dezelfde leningsovereenkomst als de rest?
 
-### 5.5 Hoe beginnen zonder risico
+### 2.5 Hoe beginnen zonder risico
 
 1. Zoek eerst drie tot vijf makers die schriftelijk willen meedoen (intentieverklaring met hun maandbedrag), vóór een pand bezoekt.
 2. Zoek een pand met een verhuurder die onderverhuur toelaat, en vraag een proefperiode of een korte eerste termijn.
@@ -69,11 +69,11 @@ Een gewone huur van een gebouw is in België in principe vrijgesteld van btw. Ee
 
 Een exact aantal makers in Gent dat een plek zoekt, is niet openbaar. Wel een signaal: NUCLEO huisvest ongeveer 180 kunstenaars in 15 gebouwen en waarschuwt dat kunstenaars uit de stad verdreven dreigen te worden ([NUCLEO immo](https://nucleo.be/nieuws/nucleo-immo)). De vraag naar betaalbare ateliers is dus groter dan het aanbod.
 
-## 6. Zoektocht binnen 2 km van de Patijntjestraat
+## 3. Zoektocht binnen 2 km van de Patijntjestraat
 
 De afstanden zijn geschat; controleer ze op een kaart. Plaatsen die vrij of goedkoop ruimte delen, staan zelden online. Deze lijst geeft daarom vooral soorten partners en hoe je ze benadert, met enkele openbare aanknopingspunten.
 
-### 6.1 Concrete aanknopingspunten
+### 3.1 Concrete aanknopingspunten
 
 | Plaats | Wat | Waarom interessant | Contact |
 | --- | --- | --- | --- |
@@ -82,7 +82,7 @@ De afstanden zijn geschat; controleer ze op een kaart. Plaatsen die vrij of goed
 | [Stad Gent, tijdelijke invulling](https://stad.gent/nl/over-gent-stadsbestuur/stadsbestuur/wat-doet-het-bestuur/samen-stad-maken/tijdelijke-invullingen-van-terreinen-en-gebouwen/subsidie-fonds-tijdelijke-invullingen) | Leegstaande panden tijdelijk gebruiken | Vaak enkel kosten, maar precair (korte opzeg). De subsidie geldt niet voor overwegend commerciële initiatieven: een maatschappelijke kant (bv. open drukmomenten) is nodig. | beleidsparticipatie@stad.gent; vraag naar beschikbare panden in Sint-Pieters en de Stationsbuurt |
 | School of Arts Gent (KASK en Conservatorium), Bijloke en omgeving | Hogeschool | Netwerk van alumni en docenten die samen ateliers huren; geen ruimte zelf. | Via oproepen aan alumni of het prikbord |
 
-### 6.2 Wie je kan benaderen
+### 3.2 Wie je kan benaderen
 
 | Soort | Waarom het past | Wat je aanbiedt |
 | --- | --- | --- |
@@ -94,7 +94,7 @@ De afstanden zijn geschat; controleer ze op een kaart. Plaatsen die vrij of goed
 | Kerkfabrieken, parochiezalen, kloostergemeenschappen | Hebben vaak lege ruimtes en verhuren tegen een lage prijs. | Een kleine vaste vergoeding. |
 | Architecten- en ontwerpbureaus | Hebben soms een kamer over. | Plannen en presentaties afdrukken. |
 
-### 6.3 Hoe je ze benadert
+### 3.3 Hoe je ze benadert
 
 1. **Ga langs, met één A4 op papier.** Wie je bent, wat de vzw doet, wat je nodig hebt (2 m² voor een kast plus een werkplek, één stopcontact), en wat je aanbiedt.
 2. **Leg de ruil concreet uit:** prints met een materiaalkost tot 50 euro per maand, die ze zelf mogen verkopen of gebruiken, opbrengst voor hen.
@@ -102,13 +102,13 @@ De afstanden zijn geschat; controleer ze op een kaart. Plaatsen die vrij of goed
 4. **Volg op na een week**, met een kort bericht.
 5. **Houd een lijst bij** van wie je sprak, wanneer, en het antwoord.
 
-### 6.4 Let op bij de ruil "plaats tegen prints"
+### 3.4 Let op bij de ruil "plaats tegen prints"
 
 - **Licenties.** Prints van werk van de kunstenaars van peapickers vallen onder hun licentie: elke print levert hen auteursrecht op (3 × M), en de licentie moet doorverkoop door een derde toelaten. Het eenvoudigste is dat je **eigen werk van de gastheer** drukt (printdienst), of werk uit het publiek domein. Dan staan er geen licenties van kunstenaars op het spel.
-- **Boekhouding.** Een ruil zijn fiscaal twee transacties: de vzw "verkoopt" prints en "betaalt" huur. Zet een waarde in de overeenkomst (bijvoorbeeld "gebruiksvergoeding van X euro per maand, voldaan door levering van prints"). Een kleine huur in geld (bijvoorbeeld 50 tot 100 euro) plus prints is voor de boekhouding het eenvoudigst. Laat de boekhouder kiezen (vraag 5.4.2).
+- **Boekhouding.** Een ruil zijn fiscaal twee transacties: de vzw "verkoopt" prints en "betaalt" huur. Zet een waarde in de overeenkomst (bijvoorbeeld "gebruiksvergoeding van X euro per maand, voldaan door levering van prints"). Een kleine huur in geld (bijvoorbeeld 50 tot 100 euro) plus prints is voor de boekhouding het eenvoudigst. Laat de boekhouder kiezen (vraag 2.4.2).
 - **Toegang en sleutels** komen in de overeenkomst: uren, wie een sleutel heeft, en wat bij verlies.
 
-### 6.5 Wat je nog kan doen
+### 3.5 Wat je nog kan doen
 
 - Hang een oproep op prikborden van KASK, bibliotheek De Krook en buurtcentra, en zet hem in Gentse Facebook-groepen voor ateliers en makers.
 - Vraag de bevriende vzw, zodra die antwoordt, of de winkel waar zijn vzw zit nog plaats heeft voor opslag (vraag S2 in het dossier).
