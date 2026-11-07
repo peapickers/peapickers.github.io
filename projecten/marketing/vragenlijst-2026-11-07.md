@@ -218,7 +218,7 @@ Alleen waar de wet het verplicht, in twee woorden (VM14). De jurist bevestigt wa
 | M32 | VM4, tekst 5 | Over-pagina bijwerken: medebestuurder, boekhouder in zelfbeheer, bruikleen, productieplek, financiering, kenmerk 3, planning. | H | Techniek | VM4 |
 | M33 | VM5, tekst 6 | Oproep medebestuurder op papier in de eigen kring; online op Over en Deelnemen? pas als de medebestuurder gekozen is en akkoord gaat (VM5). PR #19 sluiten zonder merge. | H | Oprichter, Marketing | VM5, J18, ZB12 |
 | M34 | VM6 | Keuze en filter Limited verbergen tot de eerste Limited; in alle marketing 2027 alleen Poster en publiek domein. Vervangt M17. | H | Techniek, Marketing | VM6 |
-| M35 | tekst 7 | Deelnemen? en Prijsopbouw bijwerken: publiek domein, Limited later. Tekst over de teruggestuurde Poster naar de jurist voor licentie concept 6. | H | Techniek, Jurist | VM13, J19 |
+| M35 | tekst 7 | Deelnemen? en Prijsopbouw bijwerken: publiek domein, Limited later. Tekst over de teruggestuurde Poster ligt al bij de jurist voor licentie concept 6 (doorgegeven door Jonas, 2026-11-07). | H | Techniek, Jurist | VM13, J19 |
 | M36 | VM7, bijlage | A4 voor de zoektocht naar een plek afwerken in de huisstijl en afdrukken op de eigen printer. | H | Marketing, Oprichter | VM7 |
 | M37 | VM8 | Mijlpalen 2027 volgens VB12 (15–30 / 30–60 / 50–100 Posters, plus 1 publiek domein per maand); 85 per maand als break-evendoel. Vervangt M14. | H | Oprichter, Marketing | VM8 |
 | M38 | VM9 | Marketingbudget jaar 1 vastleggen en doorgeven aan de boekhouder voor de raming (ZB10). Wijzigt M01, M21. | H | Oprichter, Boekhouder | VM9 |
