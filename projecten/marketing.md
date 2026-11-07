@@ -17,6 +17,18 @@ Claude-project: Marketing · Repo: [peapickers/peapickers.github.io](https://git
 
 ## Stand van zaken
 
+### 2026-11-07 · Marketing · Antwoorden op de vragenlijst
+
+Vervangt: 2026-11-07 (Beslissingen van 7 november), de zin over een poster met QR-code bij de gastheer en het voorstel om in Gent gratis terug te geven.
+
+- Jonas beantwoordde VM1 tot VM14: zie de [vragenlijst marketing](marketing/vragenlijst-2026-11-07.html). De teksten voor de website zijn aangepast.
+- **Productieplek:** de gastheer is alleen productieplaats. Geen poster of QR-code bij de gastheer en nergens vermelden waar de productie staat, tenzij de gastheer erop staat (VM10). M39 vervalt.
+- **Terugsturen:** geen gratis teruggave in Gent; de klant betaalt het terugsturen (VM2, VJ3). M30 vervalt.
+- **Oproep medebestuurder:** eerst op papier in de eigen kring; online pas als de medebestuurder gekozen is en akkoord gaat (VM5).
+- **Tweede kans** voor auteurs: de uitleg komt in licentie concept 6, niet op Deelnemen? (VM13).
+- **Printshop:** alleen de wettelijk verplichte melding, in twee woorden: "Geen herroepingsrecht" (VM14).
+- Voorstel gevolgd voor de rest: o.a. naam "Tweede kans" als filtergroep, Limited verborgen tot de eerste Limited, 85 per maand als break-evendoel met mijlpalen 15–30 / 30–60 / 50–100 Posters in 2027, € 25 per maand marketing in jaar 1.
+
 ### 2026-11-07 · Marketing · Beslissingen van 7 november
 
 Vervangt: 2026-11-05 (Doel 85 posters per maand), de inschatting "25 tot 40 per maand bij de start". Bronnen: [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md), [beslissingen van 7 november](boekhouder/beslissingen-2026-11-07.html) (D1 tot D11), [vragenlijst boekhouder](boekhouder/vragenlijst-2026-11-07.html) en [vragenlijst jurist](jurist/vragenlijst-2026-11-07.html). Open vragen en teksten voor de site: [vragenlijst marketing](marketing/vragenlijst-2026-11-07.html) (VM1 tot VM14, M29 tot M42).
