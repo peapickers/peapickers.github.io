@@ -17,6 +17,33 @@ Claude-project: Marketing · Repo: [peapickers/peapickers.github.io](https://git
 
 ## Stand van zaken
 
+### 2026-11-05 · Marketing · Doel 85 posters per maand
+
+- Jonas vroeg hoe haalbaar 85 posters per maand is (± 1.020 per jaar, het dubbele van de 500 uit het ondernemingsplan). Inschatting marketing: 25 tot 40 per maand bij de start in 2027, 85 in september en december, als vast niveau vanaf eind 2027 of in 2028.
+- Grootste hefbomen: het aantal actieve auteurs, echte posters met QR-code op zichtbare plekken in Gent, en de pagina publiek domein (lage instapprijs, meer posters per bestelling).
+- Het stappenplan met eigenaars en deadlines is een werkdocument in het Claude-project Marketing. Meetmomenten: eind juni en eind oktober 2027.
+
+### 2026-11-05 · Marketing · Prijs, maten en jargon volgens BESLISSINGEN.md
+
+Vervangt: 2026-11-04 (Posterprijs en leverkost) voor prijs, maten en woorden. Bron: [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md) in de postershop, stand van 2026-11-05. Dat bestand gaat voor op het ondernemingsplan v3 en op oudere teksten.
+
+- **M = papier + inkt**, zonder opslag. **Prijs = 7 × M**, afgerond op € 0,10. Geen btw op de verkoop: in marketingmateriaal nooit "incl. btw" of "excl. btw" schrijven.
+- **Verdeling 1 · 3 · 3**: Materiaalkost 1M, Auteursrechten 3M bruto (min 15 % roerende voorheffing), vzw peapickers 3M bruto (de rest).
+- **Maten**: Klein 20 × 30, Medium 30 × 40, Groot 40 × 60 cm. Geen A4, A3 of A2 meer, ook niet op flyers, stalen of one-pagers. Elke maat daartussen kan; de prijs volgt de kleinste klasse waarin het vel past.
+- **Producten**: Poster (elk werk, gedrukt na bestelling) en Limited (genummerd en gesigneerd, vaste M per werk). Geen kaders of passe-partouts als apart product. Passe-partout standaard 5 % van de korte zijde.
+- Prijzen per papier en maat (berekend uit `_data/config-prijzen.csv`, zelfde afronding als de site):
+
+| Papier | Klein | Medium | Groot |
+|---|---:|---:|---:|
+| Epson Enhanced Matte 189 g | € 7,00 | € 11,60 | € 23,10 |
+| Epson Semimatte 260 g | € 7,70 | € 13,00 | € 25,90 |
+| Epson Luster 260 g | € 8,80 | € 15,10 | € 30,10 |
+
+- Voorbeeld: Medium op Semimatte, M = € 1,20 + € 0,65 = € 1,85, prijs € 13,00. Materiaalkost € 1,85, Auteursrechten € 5,55 bruto (€ 4,72 netto), vzw peapickers € 5,60.
+- Jargon voor alle marketingteksten: Prijsopbouw · Limited (niet "fine-art") · Klein / Medium / Groot (niet "middel") · Materiaalkost / Auteursrechten / vzw peapickers · NSFW (18+) · Public Ledger · Deelnemen?
+- Leveren: gedeelde leverronde in Gent gratis en zonder bestelminimum; levering in Gent € 3,50; bpost aan kostprijs, nog niet vast. Bestelminimum € 20. Geen leverprijs voor bpost op drukwerk.
+- Ongewijzigd: marketing werkt alleen voor de webshop (2026-11-04), vzw in oprichting rond januari 2027, verkoop vanaf het voorjaar van 2027, het ophangsysteem met latten wordt nergens vermeld.
+
 ### 2026-11-04 · Marketing · Focus op de start van de webshop
 
 - Beslissing van Jonas: marketing werkt voorlopig alleen voor de webshop. B2B-partners (De Slegte, Het Paard van Troje, musea, platenwinkels), verkoop op beurzen en een marge voor winkels liggen stil. Dat volgt het [ondernemingsplan](ondernemingsplan.html).

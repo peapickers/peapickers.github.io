@@ -7,6 +7,27 @@ Regels: [werkwijze](werkwijze.html) · Merk: [postershop](postershop.html)
 
 > Nieuwste item bovenaan. Niets verwijderen: voeg een nieuw item toe. Het volledige plan is een intern werkdocument; hier staan alleen de kernkeuzes.
 
+### 2026-11-05 · Oprichter · Twee extra geldstromen: publiek domein en printshop
+
+Vervangt: 2026-11-04 (Versie 3), de regel "Niet in 2027: printshop, werken uit het publiek domein".
+
+- Beslissing van Jonas: om de maandelijkse kosten te dekken komen er in 2027 twee geldstromen bij de Posters van auteurs.
+- **Publiek domein:** een aparte pagina bij Posters, gedrukt aan **4 × M**, afgerond op € 0,10. Verdeling: Materiaalkost 1M, vzw peapickers 3M, geen Auteursrechten. Voorbeeld Medium op Semimatte: M = € 1,85, prijs € 7,40, waarvan € 5,55 voor vzw peapickers. Elk werk krijgt vóór verkoop een check of het in België zeker vrij is (zie [feedback jurist](ondernemingsplan/feedback/jurist.html), punt 8).
+- **Nonprofit printshop:** wordt opgericht als tweede extra geldstroom. Prijsregel en stand staan op de [printshoppagina](printshop.html); de bedragen daar zijn nog voorbeeldbedragen.
+- Gevolg: de vaste kosten (€ 3.000 tot 3.500 per jaar, ± € 250 tot 290 per maand) worden gedekt door Posters, publiek domein en printshop samen. Herrekenen samen met de nieuwe productieplek en boekhouder.
+- Ook aangepast in [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md) van de postershop.
+
+### 2026-11-05 · Oprichter · Zetel, productie en boekhouder
+
+Vervangt: 2026-11-04 (Versie 3), voor de plaats van productie en de kost van de boekhouder.
+
+- De zetel komt niet op het woonadres van de oprichter (huurbaas weigert, schriftelijk bevestigd door de overheid).
+- De productie gebeurt niet langer op het privéadres. Gezocht: één plek voor zetel en printer, veilig, 24/7 open, gratis of goedkoop.
+- Boekhouder: tekent mee per uitbetaling van Auteursrechten. Creative Finance (€ 150 tot 250 per maand) is alleen een referentie; gezocht wordt een goedkoper kantoor.
+- Limited: oplage 1 tot 5, Auteursrechten bij het drukken, nooit een negatief saldo dankzij de lening van de oprichter (naar behoefte, zonder termijn, kwijt te schelden).
+- Verzekeringen blijven, zo laag als wettelijk en veilig kan.
+- Vragen liggen bij een bevriende vzw-oprichter; todo in de [stappenplannen](ondernemingsplan/stappenplannen.html#todo-oprichter-2026-11-05). Vaste kosten en break-even herrekenen na het antwoord.
+
 ### 2026-11-05 · Boekhouder · Break-even herrekend
 
 Vervangt: 2026-11-04 (Versie 3), voor het break-even.

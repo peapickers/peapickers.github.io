@@ -19,6 +19,20 @@ Datum: 2026-11-04 · Plan: [ondernemingsplan-2027-2029](ondernemingsplan-2027-20
 4. **Q2 2027:** eerste verkoop, ook de eerste fine-art. 50 posters eind juni.
 5. **Q3–Q4 2027:** flyers, stickers en QR-codes; eerste kwartaaluitbetaling in juli. 150 posters eind september, 300 eind december.
 
+## Todo oprichter (2026-11-05)
+
+> Nieuw, nog niet in de pdf. Vragen liggen bij een bevriende oprichter van een andere vzw; tot het antwoord er is, staan deze punten open. Waar dit botst met de tekst hieronder, geldt dit.
+
+1. **Zetel (domicilie).** Niet op het woonadres van de oprichter: de huurbaas staat het niet toe en de overheidsdienst bevestigde dat schriftelijk. Gemengd gebruik registreren is een fiscaal risico (mogelijke huurverhoging van 40 %). Een gratis zetel elders vinden lijkt haalbaar. **Vraag:** wat kost een zetel bij een gedeelde plek (zoals een winkel of huis met meerdere vzw's)?
+2. **Productie.** Beslist: de productie gebeurt niet langer op het privéadres van de oprichter. Zoeken naar één plek die alle vier haalt: zetel kan er staan, printer staat er veilig, 24/7 toegang, gratis of goedkoop. **Vraag:** is zo'n plek gratis, gedeeld of volledig zelf betaald?
+3. **Boekhouder.** Iemand die per uitbetaling van Auteursrechten mee tekent en de wettelijke boekhouding doet, en die tientallen tot honderden licenties met een percentage (geen vast bedrag) aankan. Creative Finance (€ 150 per maand, € 250 bij veel transacties, waarschijnlijk klantenstop) is alleen een referentie; de oprichter zoekt een goedkoper kantoor. **Vraag:** wat kost een boekhouder, hoe vind je er een en waar let je op?
+4. **Overige vaste kosten laag houden, volledig wettelijk:** opstart, licenties laten nakijken, verzekeringen (blijven, ter bescherming van oprichter en auteurs), hosting, onderhoud printer. **Vraag:** hoe houd je verzekeringen laag op een veilige manier?
+5. **Gevolg voor het plan.** Plan v3 rekent met productie op het privéadres, een boekhouder van ca. € 1.800 per jaar en vaste kosten van € 3.000 tot 3.500. Met een betaalde productieplek en een boekhouder als Creative Finance (€ 1.800 tot 3.000 per jaar) liggen de vaste kosten eerder op het niveau van een BV. Herrekenen zodra de antwoorden er zijn, samen met de nieuwe prijzen uit BESLISSINGEN.md.
+6. **Limited.** Beslist: oplage van 1 tot 5 stuks, Auteursrechten meteen bij het drukken. Er is nooit een negatief saldo, want de oprichter financiert dat als particulier met een lening die precies volgt wat de vzw nodig heeft, zonder terugbetalingstermijn en kwijt te schelden als het echt nodig is.
+7. **Twee extra geldstromen om de maandelijkse kosten te dekken** (beslist 5-11, vervangt "niet in 2027" voor deze twee):
+    - **Public domain:** een aparte pagina bij de posters met werken uit het publiek domein, gedrukt aan 4 × M: 1M Materiaalkost, 3M vzw peapickers, geen Auteursrechten. Voorbeeld Medium Semimatte: M € 1,85, prijs € 7,40, € 5,55 voor de vzw.
+    - **Nonprofit printshop:** de printshop oprichten als tweede activiteit van vzw peapickers. **Vraag:** prijsformule, start en wat er verandert aan "betalen aan de deur" (nooit cash).
+
 ## Vaste keuzes voor iedereen
 
 | Onderwerp | Keuze |
@@ -33,7 +47,7 @@ Datum: 2026-11-04 · Plan: [ondernemingsplan-2027-2029](ondernemingsplan-2027-20
 | Beelden | Origineel nooit bewerkt of online; online beelden (1200 px, thumbnail) met watermerk en Glaze, vermeld in de licentie |
 | Financiering | Oprichter stort maandelijks precies wat nodig is, als renteloze, achtergestelde lening; geen reserve |
 | Fine-art | Vanaf de eerste maanden, gefinancierd met de lening |
-| Niet in 2027 | Printshop, werken uit het publiek domein, standplaatsen op markten, eigen domeinnaam, lanceringsevenement |
+| Niet in 2027 | Standplaatsen op markten, eigen domeinnaam, lanceringsevenement (public domain en printshop: zie todo 7) |
 
 ## Boekhouder
 
@@ -107,3 +121,10 @@ Doel: zichtbaarheid vanaf de eerste verkoop in Q2 2027, een fysiek uithangbord v
 | Publicatiekost Staatsblad (ca. € 170) | Oprichter |
 | Tarieven Snipcart en Mollie, kosten bank | Techniek en boekhouder |
 | Inktkost per set cartridges, inclusief reiniging (controle van M) | Oprichter |
+| Kost en voorwaarden van een gedeelde zetel | Oprichter (vraag aan bevriende vzw) |
+| Productieplek: zetel, veilig, 24/7, gratis of goedkoop | Oprichter |
+| Goedkopere boekhouder dan de referentie (Creative Finance € 150 tot 250 per maand) | Oprichter en boekhouder |
+| Verzekeringen laag houden, volledig wettelijk | Oprichter en boekhouder |
+| Startdatum public domain en printshop | Oprichter |
+| Prijsformule en betaling printshop | Oprichter en techniek |
+| Werken uit het publiek domein toegelaten in BESLISSINGEN.md (staat nu "niet verkocht") | Oprichter |
