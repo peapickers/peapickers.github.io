@@ -17,6 +17,14 @@ Claude-project: Jurist · Repo: [peapickers/peapickers.github.io](https://github
 
 ## Stand van zaken
 
+### 2026-11-07 · Jurist · Tweede kans in de voorbeeldlicentie
+
+- De voorbeeldlicentie (Poster en Limited) heeft een versie 5, intern in de projectbestanden. Versie 4 blijft bestaan.
+- Nieuw: Tweede kans als vierde exploitatiewijze (art. 2.2 d). Een onbeschadigde, teruggestuurde poster gaat opnieuw te koop met het label "teruggestuurd", aan 80 % van de prijs. De opbrengst gaat 50/50 naar Auteursrechten (bruto) en vzw peapickers (art. 10.8, 11.2, 12.3). De auteur kan Tweede kans weigeren in de werkfiche of later (art. 12.4). Ook geregeld: wat er bij het einde of bij terugtrekking gebeurt met posters in Tweede kans (art. 14).
+- Art. 12.1 volgt nu BESLISSINGEN.md: 14 dagen herroeping, zonder uitzondering voor maatwerk. Het woord "vrijwillig" is weg.
+- De uitleg voor auteurs in de [vragenlijst marketing](marketing/vragenlijst-2026-11-07.html) (VM13) klopt. Voorstel: "de helft van die opbrengst is voor jou, bruto, als Auteursrechten". Ook vermelden dat de auteur Tweede kans mag weigeren.
+- Nog te doen in licentie concept 6 (J19): de andere beslissingen van 7 november.
+
 ### 2026-11-07 · Jurist · Alle vragen beantwoord
 
 Vervangt: 2026-11-07 (Antwoorden op de vragenlijst), wat daar nog open stond, en het antwoord op VJ1 voor de volgorde van de experts.
