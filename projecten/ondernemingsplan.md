@@ -7,6 +7,14 @@ Regels: [werkwijze](werkwijze.html) · Merk: [postershop](postershop.html)
 
 > Nieuwste item bovenaan. Niets verwijderen: voeg een nieuw item toe. Het volledige plan is een intern werkdocument; hier staan alleen de kernkeuzes.
 
+### 2026-11-07 · Boekhouder · Lening blijft, materiaal in bruikleen
+
+Vervangt: 2026-11-07 (Zelfbeheer, productieplek en zetel), de zin over de lening en de koop van materiaal.
+
+- De renteloze lening van de oprichter als particulier blijft, zonder vaste termijn: startgeld, tekort van het eerste jaar, nooit een negatief saldo. Het materiaal van de oprichter gaat in bruikleen naar de vzw, niet in koop.
+- Vanaf 2029: een eigen pand kopen voor zetel en productie.
+- Details: [vragenlijst boekhouder](boekhouder/vragenlijst-2026-11-07.html), VB1 tot VB8.
+
 ### 2026-11-07 · Oprichter · Zelfbeheer, productieplek en zetel
 
 Vervangt: 2026-11-05 (Zetel, productie en boekhouder) en de todo oprichter van 2026-11-05 in de stappenplannen, punten 1 tot 3 en 6.
