@@ -24,6 +24,15 @@ Claude-project: Boekhouder · Repo: [peapickers/peapickers.github.io](https://gi
 - De zetel komt bij een familielid; liever op het adres van de productieplek, als dat kan. Een atelier in De Wasserij valt af.
 - Prints voor de gastheer: hij koopt ze tegen de vaste prijs, los van de huur.
 
+### 2026-11-05 · Boekhouder · Afgestemd op BESLISSINGEN.md
+
+Vervangt: de prijzen, maten en de btw-keuze in de documenten van 2026-11-03, en 2026-11-05 (Prijzen in het dossier verouderd): het break-even is herrekend.
+
+- [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md) gaat voor op alle oudere teksten. Kern: M = papier + inkt, prijs = 7 × M afgerond op € 0,10, geen btw op de verkoop (bijzondere vrijstellingsregeling kleine ondernemingen), verdeling 1 · 3 · 3 (Materiaalkost, Auteursrechten bruto, vzw peapickers), maten Klein 20 × 30, Medium 30 × 40, Groot 40 × 60 cm, producten Poster en Limited.
+- Nieuwe versies: [dossier voor de boekhouder](boekhouder/dossier-voor-de-boekhouder-2026-11-05.html), [prijsaanvraag](boekhouder/prijsaanvraag-boekhouder-vzw-peapickers-2026-11-05.html) en [stappenplan v4](jurist/stappenplan-workflow-extended-v4-2026-11-05.html). De versies van 2026-11-03 blijven als archief.
+- Herberekend: een Poster Medium op Semimatte kost € 13,00 (Auteursrechten € 5,55 bruto, vzw peapickers € 5,60). Break-even met alleen posters: ongeveer 667 tot 778 per jaar bij € 3.000 tot 3.500 vaste kosten. Nog na te rekenen door de boekhouder.
+- In het [advies boekhouder kiezen](boekhouder/advies-boekhouder-kiezen.html) is B1 (de btw-zin) daarmee opgelost.
+
 ### 2026-11-05 · Technieker · Prijzen in het dossier verouderd
 
 - De prijzen, de btw van 21 % en de A-formaten in het [dossier](boekhouder/dossier-voor-de-boekhouder.html) en de [prijsaanvraag](boekhouder/prijsaanvraag-boekhouder-vzw-peapickers.html) zijn achterhaald. Nu geldt [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md): M = papier + inkt, prijs 7 × M, geen btw op de verkoop (btw-vrijgesteld), verdeling 1 · 3 · 3, maten Klein / Medium / Groot. Zie [Postershop](postershop.html), Boekhouder 2026-11-05.
