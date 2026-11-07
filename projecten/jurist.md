@@ -17,6 +17,14 @@ Claude-project: Jurist · Repo: [peapickers/peapickers.github.io](https://github
 
 ## Stand van zaken
 
+### 2026-11-07 · Jurist · ADV-codes nagekeken
+
+Vervangt: 2026-11-07 (Gevolgen van de beslissingen van 7 november), de veronderstelling over de ADV-codes.
+
+- De interne vragenlijst voor de advocaat (versie 2) en het advies "welke expert voor wat" zijn gelezen. Hun inhoud blijft intern.
+- ADV-V2 is het belangenconflict, ADV-V3 tot V6 de lening, ADV-V7 de polis van de bestuurders. ADV-V5 vraagt nog naar een koopovereenkomst voor materiaal; die moet over de bruikleen gaan (J25).
+- Het interne advies over de experts wijkt af van VJ1. Nieuwe vraag VJ20 in de [vragenlijst jurist](jurist/vragenlijst-2026-11-07.html).
+
 ### 2026-11-07 · Jurist · Antwoorden op de vragenlijst
 
 - Jonas beantwoordde VJ1 tot VJ14 in de [vragenlijst jurist](jurist/vragenlijst-2026-11-07.html). Voorstel gevolgd voor de advocaat, de lening, de bruikleen, wie tekent namens de vzw en licentie concept 6 voor de Poster eerst.

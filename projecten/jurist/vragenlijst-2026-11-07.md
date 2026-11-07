@@ -5,11 +5,13 @@ title: Vragenlijst jurist (7 november 2026)
 
 # Vragenlijst jurist voor de oprichter
 
-Datum: 2026-11-07 · Rol: Jurist · Versie 1 · Codes: VJ1 tot VJ19 (vragen), J12 tot J24 (actiepunten)
+Datum: 2026-11-07 · Rol: Jurist · Versie 1 · Codes: VJ1 tot VJ20 (vragen), J12 tot J25 (actiepunten)
 
 **Kort.** Na 7 november heeft de jurist vijf nieuwe stukken klaar te zetten voor de advocaat: klantteksten met herroepingsknop, statuten, een leningsovereenkomst, een bruikleenovereenkomst en een huurovereenkomst voor de productieplek. Daarnaast licentie concept 6, eerst alleen voor de Poster. Voor elk stuk zijn er keuzes die alleen Jonas kan maken. Wat al beantwoord is (VB1 tot VB14, D1 tot D11), vragen we niet opnieuw: we verwijzen met de code.
 
 > **Antwoorden van 2026-11-07 (12u05).** VJ1 tot VJ14 zijn beantwoord, zie de laatste kolom. Gevolg: voorstel gevolgd voor VJ1, VJ10 tot VJ14; advocaat vóór de oprichting privé betaald door de oprichter (VJ2); retourkosten voor de klant (VJ3); terugbetaling pas na ontvangst of verzendbewijs (VJ4); de huurovereenkomst maken we samen met de gastheer, wij maken een prototype (VJ7); 2 bestuurders (VJ9). VJ8 blijft open: het voorstel geldt als veronderstelling. Nieuw: een teruggestuurde Poster gaat naar een tweedehandsafdeling (VJ5), uitgewerkt in VJ19 en J24. VJ15 tot VJ19 zijn nog open.
+
+> **Correctie 2026-11-07 (12u10).** De twee interne documenten (vragenlijst advocaat versie 2 en "welke expert voor wat") zijn nu gelezen. Vervangt de veronderstelling hieronder over de ADV-codes. De codes kloppen in grote lijnen, met drie verbeteringen. (1) ADV-V2 gaat over het belangenconflict, ADV-V3 tot V6 over de lening, ADV-V7 over de polis van de bestuurders. (2) ADV-V5 vraagt naar registratie van de lening en van een koopovereenkomst voor materiaal; die koop is vervallen (VB4), dus de vraag moet over de bruikleen gaan (J25). (3) Het interne advies over de experts wijkt af van het voorstel in VJ1: zie VJ20. ADV-A7 en ADV-L3 dekken al VJ3, VJ4 en VJ15; de advocaat bevestigt daar alleen.
 
 **Let op: deze pagina is publiek.** Zet geen namen, adressen of bedragen van personen in de kolom Antwoord. Bij VJ9 volstaat "gevonden" of "nog niet".
 
@@ -40,11 +42,12 @@ Datum: 2026-11-07 · Rol: Jurist · Versie 1 · Codes: VJ1 tot VJ19 (vragen), J1
 | VJ17 | Geldt het **herroepingsrecht ook voor de printshop**? | BESLISSINGEN.md spreekt alleen over Poster en Limited. Bij de printshop drukken we eigen foto's van de klant, wat wel onder de uitzondering voor maatwerk kan vallen [te verifiëren: art. VI.53 WER]. | De printshop roept de uitzondering in en meldt dat vóór de bestelling. Bestellen aan de deur is geen verkoop op afstand. Laten bevestigen. | |
 | VJ18 | De vragen over de **ondertekening** (J1 tot J11): nu meenemen naar de advocaat of later? | Ze veranderen niet door 7 november en houden de webshop niet tegen. | Later, na maart 2027, samen met het addendum Limited. | |
 | VJ19 | **Tweedehandsafdeling** (antwoord VJ5): wat betekent "50-50 verkoopprijs"? | Twee lezingen: (a) de prijs is 50 % van de oorspronkelijke prijs; (b) de opbrengst gaat voor de helft naar de auteur en voor de helft naar vzw peapickers. Wettelijk is het een nieuwe verkoop door de vzw: de auteur moet dit in de licentie toestaan, het werk krijgt de vermelding "teruggestuurd", en de klant heeft opnieuw 14 dagen herroepingsrecht en de wettelijke garantie (bij tweedehands mogelijk ingekort tot 1 jaar [te verifiëren: art. 1649quater oud BW of Boek 10 BW]). BESLISSINGEN.md kent dit product nog niet. | Beide samen: prijs 50 % van de oorspronkelijke prijs, afgerond op € 0,10. De Materiaalkost is al betaald, dus de hele opbrengst gaat 50/50 naar Auteursrechten (bruto) en vzw peapickers. Alleen onbeschadigde Posters. In de Public Ledger als aparte lijn. Na jouw akkoord: BESLISSINGEN.md aanpassen. | |
+| VJ20 | **Welke expert voor welk deel?** Het interne advies "welke expert voor wat" stelt iets anders voor dan VJ1. | Volgens het interne advies: de hele lijst naar een jurist, die per vraag zegt of hij ze zelf beantwoordt of doorverwijst; herroeping en herroepingsknop (ADV-A7, A8, H2) naar een advocaat consumentenrecht. VJ1 stelde één advocaat voor consumenten- en vzw-recht voor. Een jurist is vaak goedkoper, een advocaat is verplicht verzekerd voor beroepsfouten (ADV-U2). | Het interne advies volgen, aangevuld met VJ1: de jurist krijgt de hele lijst (voorwaarden, licentie, statuten, lening, bruikleen, huur), een advocaat consumentenrecht krijgt ADV-A7, A8 en H2 in één kort gesprek, Cultuurloket als gratis eerste stap voor de licentie. Vraag de jurist naar zijn beroepsaansprakelijkheidsverzekering. Vervangt dan het antwoord op VJ1. | |
 
 ## Todo voor Jonas
 
 - [x] De ★-vragen beantwoorden (VJ1 tot VJ14). VJ8 bleef open.
-- [ ] VJ15 tot VJ19 beantwoorden, vooral VJ19 (tweedehandsafdeling).
+- [ ] VJ8 en VJ15 tot VJ20 beantwoorden, vooral VJ19 (tweedehandsafdeling) en VJ20 (welke expert).
 - [ ] Bij elke kandidaat-plek vragen: mag u onderverhuren, en kunt u de schriftelijke toestemming van uw verhuurder tonen? Mag de zetel en een KBO-vestigingseenheid op dit adres? (VJ7, ZB04)
 - [ ] De interne vragenlijst voor de advocaat en het overzicht "welke expert voor wat" aan dit project bezorgen. Ze waren er niet (zie veronderstelling bovenaan).
 - [ ] Een gesprek met een kandidaat-medebestuurder plannen met de rolbeschrijving (J18). Geen naam in de repo.
@@ -67,6 +70,7 @@ Datum: 2026-11-07 · Rol: Jurist · Versie 1 · Codes: VJ1 tot VJ19 (vragen), J1
 | J22 | VJ17 | Klantteksten printshop: uitzondering maatwerk, garantie en vrijwaring voor beelden van de klant (feedback jurist, punt 6). | M | Jurist | VJ17 |
 | J23 | 2029 | Aankoop eigen pand vanaf 2029 voorbereiden: aankoop door de vzw, financiering (lening oprichter of krediet), belangenconflict, gevolgen voor de lening. | L | Jurist, Boekhouder | J13 |
 | J24 | VJ5, VJ19 | Tweedehandsafdeling voor teruggestuurde Posters: clausule in licentie concept 6 (toestemming auteur, verdeling), vermelding "teruggestuurd" op de website, herroeping en garantie bij tweedehands. Daarna voorstel tot aanpassing van BESLISSINGEN.md voor Jonas. | H | Jurist, Techniek | VJ19 |
+| J25 | Correctie 12u10 | Interne vragenlijst advocaat naar versie 3: koopovereenkomst materiaal vervangen door bruikleen (ADV-V5 en de bijlagen), vragen toevoegen over de onderhuur van de productieplek, de tweedehandsafdeling (VJ19) en het prototype van de huurovereenkomst (VJ7); antwoorden van Jonas op VJ3 en VJ4 als "wat wij denken" bij ADV-A7. Intern, niet in de repo. | H | Jurist | VJ19, VJ20 |
 
 ## Bronnen
 
