@@ -17,6 +17,13 @@ Claude-project: Boekhouder · Repo: [peapickers/peapickers.github.io](https://gi
 
 ## Stand van zaken
 
+### 2026-11-07 · Boekhouder · Productielocatie in Gent
+
+- [Productielocatie in Gent](boekhouder/productielocatie-gent.html): beslissingen L1 – L6, een rekensom voor een gedeeld pand met onderverhuur, en een zoekplan binnen 2 km van de Patijntjestraat.
+- Beslist: budget maximaal € 150 per maand, btw inbegrepen; veilige opslag; toegang buiten de kantooruren (24/7 bespreekbaar); alles op papier en geregistreerd. De zetel komt bij een familielid. Een atelier in De Wasserij valt af.
+- Gedeeld pand: onder € 150 per persoon pas vanaf ongeveer acht vaste deelnemers; de vzw draagt als hoofdhuurder het risico.
+- Drie vragen voor de boekhouder: onderverhuur en de btw-drempel, de ruil "plaats tegen prints", en een huurwaarborg lenen van de oprichter.
+
 ### 2026-11-05 · Technieker · Prijzen in het dossier verouderd
 
 - De prijzen, de btw van 21 % en de A-formaten in het [dossier](boekhouder/dossier-voor-de-boekhouder.html) en de [prijsaanvraag](boekhouder/prijsaanvraag-boekhouder-vzw-peapickers.html) zijn achterhaald. Nu geldt [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md): M = papier + inkt, prijs 7 × M, geen btw op de verkoop (btw-vrijgesteld), verdeling 1 · 3 · 3, maten Klein / Medium / Groot. Zie [Postershop](postershop.html), Boekhouder 2026-11-05.
