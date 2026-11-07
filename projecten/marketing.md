@@ -17,6 +17,39 @@ Claude-project: Marketing · Repo: [peapickers/peapickers.github.io](https://git
 
 ## Stand van zaken
 
+### 2026-11-07 · Marketing · Beslissingen van 7 november
+
+Vervangt: 2026-11-05 (Doel 85 posters per maand), de inschatting "25 tot 40 per maand bij de start". Bronnen: [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md), [beslissingen van 7 november](boekhouder/beslissingen-2026-11-07.html) (D1 tot D11), [vragenlijst boekhouder](boekhouder/vragenlijst-2026-11-07.html) en [vragenlijst jurist](jurist/vragenlijst-2026-11-07.html). Open vragen en teksten voor de site: [vragenlijst marketing](marketing/vragenlijst-2026-11-07.html) (VM1 tot VM14, M29 tot M42).
+
+Wat er voor marketing verandert:
+
+- **Herroepen.** 14 dagen voor Poster en Limited, met een herroepingsknop op elke pagina. De klant betaalt het terugsturen (VJ3); terugbetaling zodra het werk terug is of het verzendbewijs er is (VJ4). We vertellen het als gemak ("14 dagen om van gedachten te veranderen"), niet als risico en niet meer als "vrijwillig".
+- **Tweedehands.** Een onbeschadigde teruggestuurde Poster gaat opnieuw te koop aan 80 % van de prijs, met de vermelding "teruggestuurd"; de opbrengst gaat 50/50 naar Auteursrechten en vzw peapickers (VJ19). Voorstel naam: "Tweede kans", als filtergroep, niet als menu-item (VM3).
+- **Printshop.** Roept de uitzondering voor maatwerk in en meldt dat vóór de bestelling (VJ17).
+- **Productieplek.** Een paar m² bij een bestaand bedrijf (kaderwinkel, boekhandel, kleine organisatie). Marketing levert het A4 om langs te gaan. De gastheer koopt prints aan de gewone prijs; een poster met QR-code bij de gastheer kan zichtbaarheid geven zonder dat B2B herstart (VM10).
+- **Cijfers.** Break-even 723 tot 1.312 posters per jaar (midden ca. 978). 85 per maand (ca. 1.020 per jaar) is dus het break-evendoel. Verwachting van Jonas voor jaar 1 (VB12): 5 tot 10 Posters, 1 publiek domein en 0 Limited per maand, het verlies gedekt door een maandelijkse lening onder € 300. Publiek domein (4 × M) en de printshop zijn extra geldstromen.
+- **Limited later** (VB7). Marketing in 2027 gaat alleen over Poster en publiek domein.
+- **Medebestuurder.** Geen vacature "niet-uitvoerend bestuurder" meer (VJ10): marketing schrijft een oproep zonder namen, de jurist de rolbeschrijving (J18).
+- Ongewijzigd: alleen webshop, B2B ligt stil (2026-11-04); huisstijl; geen ophangsysteem met latten.
+
+Wat er met de actiepunten M01 tot M28 gebeurt:
+
+| Code | Stand |
+|---|---|
+| M01 | Wijzigt: € 600 zit al in de raming van de boekhouder; voorstel € 25 per maand in jaar 1 (VM9, M38). Break-even nu 723 tot 1.312, niet 611. |
+| M02 | Vervalt: het marketingbudget loopt via de lening van de oprichter, met bedrag in de Public Ledger (VB2, VB3, VB13). |
+| M03 | Wijzigt: productmix herrekenen met Klein / Medium / Groot, publiek domein en Tweede kans (ZB10). |
+| M06 | Wijzigt: ook de kost van het terugsturen hangt van bpost af; in Gent gratis teruggeven met de leverronde voorgesteld (VM2). |
+| M12 | Wijzigt: het kassabonkaartje krijgt een regel over de 14 dagen (M41). |
+| M14 | Vervalt: vervangen door M37 (mijlpalen volgens VB12). |
+| M17 | Vervalt: beslist (0 Limited bij de start, VB7); uitvoering in M34. |
+| M21 | Wijzigt: verdeling volgt het budget van jaar 1 (VM9). |
+| M23 | Wijzigt: privacytekst vermeldt dat herroepingsverzoeken 10 jaar bewaard worden. |
+| M25 | Wijzigt: auteurs-one-pager met Tweede kans, alleen auteurs in België (D11), Limited later. |
+| M26 | Wijzigt: de gastheer van de productieplek is geen flyerplek of partner; aparte afspraak (M39). |
+| M28 | Wijzigt: publieke tijdlijn zonder "eerste Limited in Q2 2027" (tekst 5 in de vragenlijst). |
+| Andere | Ongewijzigd. |
+
 ### 2026-11-05 · Marketing · Doel 85 posters per maand
 
 - Jonas vroeg hoe haalbaar 85 posters per maand is (± 1.020 per jaar, het dubbele van de 500 uit het ondernemingsplan). Inschatting marketing: 25 tot 40 per maand bij de start in 2027, 85 in september en december, als vast niveau vanaf eind 2027 of in 2028.
