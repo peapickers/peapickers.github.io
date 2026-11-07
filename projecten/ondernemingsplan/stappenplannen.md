@@ -5,6 +5,8 @@ title: Stappenplannen ondernemingsplan v3
 
 > **Correctie 2026-11-07 · Boekhouder.** De [beslissingen van 7 november 2026](../boekhouder/beslissingen-2026-11-07.html) vervangen de punten 1 tot 3 en 6 van de "Todo oprichter (2026-11-05)". In "Vaste keuzes voor iedereen" gelden niet meer: herroeping "vrijwillig" (nu 14 dagen voor Poster en Limited, met herroepingsknop), de financiering met een maandelijkse lening en "fine-art gefinancierd met de lening" (open, zie [vragenlijst boekhouder](../boekhouder/vragenlijst-2026-11-07.html), VB2 en VB3). Bij "Boekhouder" doet de oprichter de boekhouding zelf; de ITAA-boekhouder controleert. De tekst hieronder blijft als archief.
 
+> **Correctie 2026-11-07 · Compiler.** Vervangt: de correctie van 2026-11-07 (Boekhouder) hierboven, alleen de zin dat de financiering open is. Beslist: de renteloze lening van de oprichter blijft (VB1 tot VB3), materiaal in bruikleen (VB4), 0 Limited bij de start (VB7). Zie de [Todo oprichter (2026-11-07)](#todo-oprichter-2026-11-07) en de [stand van 7 november 2026](stand-2026-11-07.html).
+
 # Stappenplannen ondernemingsplan v3
 
 Datum: 2026-11-04 · Plan: [ondernemingsplan-2027-2029](ondernemingsplan-2027-2029.html) (versie 3) · Ook als [pdf](stappenplannen-v3.pdf) · Terug naar [ondernemingsplan](../ondernemingsplan.html)
@@ -12,6 +14,76 @@ Datum: 2026-11-04 · Plan: [ondernemingsplan-2027-2029](ondernemingsplan-2027-20
 > Eén stappenplan per rol, na de [feedback](feedback/) op versie 2 en de antwoorden van de oprichter op vragenlijst v3. Alle beslissingen zijn genomen; wat nog open is, staat als **vraag** bij de rol die het moet uitzoeken. Codes zoals T04, M11, B13 of BH10 verwijzen naar de actiepunten in de feedbackbestanden en het [advies boekhouder](../boekhouder/advies-boekhouder-kiezen.html).
 >
 > Werk altijd met de meest recente informatie: prijzen en regels uit plan v3, niet uit oudere pagina's.
+
+## Todo oprichter (2026-11-07)
+
+> **Correctie 2026-11-07 (avond) · Compiler.** Na de [beslissingen van die avond](beslissingen-2026-11-07-avond.html): TO02 en TO11 (plek, huur, KBO-vestiging) en TO08 (bruikleen) vervallen; TO07 (lening) blijft; TO16 wordt licentie op 50 % van de prijs; nieuwe vragen A1 tot A6 voor boekhouder en jurist. De cijfers hieronder gelden niet meer: vaste kosten € 1.615 tot 3.315, break-even 455 tot 934 Posters.
+
+> Vervangt: [Todo oprichter (2026-11-05)](#todo-oprichter-2026-11-05), punten 1 tot 3, 5 en 6 voor de start (punt 6 blijft voor later), en in "Vaste keuzes voor iedereen" de rijen Prijs, Formaat, Herroeping, Financiering, Fine-art en "Niet in 2027" (eigen domeinnaam). Waar dit botst met de tekst eronder, geldt dit. Beslissingen, herrekening en tegenspraak: [stand van 7 november 2026](stand-2026-11-07.html). H = vóór de webshop live gaat (maart 2027), M = vóór het fysieke uithangbord (Q3 2027), L = later.
+
+**Kort.** De oprichting hangt aan drie dingen die alleen de oprichter kan doen: een medebestuurder (TO01), een productieplek (TO02) en een boekhouder (TO03). Alles daarna volgt in volgorde. Vaste kosten € 2.965 tot 5.615 per jaar, break-even 659 tot 1.248 Posters; de storting onder € 300 per maand lukt alleen in het lage scenario over heel 2027.
+
+### Todo, in volgorde
+
+| ID | Actie | Prio | Rol | Hangt af van | Deadline |
+| --- | --- | --- | --- | --- | --- |
+| TO01 | Medebestuurder vinden met de rolbeschrijving; oproep eerst op papier in eigen kring (ZB07, J18, M33, VM5). | H | Oprichter, Jurist | J18 | 15-12-2026 |
+| TO02 | Productieplek zoeken met het A4, prototype onderhuur en intentieverklaring; vragen: onderhuur toegestaan, zetel, KBO-vestiging, waarborg, wat zit in de huur (ZB04, M36, J14, VJ7, VJ8). | H | Oprichter, Marketing, Jurist | | 15-12-2026 |
+| TO03 | Boekhouder kiezen: 3 tot 5 ITAA-kantoren, offerte op basis van VB12, opdrachtbrief vanaf de oprichting (ZB01, B11 tot B15, B18). | H | Oprichter | | 15-12-2026 |
+| TO04 | Cultuurloket contacteren: per vraag jurist, advocaat of boekhouder; daarna het pakket versturen (VJ20, J20, ZB11). | H | Oprichter, Jurist | J25 | 30-11-2026 |
+| TO05 | Interne vragenlijst advocaat naar versie 3 (bruikleen, onderhuur, Tweede kans) (J25). | H | Jurist | | 20-11-2026 |
+| TO06 | Statuten concept 1: 2 leden, 2 bestuurders, vertegenwoordiging, belangenconflict, voorwerp met pand later; boekjaar (J17, B4, B17, BZ13). | H | Jurist, Boekhouder | TO01, TO03 | 20-12-2026 |
+| TO07 | Raamovereenkomst lening, achtergesteld, register (J13, BZ15, BZ16, ADV-V2 tot V6). | H | Jurist, Boekhouder | TO01 | 20-12-2026 |
+| TO08 | Bruikleenovereenkomst met inventaris en foto's (J12, ZB14, VB4). | H | Jurist, Oprichter | TO01 | 20-12-2026 |
+| TO09 | BZ1 tot BZ18 laten beantwoorden; BZ17 schrappen (ZB02). | H | Boekhouder | TO03 | 31-12-2026 |
+| TO10 | Oprichting: neerlegging, Staatsblad, bank, vrijstellingsregeling btw, UBO, MyMinfin (B7, B19, BZ8, BZ10). | H | Oprichter, Medebestuurder | TO01, TO06 | 31-01-2027 |
+| TO11 | Huurcontract, KBO-vestigingseenheid en polis op naam van de vzw (ZB05, ZB15, VB5). | H | Oprichter, Jurist, Boekhouder | TO02, TO10 | 31-01-2027 |
+| TO12 | Lening en bruikleen tekenen door de medebestuurder, besluit genotuleerd (VJ13). | H | Medebestuurder | TO07, TO08, TO10 | 31-01-2027 |
+| TO13 | Software van de boekhouder, rekeningindeling, kolommen van de eigen CSV (ZB03, T26, VT3). | H | Oprichter, Techniek | TO03 | 15-02-2027 |
+| TO14 | Kalender 18 maanden, noodplan, sleutelkluis met tweestapsverificatie (ZB17, ZB21, T12, VB14). | H | Oprichter | TO01, TO10 | 15-02-2027 |
+| TO15 | Klantteksten postershop concept 1, met de Belgische omzetting van de herroepingsknop (J15, J16, M29). | H | Jurist | | 31-12-2026 |
+| TO16 | Licentie concept 6 voor de Poster, met Tweede kans, woonplaats België, rijksregisternummer voor 281.45 (J19, J24, VM13, B5). | H | Jurist | | 31-12-2026 |
+| TO17 | Domeinnaam op naam van de vzw (T07, VT5). | H | Oprichter | TO10 | 15-02-2027 |
+| TO18 | Site postershop bijwerken volgens BESLISSINGEN.md "Site, bijgewerkt op 7-11-2026": herroepingspagina in voorbeeldmodus, teksten Over, Deelnemen?, Prijsopbouw, Bestellen en leveren, schakelaar Limited, Tweede kans, Public Ledger met lening en betaaldagen, Download (CSV) (T22, T28 tot T31, M31, M32, M34, M35, ZB22, VT13). | H | Techniek | | 31-01-2027 |
+| TO19 | Ontvangstbevestiging live: Cloudflare Workers en Brevo, accounts vzw (T23, ZB08). | H | Techniek | TO17, TO15 | 28-02-2027 |
+| TO20 | Klantteksten van de jurist op de site, melding "Ontwerptekst" weg (T25). | H | Techniek | TO15 | 28-02-2027 |
+| TO21 | Snipcart en Mollie in testmodus, dan echt na ondernemingsnummer en bank; proefbestellingen (T01, T13, T14). | H | Techniek | TO10 | 15-03-2027 |
+| TO22 | Leverregels en bpost-tarief voor levering en retour vastleggen; bestelminimum (T04, T06, M06, M07, BH13). | H | Oprichter, Techniek | | 31-01-2027 |
+| TO23 | Vaste kosten en break-even herrekenen met de echte huur en offerte; plan en BESLISSINGEN.md bijwerken (ZB10, ZB16, BH04, BH06). | H | Boekhouder, Compiler | TO02, TO03 | 31-01-2027 |
+| TO24 | Inktkost per afdruk meten en M nakijken (BH14). | M | Oprichter | | 30-06-2027 |
+| TO25 | Export van herroepingen, 10 jaar bewaren (ZB09, T24). | M | Techniek, Boekhouder | TO19 | 30-06-2027 |
+| TO26 | Script Auteursrechten per auteur en kwartaal (T27), vóór de eerste betaling op 15-07-2027. | M | Techniek | TO13 | 30-06-2027 |
+| TO27 | Pagina publiek domein na de check "zeker vrij in België" (M40, T32, VM11). | M | Marketing, Techniek, Jurist | | 30-06-2027 |
+| TO28 | Kassabonkaartje met de 14 dagen (M12, M41). | M | Marketing | TO18 | 31-03-2027 |
+| TO29 | Printshop: prijsformule, betalen zonder cash, melding "Geen herroepingsrecht" (J22, T33, M42). | M | Oprichter, Jurist, Techniek | | 30-06-2027 |
+| TO30 | QR per plek en meten zonder tracking; KPI's per kwartaal (M13, T16, M15, M37). | M | Marketing, Techniek | TO17 | 30-06-2027 |
+| TO31 | Verkopen aan de gastheer apart volgen (ZB20). | M | Boekhouder | TO11 | 30-09-2027 |
+| TO32 | Addendum Limited, drukplanning aan de betaaldag, schakelaar aan (J21, ZB19, T30). | L | Jurist, Boekhouder, Techniek | TO16 | eerste Limited |
+| TO33 | Ondertekening (J1 tot J11) (VJ18). | L | Jurist | | na 03-2027 |
+| TO34 | Aankoop eigen pand voorbereiden (J23). | L | Jurist, Boekhouder | TO07 | 2029 |
+| TO35 | Rest van de feedback: M08, M18 tot M20, M22, M25 tot M28, T15, T17, T19 tot T21, BH21, BH23, BH25 tot BH27, B6, B8, B9. | M / L | volgens de feedback | | |
+
+### Vervallen of samengevoegd
+
+| Code | Stand | Reden |
+| --- | --- | --- |
+| ZB06 | Vervalt | Beslist: lening blijft (VB1). BZ15, BZ16 en ADV-V3 tot V6 blijven. |
+| ZB13 | Beslist | Financiering = renteloze lening (VB2, VB3); uitvoering in TO07. |
+| ZB18, B3 | Vervalt | Kosten van vóór de oprichting worden niet ingebracht (VB9). |
+| ZB12 | Samengevoegd | In TO01 (M33, J18); PR #19 sluiten zonder merge (VJ10). |
+| BZ17 | Vervalt | Bruikleen in plaats van koop (VB4). |
+| BH02, BH03, T02 | Vervalt | Vrijstellingsregeling en M zonder btw (BESLISSINGEN.md, 5-11). |
+| BH07 | Wijzigt | Openingsbalans zonder gift in natura en zonder kosten van vóór de oprichting; alleen lening en waarborg. |
+| BH09, BH11 | Samengevoegd | In TO07 (J13, BZ16). |
+| BH10 | Vervalt | Geen giftakte: bruikleen (VB4). |
+| BH12, M02 | Vervalt | Marketing via de lening, € 25 per maand (VM9, VB13). |
+| BH15, BH16 | Vervalt | Maten Klein / Medium / Groot op een rol van 40 cm (BESLISSINGEN.md). |
+| BH17, M17 | Vervalt | 0 Limited bij de start (VB7); later in TO32. |
+| BH22 | Vervalt | Geen productie op het privéadres; polis vzw in TO11. |
+| M01 | Wijzigt | € 300 in jaar 1, niet € 600 (VM9). |
+| M14 | Vervalt | Vervangen door M37 (VM8). |
+| M30, M39 | Vervalt | Geen gratis teruggave (VM2); gastheer niet promoten (VM10). |
+| Stappenplannen v3, Techniek 1 | Vervalt | M zonder btw-opslag, maten in cm. |
 
 ## Volgorde over de rollen heen
 

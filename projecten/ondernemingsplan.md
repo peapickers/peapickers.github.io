@@ -7,6 +7,24 @@ Regels: [werkwijze](werkwijze.html) · Merk: [postershop](postershop.html)
 
 > Nieuwste item bovenaan. Niets verwijderen: voeg een nieuw item toe. Het volledige plan is een intern werkdocument; hier staan alleen de kernkeuzes.
 
+### 2026-11-07 · Compiler · Avond: oprichter drukt zelf, verdeling 50/50
+
+Vervangt: 2026-11-07 (Stand na alle antwoorden van 7 november), de productieplek, de bruikleen van de printer, de verdeling 1 · 3 · 3 en de vaste kosten.
+
+- De oprichter drukt als particulier, kosteloos, met zijn eigen printer; de vzw koopt papier en inkt. Geen productieplek. Zetel en administratie bij de medebestuurder.
+- Elke verkoopprijs 50/50: Auteursrechten (bruto) en vzw peapickers. Materiaal is een uitgave van de vzw per aankoop, niet per poster.
+- Vaste kosten € 1.615 tot 3.315, break-even 455 tot 934 Posters (€ 3,55 per Poster). Details: [beslissingen 7 november, avond](ondernemingsplan/beslissingen-2026-11-07-avond.html).
+
+### 2026-11-07 · Compiler · Stand na alle antwoorden van 7 november
+
+Vervangt: 2026-11-07 (Zelfbeheer, productieplek en zetel), de break-even van 1.070 tot 1.180; 2026-11-04 (Versie 3), de vaste kosten, de scenario's 300 / 375 / 450, "fine-art vanaf de eerste maanden", "vrijwillig 14 dagen herroeping" en de gift van het materiaal.
+
+- Alle vier de vragenlijsten zijn beantwoord (VB1–14, VJ1–20, VM1–14, VT1–14). Lening oprichter blijft, materiaal in bruikleen, 0 Limited bij de start, kosten van vóór de oprichting niet ingebracht, Tweede kans aan 80 % (50/50), geen gratis teruggave in Gent, de gastheer wordt nergens genoemd.
+- Vaste kosten € 2.965 tot 5.615 per jaar (midden € 4.115), break-even 659 tot 1.248 Posters (midden 915; met publiek domein en printshop ca. 863). Startgeld ca. € 2.145.
+- Jaar 1 (5 tot 10 Posters per maand): storting van de oprichter lopend € 178 tot 431 per maand; onder € 300 over heel 2027 alleen in het lage scenario.
+- De site van de postershop volgt dit nog niet: de bedoelde stand staat in BESLISSINGEN.md, sectie "Site, bijgewerkt op 7-11-2026".
+- Details: [stand van 7 november 2026](ondernemingsplan/stand-2026-11-07.html). Todo-lijst TO01 tot TO35: [stappenplannen](ondernemingsplan/stappenplannen.html#todo-oprichter-2026-11-07).
+
 ### 2026-11-07 · Boekhouder · Lening blijft, materiaal in bruikleen
 
 Vervangt: 2026-11-07 (Zelfbeheer, productieplek en zetel), de zin over de lening en de koop van materiaal.
