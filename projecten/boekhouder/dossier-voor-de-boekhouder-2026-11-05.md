@@ -1,6 +1,8 @@
 ---
 title: Dossier voor de boekhouder (5 november 2026)
 ---
+> **Verouderd voor boekhouder, zetel en vaste kosten.** Nieuwe versie: [dossier van 2026-11-07](dossier-voor-de-boekhouder-2026-11-07.html).
+
 > Momentopname van 2026-11-05, overgenomen uit het Claude-project Boekhouder en afgestemd op [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md). Vervangt de [versie van 2026-11-03](dossier-voor-de-boekhouder.html). Terug naar [Boekhouder](../boekhouder.html).
 
 # Postershop Peapickers: dossier voor de boekhouder (index en onzekerheden)

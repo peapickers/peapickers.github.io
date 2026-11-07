@@ -17,6 +17,11 @@ Claude-project: Techniek · Repo: [peapickers/peapickers.github.io](https://gith
 
 ## Stand van zaken
 
+### 2026-11-07 · Boekhouder · Herroepingsknop
+
+- Beslist: de webshop krijgt een herroepingsknop (verplicht sinds 19 juni 2026): goed zichtbaar, 2 stappen (formulier met naam, bestelnummer en e-mail; knop "Herroeping bevestigen") en meteen een ontvangstbevestiging per e-mail. Herroeping geldt voor Poster en Limited. Zie [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md).
+- Verzoeken en bevestigingen moeten 10 jaar bewaard kunnen worden. Actiepunten ZB08 en ZB09 in de [beslissingen van 7 november 2026](boekhouder/beslissingen-2026-11-07.html).
+
 ### 2026-11-05 · Technieker · BESLISSINGEN.md gaat voor
 
 - Voor de postershop geldt [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md) boven alles wat ouder is: maten Klein / Medium / Groot, M = papier + inkt zonder btw-opslag, prijs 7 × M zonder btw op de verkoop, verdeling 1 · 3 · 3, Limited in plaats van fine-art.

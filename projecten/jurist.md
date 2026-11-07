@@ -17,6 +17,12 @@ Claude-project: Jurist · Repo: [peapickers/peapickers.github.io](https://github
 
 ## Stand van zaken
 
+### 2026-11-07 · Boekhouder · Herroepingsrecht en vragen voor de advocaat
+
+- Beslist: 14 dagen herroepingsrecht voor Poster en Limited, een herroepingsknop op de webshop, verzoeken 10 jaar bewaren. Zie [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md).
+- Een vragenlijst voor een advocaat consumentenrecht of de jurist is klaar (intern): ADV-A7, A8, H2, W1 tot W3, L1 tot L3, V1 tot V7, U1 tot U3. Overzicht en actiepunten in de [beslissingen van 7 november 2026](boekhouder/beslissingen-2026-11-07.html).
+- Een "niet-uitvoerende" bestuurder bestaat niet in een vzw; een medebestuurder blijft nodig.
+
 ### 2026-11-04 · Jurist · Doorlichting van de repo's
 
 - [Feedback jurist op ondernemingsplan v2](ondernemingsplan/feedback/jurist.html): de juridische doorlichting van alle peapickers-sites, met kleurcode, tegenstrijdigheden en 13 nieuwe vragen voor de jurist.

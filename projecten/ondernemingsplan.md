@@ -7,6 +7,15 @@ Regels: [werkwijze](werkwijze.html) · Merk: [postershop](postershop.html)
 
 > Nieuwste item bovenaan. Niets verwijderen: voeg een nieuw item toe. Het volledige plan is een intern werkdocument; hier staan alleen de kernkeuzes.
 
+### 2026-11-07 · Oprichter · Zelfbeheer, productieplek en zetel
+
+Vervangt: 2026-11-05 (Zetel, productie en boekhouder) en de todo oprichter van 2026-11-05 in de stappenplannen, punten 1 tot 3 en 6.
+
+- [Beslissingen van 7 november 2026](boekhouder/beslissingen-2026-11-07.html): boekhouding in zelfbeheer met een jaarlijkse controle door een ITAA-boekhouder; productie op een paar m² bij een bestaand bedrijf voor maximaal € 150 per maand; zetel liefst daar.
+- In een extern pand gedeeld met andere ondernemers vervallen de zetel bij familie, de lening van de oprichter en de koop van zijn materiaal. Een medebestuurder blijft nodig.
+- 14 dagen herroepingsrecht voor Poster en Limited, met herroepingsknop.
+- Break-even ruw 1.070 tot 1.180 posters per jaar met de productieplek erbij. Herrekenen (ZB10).
+
 ### 2026-11-05 · Oprichter · Twee extra geldstromen: publiek domein en printshop
 
 Vervangt: 2026-11-04 (Versie 3), de regel "Niet in 2027: printshop, werken uit het publiek domein".
