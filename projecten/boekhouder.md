@@ -17,6 +17,13 @@ Claude-project: Boekhouder · Repo: [peapickers/peapickers.github.io](https://gi
 
 ## Stand van zaken
 
+### 2026-11-07 · Boekhouder · Productielocatie in Gent
+
+- [Productielocatie in Gent](boekhouder/productielocatie-gent.html): beslissingen L1 – L6 en hoe we een plek zoeken.
+- Beslist: een paar m² bij een bestaand bedrijf of organisatie dat mag onderverhuren, voor een vaste huur van maximaal € 150 per maand, alles inbegrepen. Geen eigen pand en geen onderverhuur door de vzw. Veilige opslag, toegang buiten de openingsuren (24/7 bespreekbaar), alles op papier en geregistreerd.
+- De zetel komt bij een familielid; liever op het adres van de productieplek, als dat kan. Een atelier in De Wasserij valt af.
+- Prints voor de gastheer: hij koopt ze tegen de vaste prijs, los van de huur.
+
 ### 2026-11-05 · Boekhouder · Afgestemd op BESLISSINGEN.md
 
 Vervangt: de prijzen, maten en de btw-keuze in de documenten van 2026-11-03, en 2026-11-05 (Prijzen in het dossier verouderd): het break-even is herrekend.
