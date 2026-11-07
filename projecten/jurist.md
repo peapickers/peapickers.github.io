@@ -17,6 +17,13 @@ Claude-project: Jurist · Repo: [peapickers/peapickers.github.io](https://github
 
 ## Stand van zaken
 
+### 2026-11-07 · Jurist · Nieuwe bestandsnaam voor de voorbeeldlicentie
+
+Vervangt: 2026-11-07 (Tweede kans in de voorbeeldlicentie), alleen de bestandsnaam.
+
+- Beslissing van Jonas: de voorbeeldlicentie heet voortaan `Ontwerp-Licentieovereenkomst-voorbeeld-poster-en-oplage-vX.pdf`, zonder datum. X is het versienummer.
+- Versie 5 heeft die naam al. Oudere versies (v1 tot v4) houden hun oude naam als archief.
+
 ### 2026-11-07 · Jurist · Tweede kans in de voorbeeldlicentie
 
 - De voorbeeldlicentie (Poster en Limited) heeft een versie 5, intern in de projectbestanden. Versie 4 blijft bestaan.
