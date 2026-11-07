@@ -17,6 +17,17 @@ Claude-project: Boekhouder · Repo: [peapickers/peapickers.github.io](https://gi
 
 ## Stand van zaken
 
+### 2026-11-07 · Boekhouder · Antwoorden: de lening blijft
+
+Vervangt: 2026-11-07 (Beslissingen: zelfbeheer, zetel, lening) en D8 in de [beslissingen van 7 november 2026](boekhouder/beslissingen-2026-11-07.html), voor de lening.
+
+- De oprichter beantwoordde VB1 tot VB8 in de [vragenlijst](boekhouder/vragenlijst-2026-11-07.html).
+- **De renteloze lening van de oprichter als particulier blijft**, ook bij een plek bij een bestaand bedrijf: voor het startgeld, het tekort van het eerste jaar en een dreigend negatief saldo. Zonder vaste termijn, zonder rente; terugbetalingen worden genoteerd. BZ15 en BZ16 blijven dus vragen voor de boekhouder.
+- Doel op lange termijn: vanaf 2029 een eigen pand kopen, waar de vzw haar zetel heeft en produceert.
+- **Materiaal: bruikleen** in plaats van koop. De oprichter blijft eigenaar; schriftelijke overeenkomst met inventaris (ZB14). BZ17 (koop) vervalt.
+- Eén verzekeringspolis op naam van de vzw (VB5). Huurwaarborg volgens het gebruik: 2 maanden, liefst geblokkeerd of als bankgarantie (VB6). Vaste betaaldag: de 15de van januari, april, juli en oktober (VB8).
+- Nog open: VB7 (hoeveel Limited bij de start) en VB9 tot VB14.
+
 ### 2026-11-07 · Boekhouder · Vragenlijst: financiering zonder lening
 
 Vervangt: 2026-11-07 (Beslissingen: zelfbeheer, zetel, lening), alleen de raming van de vaste kosten; en 2026-11-04 (Advies: een boekhouder kiezen), alleen de termijn in B3.
