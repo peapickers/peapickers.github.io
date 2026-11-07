@@ -17,6 +17,14 @@ Claude-project: Jurist · Repo: [peapickers/peapickers.github.io](https://github
 
 ## Stand van zaken
 
+### 2026-11-07 · Jurist · Alle vragen beantwoord
+
+Vervangt: 2026-11-07 (Antwoorden op de vragenlijst), wat daar nog open stond, en het antwoord op VJ1 voor de volgorde van de experts.
+
+- Jonas beantwoordde VJ8 en VJ15 tot VJ20 in de [vragenlijst jurist](jurist/vragenlijst-2026-11-07.html). Voorstel gevolgd voor VJ8 en VJ15 tot VJ18.
+- Tweedehandsafdeling (VJ19): teruggestuurde Posters aan 80 % van de oorspronkelijke prijs, opbrengst 50/50 tussen Auteursrechten en vzw peapickers. vzw peapickers draagt het verlies. Nog op te nemen in licentie concept 6 en BESLISSINGEN.md (J24).
+- Experts (VJ20): eerst Cultuurloket, met de vraag aan wie elke vraag moet: jurist, advocaat of boekhouder.
+
 ### 2026-11-07 · Jurist · ADV-codes nagekeken
 
 Vervangt: 2026-11-07 (Gevolgen van de beslissingen van 7 november), de veronderstelling over de ADV-codes.
