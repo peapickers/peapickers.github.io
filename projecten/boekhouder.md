@@ -17,6 +17,17 @@ Claude-project: Boekhouder · Repo: [peapickers/peapickers.github.io](https://gi
 
 ## Stand van zaken
 
+### 2026-11-07 · Boekhouder · Antwoorden tweede ronde: start zonder Limited
+
+Vervangt: 2026-11-07 (Antwoorden: de lening blijft), voor het startgeld en het eerste jaar.
+
+- Alle vragen in de [vragenlijst](boekhouder/vragenlijst-2026-11-07.html) zijn beantwoord (VB1 tot VB14).
+- **Start met 0 Limited** (VB7). Startgeld daalt tot ca. € 2.130.
+- **Geen kosten van vóór de oprichting**: de vzw boekt pas vanaf de oprichting (VB9). Huur en verzekering pas tekenen op naam van de vzw. ZB18 vervalt.
+- Raming ITAA-boekhouder € 1.000 per jaar met btw, vork € 600 tot 1.500 (VB10). De huur van max. € 150 dekt huur, energie, verwarming en internet (VB11).
+- **Eerste jaar** (VB12): 5 tot 10 Posters, 1 publiek domein en 0 Limited per maand, printshop € 10 tot 20 winst. De vzw draait elke maand verlies; de maandelijkse renteloze lening van de oprichter is het break-even bedrag. Onder € 300 per maand lukt in het lage scenario, of in het midden zonder marketing in jaar 1. Zie § 4 van de vragenlijst.
+- Lening als "lening oprichter" per maand in de Public Ledger, bruikleen als lijn zonder bedrag (VB13). Noodplan bij uitval volgens het voorstel (VB14, ZB21).
+
 ### 2026-11-07 · Boekhouder · Antwoorden: de lening blijft
 
 Vervangt: 2026-11-07 (Beslissingen: zelfbeheer, zetel, lening) en D8 in de [beslissingen van 7 november 2026](boekhouder/beslissingen-2026-11-07.html), voor de lening.
