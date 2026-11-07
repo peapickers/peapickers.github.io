@@ -124,6 +124,16 @@ Vervangt: 2026-11-02 (Prijs en Public Ledger), voor wat de verdeling betreft.
 
 ## Technieker
 
+### 2026-11-07 · Technieker · Site volgt de beslissingen van 7 november (code volgt)
+
+Aanvulling op: 2026-11-05 (Site volgt BESLISSINGEN.md). Op de site is nog niets veranderd. De bedoelde stand staat in de sectie Site van [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md) en in de [vragenlijst techniek](techniek/vragenlijst-2026-11-07.html).
+
+- Herroepingsknop in elke footer, pagina Herroepen met 2 stappen en meteen een ontvangstbevestiging per e-mail; 10 jaar bewaren.
+- 0 Limited bij de start: keuze en filtergroep verborgen. Tweede kans als filtergroep met het label "teruggestuurd", 80 %, 50/50.
+- Betaaldag Auteursrechten de 15de van januari, april, juli en oktober, eerst 15 juli 2027; rubriek "lening oprichter" per maand in de Public Ledger, zonder naam.
+- Alleen auteurs in België. Geen zetel, adres of gastheer op de site.
+
+
 ### 2026-11-05 · Technieker · Site volgt BESLISSINGEN.md
 
 - Alle commentaar van Jonas op de werkende kopie is verwerkt en gemerged (postershop PR #10 tot #18). De site volgt nu BESLISSINGEN.md: maten Klein / Medium / Groot, M zonder btw-opslag, geen btw op de verkoop, Poster en Limited, filter NSFW (18+), pagina's Prijsopbouw, Public Ledger, Over, Bestellen en leveren, Deelnemen?
