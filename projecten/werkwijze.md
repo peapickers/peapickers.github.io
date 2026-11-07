@@ -72,6 +72,15 @@ Werk volgens archiefvorming:
 
 ## Gemeenschappelijk
 
+### 2026-11-07 · Boekhouder · vzw: productieplek, zetel en bestuur
+
+Vervangt: 2026-11-04 (vzw peapickers), de zinnen over de niet-uitvoerend bestuurder en over printer en voorraad op het privéadres.
+
+- Productie en voorraad komen op een paar m² bij een bestaand bedrijf of organisatie, voor maximaal € 150 per maand alles inbegrepen. Niet op het privéadres van de oprichter.
+- De zetel komt liefst op het adres van de productieplek, anders bij een familielid met schriftelijke toestemming.
+- Een "niet-uitvoerende" bestuurder bestaat niet in een vzw. Er blijven minstens 2 leden en 2 bestuurders nodig.
+- Details: [beslissingen van 7 november 2026](boekhouder/beslissingen-2026-11-07.html) en [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md). Open vragen over geld en materiaal: [vragenlijst boekhouder](boekhouder/vragenlijst-2026-11-07.html).
+
 ### 2026-11-04 · Kern · vzw peapickers
 
 Vervangt: 2026-11-02 (Huisstijl en samenhang), alleen de zin over de vzw.

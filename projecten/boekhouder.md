@@ -17,6 +17,18 @@ Claude-project: Boekhouder · Repo: [peapickers/peapickers.github.io](https://gi
 
 ## Stand van zaken
 
+### 2026-11-07 · Boekhouder · Vragenlijst: financiering zonder lening
+
+Vervangt: 2026-11-07 (Beslissingen: zelfbeheer, zetel, lening), alleen de raming van de vaste kosten; en 2026-11-04 (Advies: een boekhouder kiezen), alleen de termijn in B3.
+
+- [Vragenlijst voor de oprichter](boekhouder/vragenlijst-2026-11-07.html): VB1 tot VB14, waarvan 8 die de webshop van maart 2027 tegenhouden (★). Nieuwe actiepunten ZB13 tot ZB22.
+- Vervalt de lening (D8), dan staat nergens waarmee de vzw het startgeld (ruw € 2.000 tot 3.000 vóór de eerste verkoop) en het tekort van het eerste jaar betaalt. Voorstel: toch een kleine renteloze lening, of giften; de oprichter kiest (VB2, VB3).
+- Vervalt de koop van materiaal, dan blijft de printer van de oprichter. Voorstel: een schriftelijke bruikleen en één polis op naam van de vzw, ook voor goederen in bruikleen (VB4, VB5).
+- Vaste kosten in zelfbeheer, met productieplek: € 3.250 tot 5.900 per jaar, break-even ruw 723 tot 1.312 posters. Middenwaarde € 4.400, ongeveer 978 posters. Nog na te rekenen met de offerte (ZB10).
+- Limited betaalt Auteursrechten bij het drukken: elke drukbeurt vraagt een eigen 273S. Voorstel: drukken vlak vóór de vaste kwartaalbetaaldag (VB7, VB8).
+- Verbintenissen van vóór de oprichting moet de vzw binnen 3 maanden overnemen (art. 2:2 WVV), niet 2 maanden zoals B3 zegt. Te bevestigen (ZB18).
+- Kalender van de eerste 18 maanden in de vragenlijst, § 3.
+
 ### 2026-11-07 · Boekhouder · Beslissingen: zelfbeheer, zetel, lening
 
 Vervangt: 2026-11-05 (Afgestemd op BESLISSINGEN.md), voor de rol van de boekhouder en de vaste kosten.
