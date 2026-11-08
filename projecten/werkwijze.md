@@ -26,6 +26,17 @@ Elk merk van peapickers heeft hier één pagina: [Archief](archief.html), [Print
 
 Git bewaart daarnaast elke versie, met datum.
 
+## Beslissingen: nieuwe werkwijze (2026-11-08)
+
+### 2026-11-08 · Compiler · Eén beslissingenregister, geen momentopnames meer
+
+Vervangt: de aparte momentopnames `beslissingen-JJJJ-MM-DD.md` per project (blijven als archief staan).
+
+- Elke beslissing is **één regel** in [het beslissingenregister](beslissingen.html), met code `JJJJ-MM-DD_Project<nr>` (bv. `2026-11-07_Jurist4`), een korte titel in gewone woorden en wat er geldt.
+- Gebruik in tekst en antwoorden nooit de kale code, altijd de titel (de code hooguit tussen haakjes). Oude codes (D1, V1, VB3, ZB01, H ...) niet meer gebruiken.
+- Cijfers en uitwerking blijven in [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md); het register verwijst ernaar en zegt of een beslissing er al in staat.
+- Controle zonder Claude: `python3 scripts/beslissingen-check.py`.
+
 ## Instructietekst voor elk Claude-project
 
 ### 2026-11-03 · Technieker · Projecten per rol
@@ -47,6 +58,7 @@ Werk volgens archiefvorming:
 - Vat samen en verwijs. Cijfers en instellingen blijven in hun eigen bestand.
 - Zet nooit klantgegevens, gegevens van makers, geheimen, wachtwoorden, offertes of privébedragen in de repo. Ze is publiek.
 - Een push naar main staat meteen online. Commitbericht: "Projectpagina <project>: wat er veranderde".
+- Beslissingen (vanaf 2026-11-08): voeg één regel toe aan projecten/beslissingen.md, code JJJJ-MM-DD_<Project><nr>, korte titel in gewone woorden. Geen aparte momentopname meer. Gebruik in antwoorden nooit kale codes, altijd de titel.
 ```
 
 ### 2026-11-02 · Technieker · Eerste versie

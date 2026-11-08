@@ -1,6 +1,8 @@
 ---
 title: Beslissingen 7 november 2026, avond
 ---
+> **Archief (2026-11-08).** Verwerkt in het [beslissingenregister](../beslissingen.html); daar staan de titels en de oude codes. Hoef je niet meer te lezen.
+
 > Momentopname van 2026-11-07 (avond), Claude-project Ondernemingsplan (compiler), na de antwoorden van de oprichter op de vragenlijst V1 tot V8. Gaat voor op de [stand van 7 november 2026](stand-2026-11-07.html) en op de beslissingen van die middag. Nog over te nemen in [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md). Terug naar [ondernemingsplan](../ondernemingsplan.html). Algemene informatie, geen fiscaal of juridisch advies.
 
 # Beslissingen 7 november 2026, avond
