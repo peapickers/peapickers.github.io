@@ -7,6 +7,13 @@ Regels: [werkwijze](werkwijze.html) · Merk: [postershop](postershop.html)
 
 > Nieuwste item bovenaan. Niets verwijderen: voeg een nieuw item toe. Het volledige plan is een intern werkdocument; hier staan alleen de kernkeuzes.
 
+### 2026-11-08 · Jurist · Beslissingen van 8 november
+
+Vervangt: 2026-11-07 (Avond), voor de prijs (7 × M en 4 × M blijven tot het marketingonderzoek) en voor de lening.
+
+- Verdeling 50/50 geldt nu al. Echte lening, per uitgave, geen automatische kwijtschelding. De vzw is aansprakelijk, behalve bij opzet en grove fout.
+- Open punten gaan naar Cultuurloket via de [vragenlijst boekhouder](boekhouder/vragenlijst-2026-11-08.html). Details: [beslissingen 8 november](ondernemingsplan/beslissingen-2026-11-08.html).
+
 ### 2026-11-07 · Compiler · Avond: oprichter drukt zelf, verdeling 50/50
 
 Vervangt: 2026-11-07 (Stand na alle antwoorden van 7 november), de productieplek, de bruikleen van de printer, de verdeling 1 · 3 · 3 en de vaste kosten.

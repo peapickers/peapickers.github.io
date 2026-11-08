@@ -17,6 +17,14 @@ Claude-project: Boekhouder · Repo: [peapickers/peapickers.github.io](https://gi
 
 ## Stand van zaken
 
+### 2026-11-08 · Jurist · Nieuwe vragenlijst en Cultuurloket-rubriek
+
+Vervangt: 2026-11-07 (Antwoorden tweede ronde), voor de lening (nu een echte lening, per uitgave), het materiaal (geen bruikleen meer, de vzw koopt papier en inkt) en de zetel (bij de medebestuurder).
+
+- Nieuwe [vragenlijst van 8 november](boekhouder/vragenlijst-2026-11-08.html) (VBN1 tot VBN19), met rubriek "Cultuurloket (niet afgewerkt)" (C1 tot C12) en het stappenplan voor het bewijs van de lening.
+- Prijsonderzoek (7 × M en 4 × M blijven tot marketing het bevestigt) staat als VBN19.
+- De [beslissingen van 8 november](ondernemingsplan/beslissingen-2026-11-08.html) bevatten de controle van de antwoorden.
+
 ### 2026-11-07 · Boekhouder · Antwoorden tweede ronde: start zonder Limited
 
 Vervangt: 2026-11-07 (Antwoorden: de lening blijft), voor het startgeld en het eerste jaar.
