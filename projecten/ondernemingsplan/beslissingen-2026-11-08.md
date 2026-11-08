@@ -1,6 +1,8 @@
 ---
 title: Beslissingen 8 november 2026
 ---
+> **Archief (2026-11-08).** Verwerkt in het [beslissingenregister](../beslissingen.html); daar staan de titels en de oude codes. Hoef je niet meer te lezen.
+
 > Momentopname van 2026-11-08 (ochtend), Claude-project Jurist, na de antwoorden van de oprichter op de tien vragen van 7 november (avond). Vult de [beslissingen van 7 november, avond](beslissingen-2026-11-07-avond.html) aan en gaat daarvoor waar ze botsen. Nog niet overgenomen in [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md), de licentie, de statuten of de site. Terug naar [ondernemingsplan](../ondernemingsplan.html). Algemene informatie, geen fiscaal of juridisch advies. Geen namen of privégegevens op deze pagina.
 
 # Beslissingen 8 november 2026

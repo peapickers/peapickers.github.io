@@ -1,6 +1,8 @@
 ---
 title: Beslissingen van 7 november 2026
 ---
+> **Archief (2026-11-08).** Verwerkt in het [beslissingenregister](../beslissingen.html); daar staan de titels en de oude codes. Hoef je niet meer te lezen.
+
 > Momentopname van 2026-11-07, overgenomen uit het Claude-project Boekhouder, na toestemming van de oprichter. Terug naar [Boekhouder](../boekhouder.html). Voor prijzen, maten, producten en herroepingsrecht geldt [BESLISSINGEN.md](https://github.com/peapickers/postershoppeapickers/blob/main/BESLISSINGEN.md) van de postershop. Algemene informatie, geen fiscaal of juridisch advies.
 
 # Beslissingen van 7 november 2026
