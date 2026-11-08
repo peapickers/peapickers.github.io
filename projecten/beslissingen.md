@@ -43,3 +43,4 @@ Eén plek met alle beslissingen, in gewone woorden. Elke regel heeft een code `J
 | 2026-11-08_Jurist2 | Lening is een echte lening | Gestort per uitgave, met register. | geldt | | ja | |
 | 2026-11-08_Jurist3 | Aansprakelijkheid | De vzw is aansprakelijk, behalve bij opzet of grove fout van de oprichter. | geldt | | ja | |
 | 2026-11-08_Jurist4 | Open punten naar Cultuurloket | Zij zeggen welke expert antwoordt. | open | | ja | |
+| 2026-11-08_Techniek1 | Locatie aankopen vanaf 2029 | Aanvulling op Eigen pand vanaf 2029 (2026-11-07_Compiler8). De opbouw van liquide middelen dient om, ten vroegste in 2029, een locatie aan te kopen voor expo's, tentoonstellingen en workshops die passen bij de sociaal-culturele doelen. Enkel met eigen middelen, nooit met krediet. Op de sites uitleggen bij Over en Prijsopbouw; details (kopen of ook huren, hoe het 7M-verhaal erbij past) zijn nog open bij de oprichter. | geldt | | nee | |
