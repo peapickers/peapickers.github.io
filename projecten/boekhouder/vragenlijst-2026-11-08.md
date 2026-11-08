@@ -5,7 +5,7 @@ title: Vragenlijst boekhouder (8 november 2026)
 
 # Vragenlijst boekhouder, versie 8 november 2026
 
-Datum: 2026-11-08 · Rol: Jurist (voor de boekhouder) · Versie 2 · Codes: VBN1 tot VBN19 (vragen), C1 tot C12 (Cultuurloket, niet afgewerkt)
+Datum: 2026-11-08 · Rol: Jurist (voor de boekhouder) · Versie 2 · Codes: VBN1 tot VBN19 (vragen), C1 tot C15 (Cultuurloket, niet afgewerkt)
 
 **Kort.** De oprichter drukt als particulier, kosteloos, met zijn eigen printer. De vzw koopt papier en inkt. Elke verkoopprijs wordt 50/50 verdeeld; de lening is een echte lening, gestort per uitgave. Hieronder staan de vragen over wat de boekhouder moet weten of bevestigen. De antwoorden van de oprichter van 8 november staan in de laatste kolom, zonder namen of bedragen. De rubriek C bundelt wat Cultuurloket nog moet beoordelen.
 
@@ -65,6 +65,9 @@ Deze rubriek blijft open tot de ondernemingscompiler. Elke nieuwe vragenlijst pe
 | C9 | Vertrekken verzendingen vanaf de productie in strijd met V2? | VBN17 | Jurist |
 | C10 | Welke vraag gaat naar welke expert? | VJ20 | Cultuurloket |
 | C11 | Zijn de vragen over de klantvoorwaarden, de herroepingsknop en de uitzondering voor maatwerk bij de printshop nog open? | J15 tot J22 | Advocaat consumentenrecht |
+| C13 | Geldt voor een print van de klant zijn eigen foto (printshop) de uitzondering voor op maat gemaakte goederen, zodat het herroepingsrecht van 14 dagen niet geldt? Mag de site dat zo zeggen, met de uitleg in een tooltip bij de melding "Geen herroepingsrecht" boven de bestelknop en op de bon? | Oprichter 2026-11-08 | Cultuurloket, advocaat consumentenrecht |
+| C14 | Mag de vzw voor de aankoop van een locatie (ten vroegste 2029) leningen aangaan bij bestuurders en waarschijnlijk een bank, zonder in strijd te komen met "geen winst, geen schuld" voor de werking? | Oprichter 2026-11-08 | Boekhouder, jurist |
+| C15 | Gedeelde leverronde (€ 1 per deelnemer, € 10 per ronde): mag de vzw dit innen en uitbetalen aan wie levert, zonder vergoeding of voordeel voor de oprichter (V2)? | Oprichter 2026-11-08 | Boekhouder, jurist |
 | C12 | Wat is er nog open uit de volgende projecten? | Wordt aangevuld | Cultuurloket |
 
 ## Todo voor de oprichter
