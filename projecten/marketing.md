@@ -17,6 +17,14 @@ Claude-project: Marketing · Repo: [peapickers/peapickers.github.io](https://git
 
 ## Stand van zaken
 
+### 2026-11-08 · Marketing · Vragenlijst na de beslissingen van 7 november (avond)
+
+Vervangt: 2026-11-07 (Antwoorden op de vragenlijst) voor het break-evendoel van 85 per maand, de oproep medebestuurder met zetel, het A4 voor een plek (M36), "bruikleen" en "3 van de 7 delen".
+
+- Antwoorden op VM15 tot VM22 en open vragen VM16 en VM21b, VM23 tot VM30: zie de [vragenlijst van 8 november](marketing/vragenlijst-2026-11-08.html).
+- Nieuw doel: 50 Posters per maand (zekerheid middel). Budget € 25 per maand.
+- Niets op de site is aangepast; de open vragen blijven open tot Jonas antwoordt.
+
 ### 2026-11-07 · Marketing · Antwoorden op de vragenlijst
 
 Vervangt: 2026-11-07 (Beslissingen van 7 november), de zin over een poster met QR-code bij de gastheer en het voorstel om in Gent gratis terug te geven.
